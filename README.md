@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-1. [Overview](#)
-2. [User Experience Design (UXD)](#)
+1. [Overview](#overview)
+2. [User Experience Design (UXD)](#user-experience-design-uxd)
    1. [Project Goals](#)
    2. [Strategy](#)
    3. [Scope](#)
@@ -37,3 +37,6 @@ interactive that allows visitors to actively engage with data. It also completes
 with data as presented through components such as HTML, CSS & JavaScript. The core attention of this 
 project however, is to construct an interactive front-end website that responds to user's actions which 
 revolves around a sense of engagement.
+
+# User Experience Design
+
