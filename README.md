@@ -10,7 +10,7 @@
 
 1. [Overview](#overview)
 2. [User Experience Design (UXD)](#user-experience-design-uxd)
-   1. [Project Goals](#)
+   1. [Project Goals](#project-goals)
    2. [Strategy](#)
    3. [Scope](#)
       - [User Stories](#)
@@ -40,3 +40,4 @@ revolves around a sense of engagement.
 
 # User Experience Design
 
+## Project Goals
