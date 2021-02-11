@@ -27,3 +27,13 @@
 6. [Testing](#)
 7. [Deployment](#)
 8. [Credits](#)
+
+# Overview
+
+On approach to the second milestone project, which derives on the learning of exploring through the 
+fundamentals of JavaScript, the focus has progressively transitioned from a static site to one that is 
+interactive that allows visitors to actively engage with data. It also completes what's known as the 
+'trinity of web development' whereby this forms the basis of front-end development that concerns itself 
+with data as presented through components such as HTML, CSS & JavaScript. The core attention of this 
+project however, is to construct an interactive front-end website that responds to user's actions which 
+revolves around a sense of engagement.
