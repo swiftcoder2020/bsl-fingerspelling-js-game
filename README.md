@@ -42,3 +42,9 @@ front-end website that responds to user's actions which revolves around a sense 
 
 ## Project Goals
 
+The sole purpose into this website is one that derived through a discussion with a tutor who had 
+expressed an interest in a subject that relates to oneself and was requesting a resource into it which 
+lead to an identifiable moment of inspiration into a conceptual idea of a project that focuses on an 
+interactive front-end website. This was established as an opportunity into the goal of second project, 
+which is to develop a memory matching game that is educational to the users, specifically aiming to raise 
+awareness of British Sign Language (abbreviated as BSL).
