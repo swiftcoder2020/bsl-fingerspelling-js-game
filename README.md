@@ -47,4 +47,6 @@ expressed an interest in a subject that relates to oneself and was requesting a 
 lead to an identifiable moment of inspiration into a conceptual idea of a project that focuses on an 
 interactive front-end website. This was established as an opportunity into the goal of second project, 
 which is to develop a memory matching game that is educational to the users, specifically aiming to raise 
-awareness of British Sign Language (abbreviated as BSL).
+awareness of British Sign Language (abbreviated as BSL). This in my view was an excellent idea to utilise 
+the functionality & capability of the JavaScript language that would enable users with a vested interest 
+to practise and improve on their fingerspelling skills.
