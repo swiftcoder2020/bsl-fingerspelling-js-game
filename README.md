@@ -64,4 +64,10 @@ pandemic.
 
 To summarise the website's goals:
 
-* To demonstrate 
+* To demonstrate the implementation of acquiring a new skill in JavaScript whilst supplementing HTML & 
+CSS to the design & development of the project
+* To provide an interactive educational game for interested users with the objective of achieving in 
+acquiring the knowledge and in addition the ability to fingerspell or action in motion the alphabet in 
+BSL
+* To construct a game that elicits a positive user experience in a way that it encourages new/returning 
+visitors to continue the learning experience in an engaging way that is resourceful to them
