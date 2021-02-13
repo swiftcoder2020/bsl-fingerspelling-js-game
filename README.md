@@ -126,9 +126,13 @@ complete the game
 
 These items are above are determined in the below table:
 
-| Item | Importance | Viability | Score |
-| ---- | ---------- | --------- | ----- |
-
+| Item | Description                     | Importance | Viability | Score |
+| ---- | ------------------------------- | ---------- | --------- | ----- |
+| 1.   | Introductory heading section    | 3          | 5         | 8     |
+| 2.   | Interactive & engaging BSL game | 
+| 3.   |
+| 4.   |
+| 5.   |
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
 as display and responsiveness -->
