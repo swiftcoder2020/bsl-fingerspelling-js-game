@@ -64,12 +64,15 @@ under the current times of the pandemic whereby it encourages potential users to
 considerate and thoughtful in helpfulness by engaging to communicate with them to break through the social 
 barriers or assisting them in their difficulties.
 
+Also research was undertaken to establish if such a game exists which will form the basis of this project 
+and it was with luck that one has been developed through a separate website.
+
 To summarise the website project's goals:
 
 * To demonstrate the implementation of acquiring a new skill in JavaScript whilst supplementing the 
 experience of HTML & CSS to the design & development of the project
-* To provide an interactive educational game for interested users with the objective of achieving in 
-acquiring the knowledge and in addition the ability to fingerspell or action in motion the alphabet in 
+* To provide an interactive educational game to target interested users with the objective of achieving 
+in acquiring the knowledge and in addition the ability to fingerspell or action in motion the alphabet in 
 BSL
 * To construct a game that elicits a positive user experience in a way that it encourages new/returning 
 visitors to continue the learning experience in an engaging way that is resourceful to them
@@ -98,7 +101,6 @@ the ability to learn so that I can demonstrate it by motion
 * As a user, I expect to be able to access contact details into the owner of the website, should I wish 
 to reach out by raising queries, commend the game by providing feedback
 * As a user, I would like to explore any other projects that the developer has constructed
-
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well
 as display and responsiveness -->
