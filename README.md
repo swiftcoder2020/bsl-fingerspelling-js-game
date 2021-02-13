@@ -86,8 +86,10 @@ range of devices
 to how the game is to be played and the learning outcome of it
 * As a user, I want to comfortably be allowed to commence the game when I am prepared and it is suitably 
 convenient
-* As a user, I expect to see an image depicting a sign that represents a letter in sequence to form a 
-word and be assisted in a resourceful manner when there is a moment of doubt
+* As a user, I expect to see a clear image depicting a sign that represents a letter in sequence to form 
+a word and have the ability to duplicate the sign
+* As a user, I expect to be provided with a resourceful content that would assist me when there is a 
+moment of doubt that can easily be referred to
 * As a user, I want the game to determine whether my thought was correct or incorrect
 * As a user, I expect the game to provide a way to restart it subsequent to the current play mode upon 
 of it ending
