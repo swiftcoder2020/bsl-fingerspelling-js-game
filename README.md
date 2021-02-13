@@ -15,7 +15,7 @@
    3. [Scope](#scope)
       - [User Stories](#user-stories)
       - [Features](#features)
-   4. [Structure](#)
+   4. [Structure](#structure)
       - [Interaction Design (IXD)](#)
       - [Information Architecture](#)
    5. [Skeleton](#)
@@ -143,7 +143,7 @@ These items are above are determined in the below table:
 | 12.  | Construct game score             | 3          | 4         | 7     |
 | 13.  | Concluding game message          | 4          | 4         | 8     |
 
-
+## Structure
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
 as display and responsiveness -->
