@@ -78,6 +78,24 @@ visitors to continue the learning experience in an engaging way that is resource
 
 ### User Stories
 
+* As a user, I want to be able to easily understand the sole purpose of the website and comprehend the 
+rationale into why it has been built and developed
+* As a user, I want to be assured that the website overall and its content can be viewed clearly on a 
+range of devices
+* As a user, I expect to be given instructions as guidance into the rules which is easily understood as 
+to how the game is to be played and the learning outcome of it
+* As a user, I want to comfortably be allowed to commence the game when I am prepared and it is suitably 
+convenient
+* As a user, I expect to see an image depicting a sign that represents a letter in sequence to form a 
+word and be assisted in a resourceful manner when there is a moment of doubt
+* As a user, I want the game to determine whether my thought was correct or incorrect
+* As a user, I expect the game to provide a way to restart it subsequent to the current play mode upon 
+of it ending
+* As a user, I would like to be able to visually view my score in the current game to gain confidence in 
+the ability to learn
+* As a user, I expect to be able to access contact details into the owner of the website, should I wish 
+to reach out by raising queries, commend the game by providing feedback
+* As a user, I would like to explore any other projects that the developer has constructed
 
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well
