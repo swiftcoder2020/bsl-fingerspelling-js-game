@@ -57,15 +57,17 @@ skills.
 
 The construction into this website serves as a purpose of demonstrating the knowledge and skills obtained 
 within the programming language of JavaScript and providing new/returning users the key to an open door 
-as an introduction into how the deaf society communicates to one another that is akin to the Code 
-Institute's 5 day coding challenge. The value in this project would be the hope to influence a positive 
-impact within this community, especially and yet significantly more so under the current times of the 
-pandemic. 
+as an introduction, that is akin to the Code Institute's 5 day coding challenge, into the community of 
+the deaf society such as how they communicate with to one another. The value in this project would be the 
+hope to influence a positive impact towards this community, especially and yet significantly more so 
+under the current times of the pandemic whereby it encourages potential users to use the quality of being 
+considerate and thoughtful in helpfulness by engaging to communicate with them to break through the social 
+barriers or assisting them in their difficulties.
 
-To summarise the website's goals:
+To summarise the website project's goals:
 
-* To demonstrate the implementation of acquiring a new skill in JavaScript whilst supplementing HTML & 
-CSS to the design & development of the project
+* To demonstrate the implementation of acquiring a new skill in JavaScript whilst supplementing the 
+experience of HTML & CSS to the design & development of the project
 * To provide an interactive educational game for interested users with the objective of achieving in 
 acquiring the knowledge and in addition the ability to fingerspell or action in motion the alphabet in 
 BSL
