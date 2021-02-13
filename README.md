@@ -14,6 +14,7 @@
    2. [Strategy](#strategy)
    3. [Scope](#scope)
       - [User Stories](#user-stories)
+      - [Features](#features)
    4. [Structure](#)
       - [Interaction Design (IXD)](#)
       - [Information Architecture](#)
@@ -104,5 +105,26 @@ should I wish to dedicate a commitment in making a difference within a community
 to reach out by raising queries, commend the game by providing feedback
 * As a user, I would like to explore any other projects that the developer has constructed
 
-<!-- Testing - this will be more complex according to Igor as functionality will require testing as well
+### Features
+
+The features which I envisage to incorporate into project are as follows:
+
+* An introductory heading section that delves into the purpose of the website
+* A BSL Fingerspelling game that will be interactively engaging
+* Instructions that clearly defines into the usage of how the game is to be played
+* Various high quality images that depicts a sign into an alphabetic letter which flashes <!--increases-->
+<!--& decreases in size so that the image is still visible--> to form a sequence into a word
+* The ability where users can select their appropriate speed level of how slow/fast the images flashes
+* A start button to activate the play
+* A timer that is based on each word that a user is given as opposed to the whole time allocated to 
+complete the game
+* An interactive event that determines whether a letter or word is incorrect when typed in
+* A restart button that allows users to review the letters that has been displayed
+* A positive/encouraging message when a letter or word is correct or not
+* An small area that calculates the score per word which builds up to the total score
+* An overview message into the progress of their learning and to provide positive encouragement
+
+
+
+<!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
 as display and responsiveness -->
