@@ -124,6 +124,10 @@ complete the game
 * An small area that calculates the score per word which builds up to the total score
 * An overview message into the progress of their learning and to provide positive encouragement
 
+These items are above are determined in the below table:
+
+| Item | Importance | Viability | Score |
+| ---- | ---------- | --------- | ----- |
 
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
