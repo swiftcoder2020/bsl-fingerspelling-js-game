@@ -85,7 +85,7 @@ range of devices
 * As a user, I expect to be given instructions as guidance into the rules which is easily understood as 
 to how the game is to be played and the learning outcome of it
 * As a user, I want to comfortably be allowed to commence the game when I am prepared and it is suitably 
-convenient
+convenient to proceed
 * As a user, I expect to see a clear image depicting a sign that represents a letter in sequence to form 
 a word and have the ability to duplicate the sign
 * As a user, I expect to be provided with a resourceful content that would assist me when there is a 
@@ -94,7 +94,7 @@ moment of doubt that can easily be referred to
 * As a user, I expect the game to provide a way to restart it subsequent to the current play mode upon 
 of it ending
 * As a user, I would like to be able to visually view my score in the current game to gain confidence in 
-the ability to learn
+the ability to learn so that I can demonstrate it by motion
 * As a user, I expect to be able to access contact details into the owner of the website, should I wish 
 to reach out by raising queries, commend the game by providing feedback
 * As a user, I would like to explore any other projects that the developer has constructed
