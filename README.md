@@ -12,7 +12,7 @@
 2. [User Experience Design (UXD)](#user-experience-design-uxd)
    1. [Project Goals](#project-goals)
    2. [Strategy](#strategy)
-   3. [Scope](#)
+   3. [Scope](#scope)
       - [User Stories](#)
    4. [Structure](#)
       - [Interaction Design (IXD)](#)
@@ -73,3 +73,10 @@ acquiring the knowledge and in addition the ability to fingerspell or action in 
 BSL
 * To construct a game that elicits a positive user experience in a way that it encourages new/returning 
 visitors to continue the learning experience in an engaging way that is resourceful to them
+
+## Scope
+
+
+
+<!-- Testing - this will be more complex according to Igor as functionality will require testing as well
+as display and responsiveness -->
