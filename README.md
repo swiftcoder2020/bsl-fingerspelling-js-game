@@ -154,8 +154,14 @@ being developed using JavaScript. Again this website has been identified to be s
 Given that the construction into the game involves JavaScript which is an interactive programming 
 language, it has been identified that there will be a few essential design elements that encourages the 
 interaction between the website and the users that would elicit a positive emotive response such so that 
-it creates a good user experience such as:
+it creates a good user experience. The JavaScript specific interactive elements are as follows:
 
+* Upon the game webpage being loaded, users will have the option to choose their speed level from easy, 
+medium and hard (which is represented as slow, normal and fast) that dictates on how slow/fast the images 
+are to be flashed visually for them to cognitively process what each image represents.
+
+* Users will also be given the option to share their name so that this can be included in the positive
+encouragement messages in the duration of the game.
 
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
