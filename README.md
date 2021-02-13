@@ -13,7 +13,7 @@
    1. [Project Goals](#project-goals)
    2. [Strategy](#strategy)
    3. [Scope](#scope)
-      - [User Stories](#)
+      - [User Stories](#user-stories)
    4. [Structure](#)
       - [Interaction Design (IXD)](#)
       - [Information Architecture](#)
@@ -75,6 +75,8 @@ BSL
 visitors to continue the learning experience in an engaging way that is resourceful to them
 
 ## Scope
+
+### User Stories
 
 
 
