@@ -98,6 +98,8 @@ moment of doubt that can easily be referred to
 of it ending
 * As a user, I would like to be able to visually view my score in the current game to gain confidence in 
 the ability to learn so that I can demonstrate it by motion
+* As a user, I would like to access any further resources that would progress or advance my learning, 
+should I wish to dedicate a commitment in making a difference within a community
 * As a user, I expect to be able to access contact details into the owner of the website, should I wish 
 to reach out by raising queries, commend the game by providing feedback
 * As a user, I would like to explore any other projects that the developer has constructed
