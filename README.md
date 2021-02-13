@@ -145,5 +145,18 @@ These items are above are determined in the below table:
 
 ## Structure
 
+The structure into the website project I feel will greatly benefit the new/returning users by constructing 
+various basic webpages, again to break up the content with the sole focus being on the the game webpage
+being developed using JavaScript. Again this website has been identified to be simple and linear.
+
+### Interaction Design (IXD)
+
+Given that the construction into the game involves JavaScript which is an interactive programming 
+language, it has been identified that there will be a few essential design elements that encourages the 
+interaction between the website and the users that would elicit a positive emotive response such so that 
+it creates a good user experience such as:
+
+
+
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
 as display and responsiveness -->
