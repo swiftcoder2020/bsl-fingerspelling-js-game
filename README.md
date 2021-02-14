@@ -33,9 +33,9 @@
 
 On approach to the second milestone project, which derives on the learning experience of exploring 
 through the fundamentals of JavaScript and the Interactive Front-End Development module, the focus has 
-progressively transitioned from a static site to one that will become interactive that allows visitors to 
-actively engage with data. It also completes what's known as the 'trinity of web development' whereby 
-this forms the basis of front-end development that concerns itself with data as presented through 
+progressively transitioned from a static site to one that will become interactive whereby it allows 
+visitors to actively engage with data. It also completes what's known as the 'trinity of web development' 
+that forms the basis of front-end development that concerns itself with data as presented through 
 components such as HTML, CSS & the addition of JavaScript. The core attention of this project however, is 
 to construct an interactive front-end website that responds to user's actions which revolves around a 
 sense of engagement.
@@ -46,18 +46,18 @@ sense of engagement.
 
 The sole purpose into this website is one that originated through a discussion with a tutor who had 
 expressed an interest in a subject that relates to oneself and was requesting some resources into it 
-which lead to an identifiable moment of inspiration into a conceptual idea of a project that focuses on 
-an interactive front-end website. This was established as a window of opportunity into the goal of the 
-second project, which is to develop a memory matching game that is educational to the users, specifically 
-aiming to raise awareness of British Sign Language (abbreviated as BSL). This in my view was an excellent 
-idea to utilise the functionality & capability of the JavaScript language that would enable users either 
-with a vested interest or as a new interest into a hobby to practise and improve on their fingerspelling 
-skills.
+which lead to an identifiable moment of inspiration into a conceptual idea towards the project that 
+focuses on an interactive front-end website. This was established as a window of opportunity into the 
+goal of the second project, which is to develop a memory matching game that is educational to the users, 
+specifically aiming to raise awareness of British Sign Language (abbreviated as BSL). This in my view was 
+an excellent idea to utilise the functionality & capability of the JavaScript language that would enable 
+users either with a vested interest or as a new interest into a hobby to practise and improve on their 
+fingerspelling skills.
 
 ## Strategy
 
 The construction into this website serves as a purpose of demonstrating the knowledge and skills obtained 
-within the programming language of JavaScript and providing new/returning users the key to an open door 
+within the programming language of JavaScript and providing new/returning visitors the key to an open door 
 as an introduction, that is akin to the Code Institute's 5 day coding challenge, into the community of 
 the deaf society such as how they communicate with to one another. The value in this project would be the 
 hope to influence a positive impact towards this community, especially and yet significantly more so 
@@ -66,7 +66,7 @@ considerate and thoughtful in helpfulness by engaging to communicate with them t
 barriers or assisting them in their difficulties.
 
 Also research was undertaken to establish if such a game exists which will form the basis of this project 
-and it was with luck that one has been developed through a separate website.
+and it was with luck that one has been developed through a resourceful website.
 
 To summarise the website project's goals:
 
@@ -74,7 +74,7 @@ To summarise the website project's goals:
 experience of HTML & CSS to the design & development of the project
 * To provide an interactive educational game to target interested users with the objective of achieving 
 in acquiring the knowledge and in addition the ability to fingerspell or action in motion the alphabet in 
-BSL
+BSL as a foundation
 * To construct a game that elicits a positive user experience in a way that it encourages new/returning 
 visitors to continue the learning experience in an engaging way that is resourceful to them
 
@@ -146,22 +146,16 @@ These items are above are determined in the below table:
 ## Structure
 
 The structure into the website project I feel will greatly benefit the new/returning users by constructing 
-various basic webpages, again to break up the content with the sole focus being on the the game webpage
-being developed using JavaScript. Again this website has been identified to be simple and linear.
+various basic webpages, again to break up the content appropriately with the sole major developmental 
+focus being on the webpage that provides an interactive game utilising the language of JavaScript. Again, 
+this website has been identified to be of a simple and linear structure, enough to create a functional 
+yet resourceful method of learning a new skill.
 
 ### Interaction Design (IXD)
 
-Given that the construction into the game involves JavaScript which is an interactive programming 
-language, it has been identified that there will be a few essential design elements that encourages the 
-interaction between the website and the users that would elicit a positive emotive response such so that 
-it creates a good user experience. The JavaScript specific interactive elements are as follows:
-
-* Upon the game webpage being loaded, users will have the option to choose their speed level from easy, 
-medium and hard (which is represented as slow, normal and fast) that dictates on how slow/fast the images 
-are to be flashed visually for them to cognitively process what each image represents.
-
-* Users will also be given the option to share their name so that this can be included in the positive
-encouragement messages in the duration of the game.
+It was immediately yet concretely identified when approaching this project with some guidance that I had 
+to consider the principle of keeping this concept as simple and effective as possible given that the world 
+of JavaScript was an unfamiliar territory to me thus this had been a steep learning curve journey.
 
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
