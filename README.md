@@ -157,6 +157,19 @@ It was immediately yet concretely identified when approaching this project with 
 to consider the principle of keeping this concept as simple and effective as possible given that the world 
 of JavaScript was an unfamiliar territory to me thus this had been a steep learning curve journey.
 
+Taking into consideration of the aforementioned specified user stories, the structure design and 
+interactive features will consist of:
+
+* A header that explicitly displays text entitled as 'British Sign Language Fingerspelling Game'
+
+* An introductory paragraph that provides an explanation into the purpose and rationale of the 
+construction, that will immediately enable new/returning visitors to recognise if they wish to express an 
+interest into it
+
+* The rendering of the design structure into its layout, especially the section of the JavaScript game 
+which proportionally fits well across all breakpoints that ensures of its responsiveness and that it is 
+playable
+
 
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
