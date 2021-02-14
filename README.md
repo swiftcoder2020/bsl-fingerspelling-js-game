@@ -60,10 +60,10 @@ The construction into this website serves as a purpose of demonstrating the know
 within the programming language of JavaScript and providing new/returning visitors the key to an open door 
 as an introduction, that is akin to the Code Institute's 5 day coding challenge, into the community of 
 the deaf society such as how they communicate with to one another. The value in this project would be the 
-hope to influence a positive impact towards this community, especially and yet significantly more so 
-under the current times of the pandemic whereby it encourages potential users to use the quality of being 
-considerate and thoughtful in helpfulness by engaging to communicate with them to break through the social 
-barriers or assisting them in their difficulties.
+hope to influence a positive impact by contributing to this community, especially and yet significantly 
+more so under the current times of the pandemic whereby it encourages potential users to use the quality 
+of being considerate and thoughtful in helpfulness by engaging to communicate with them to break through 
+the social barriers or assisting them in their difficulties.
 
 Also research was undertaken to establish if such a game exists which will form the basis of this project 
 and it was with luck that one has been developed through a resourceful website.
@@ -146,16 +146,17 @@ These items are above are determined in the below table:
 ## Structure
 
 The structure into the website project I feel will greatly benefit the new/returning users by constructing 
-various basic webpages, again to break up the content appropriately with the sole major developmental 
-focus being on the webpage that provides an interactive game utilising the language of JavaScript. Again, 
-this website has been identified to be of a simple and linear structure, enough to create a functional 
-yet resourceful method of learning a new skill.
+in this instance various sections within a webpage, again to break up the content appropriately with the 
+sole major developmental focus being on the section that provides an interactive game utilising the 
+programming language of JavaScript. Again, this website has been identified to be of a simple and linear 
+structure, enough to create a functional yet resourceful method of learning a new skill.
 
 ### Interaction Design (IXD)
 
 It was immediately yet concretely identified when approaching this project with some guidance that I had 
 to consider the principle of keeping this concept as simple and effective as possible given that the world 
 of JavaScript was an unfamiliar territory to me thus this had been a steep learning curve journey.
+
 
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
