@@ -3,7 +3,8 @@
    <img src="assets/images/learning-people-logo.png" style="margin: 0; padding-left: 15px; width: auto; height: 88px;">
 </div>
 
-# JavaScript Educational Game:- British Sign Language Fingerspelling
+# British Sign Language Fingerspelling:- An Educational JavaScript Memory Matching Game
+
 *Constructed as part of Code Institute's Milestone 2 Project: Interactive Front-End Development module*
 
 ## Table of Contents
@@ -155,7 +156,8 @@ structure, enough to create a functional yet resourceful method of learning a ne
 
 It was immediately yet concretely identified when approaching this project with some guidance that I had 
 to consider the principle of keeping this concept as simple and effective as possible given that the world 
-of JavaScript was an unfamiliar territory to me thus this had been a steep learning curve journey.
+of JavaScript was an unfamiliar territory to me thus this journey had been and will be a steep learning 
+curve overall.
 
 Taking into consideration of the aforementioned specified user stories, the structure design and 
 interactive features will consist of:
