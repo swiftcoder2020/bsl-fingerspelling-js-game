@@ -32,14 +32,17 @@
 
 # Overview
 
-On approach to the second milestone project, which derives on the learning experience of exploring 
-through the fundamentals of JavaScript and the Interactive Front-End Development module, the focus has 
+As I approached the second milestone project, which derives on the learning experience of exploring 
+through the fundamentals of JavaScript and the Interactive Front-End Development modules (which focuses 
+on jQuery, Application Programming Interfaces (API) and utilising an email service), attention has now
 progressively transitioned from a static site to one that will become interactive whereby it allows 
 visitors to actively engage with data. It also completes what's known as the 'trinity of web development' 
-that forms the basis of front-end development that concerns itself with data as presented through 
-components such as HTML, CSS & the addition of JavaScript. The core attention of this project however, is 
-to construct an interactive front-end website that responds to user's actions which revolves around a 
-sense of engagement.
+that forms the basis of front-end development which concerns itself with components such as HTML, CSS and 
+the addition of JavaScript or any of its associations.
+
+The core focal point of this project will consist of constructing an interactive front-end website that 
+will provide the value of enabling users a sense of engagement and to interact with the data as presented 
+in order to achieve their personal goal by responding to their actions actively.
 
 # User Experience Design
 
@@ -172,7 +175,24 @@ interest into it
 which proportionally fits well across all breakpoints that ensures of its responsiveness and that it is 
 playable
 
+<!-- Given that the construction into the game involves JavaScript which is an interactive programming 
+language, it has been identified that there will be a few essential design elements that encourages the 
+interaction between the website and the users that would elicit a positive emotive response such so that 
+it creates a good user experience. The JavaScript specific interactive elements are as follows:
 
+* Upon the game webpage being loaded, users will have the option to choose their speed level from easy, 
+medium and hard (which is represented as slow, normal and fast) that dictates on how slow/fast the images 
+are to be flashed visually for them to cognitively process what each image represents.
+
+* Users will also be given the option to share their name so that this can be included in the positive
+encouragement messages in the duration of the game.
+
+* Once the speed level has been comfortably selected by the user, the start game button allows visitors 
+to commence the play and initiate the images to flash.
+
+* A timer is activated once the start game button has been clicked on and will be  -->
 
 <!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
 as display and responsiveness -->
+
+<!-- media obtained from http://www.essexlocaloffer.org.uk/british-sign-language/ -->
