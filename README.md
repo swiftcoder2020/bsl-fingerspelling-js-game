@@ -48,15 +48,17 @@ in order to achieve their personal goal by responding to their actions actively.
 
 ## Project Goals
 
-The sole purpose into this website is one that originated through a discussion with a tutor who had 
-expressed an interest in a subject that relates to oneself and was requesting some resources into it 
-which lead to an identifiable moment of inspiration into a conceptual idea towards the project that 
-focuses on an interactive front-end website. This was established as a window of opportunity into the 
-goal of the second project, which is to develop a memory matching game that is educational to the users, 
-specifically aiming to raise awareness of British Sign Language (abbreviated as BSL). This in my view was 
-an excellent idea to utilise the functionality & capability of the JavaScript language that would enable 
-users either with a vested interest or as a new interest into a hobby to practise and improve on their 
-fingerspelling skills.
+The sole purpose into this website is one that originated through coincidence via a discussion with a 
+tutor who had expressed an interest in a subject that relates to oneself personally and was requesting 
+some resources into it. This lead to an identifiable moment of inspiration into a conceptual idea towards 
+the project in constructing an interactive front-end website.
+
+This was established in that it represents a window of opportunity into the development of a memory 
+matching game that has an objective of it being educational to the users, specifically aiming to raise 
+awareness of deafness as a whole by introducing British Sign Language (abbreviated as BSL). This in my 
+view was an excellent idea to utilise the functionality & capability of the JavaScript language that 
+would enable users either with a vested interest or as a new interest into a hobby to practise and 
+improve on their BSL fingerspelling skills.
 
 ## Strategy
 
