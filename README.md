@@ -34,7 +34,7 @@
 
 As I approached the second milestone project, which derives on the learning experience of exploring 
 through the fundamentals of JavaScript and the Interactive Front-End Development modules (which focuses 
-on jQuery, Application Programming Interfaces (API) and utilising an email service), attention has now
+on jQuery, Application Programming Interfaces (API) and utilising an email service), attention has now 
 progressively transitioned from a static site to one that will become interactive whereby it allows 
 visitors to actively engage with data. It also completes what's known as the 'trinity of web development' 
 that forms the basis of front-end development which concerns itself with components such as HTML, CSS and 
@@ -62,22 +62,24 @@ improve on their BSL fingerspelling skills.
 
 ## Strategy
 
-The construction into this website serves as a purpose of demonstrating the knowledge and skills obtained 
-within the programming language of JavaScript and providing new/returning visitors the key to an open door 
-as an introduction, that is akin to the Code Institute's 5 day coding challenge, into the community of 
-the deaf society such as how they communicate with to one another. The value in this project would be the 
-hope to influence a positive impact by contributing to this community, especially and yet significantly 
-more so under the current times of the pandemic whereby it encourages potential users to use the quality 
-of being considerate and thoughtful in helpfulness by engaging to communicate with them to break through 
-the social barriers or assisting them in their difficulties.
+The approach into the construction serves as a purpose of demonstrating the knowledge and skills obtained 
+within the programming language of JavaScript and jQuery, by way of providing new/returning visitors the 
+key to an open door as an introduction, (that is akin to the Code Institute's 5 day coding challenge), 
+into the community of the deaf society and how they communicate to one another.
+
+The value in this would be based on the hope to create an impact that influences a positive contribution 
+to this community, especially and yet significantly more so under the current times of the pandemic. The 
+objective of it is that it encourages potential users to use the social qualities of being considerate 
+and thoughtful in the manner of being helpful by engaging to communicate with them to break through the 
+social barriers or assisting them in their difficulties.
 
 Also research was undertaken to establish if such a game exists which will form the basis of this project 
 and it was with luck that one has been developed through a resourceful website.
 
 To summarise the website project's goals:
 
-* To demonstrate the implementation of acquiring a new skill in JavaScript whilst supplementing the 
-experience of HTML & CSS to the design & development of the project
+* To demonstrate the implementation of acquiring a new knowledge & skill in JavaScript whilst 
+supplementing the experience of HTML & CSS to the design & development of the project
 * To provide an interactive educational game to target interested users with the objective of achieving 
 in acquiring the knowledge and in addition the ability to fingerspell or action in motion the alphabet in 
 BSL as a foundation
