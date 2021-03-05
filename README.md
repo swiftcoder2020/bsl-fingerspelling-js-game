@@ -118,41 +118,40 @@ range of technical skills and level of competency so that I can establish if it 
 
 ### Features
 
-The features which I envisage to incorporate into project are as follows:
+The features which I envisage to incorporate into the project are as follows:
 
 * An introductory heading section that delves into the purpose of the website
-* A BSL Fingerspelling game that will be interactively engaging
-* Instructions that clearly defines into the usage of how the game is to be played
-* Various high quality images that depicts a sign into an alphabetic letter 
-* The ability to flash <!--increases & decreases in size so that the image is still visible--> each image 
-to form a sequence into a word
-* The ability where users can select their appropriate speed level of how slow/fast the images flashes
-* A start button to activate the play
-* A timer that is based on each word that a user is given as opposed to the whole time allocated to 
+* A BSL Fingerspelling game that aims to be interactively engaging
+* Instructions into the game that clearly defines into the usage of how it is to be played
+* Various high quality images that depicts a sign of an alphabetic letter
+* The ability to flash each image to form a sequence into a word
+* The option where users can select their appropriate speed level of how slow/fast the images flashes 
+through a modal
+* A play button to activate the game
+* A timer that is based on each word which a user is given as opposed to the overall time allocated to 
 complete the game
-* An interactive event that determines whether a letter or word is incorrect when typed in
-* A replay button that allows users to review the letters that has been displayed
-* A positive/encouraging message when a letter or word is correct or not
-* An small area that calculates the score per word which builds up to the total score
+* An interactive message that determines when the word is incorrect when typed in and notifies the user 
+by way of a positive/encouraging response yet apply complimentary praise when correct
+* A replay button that allows users to review the alphabetic letters as images that has been displayed
+* A small area that calculates the score per word which builds up to the total score
 * An overview message into the progress of their learning and to provide positive encouragement
 
 These items are above are determined in the below table:
 
-| Item | Description                      | Importance | Viability | Score |
-| ---- | -------------------------------- | ---------- | --------- | ----- |
-| 1.   | Introductory heading section     | 3          | 5         | 8     |
-| 2.   | Interactive & engaging BSL game  | 5          | 4         | 9     |
-| 3.   | Defining the instructions        | 4          | 5         | 9     |
-| 4.   | Obtaining high quality images    | 5          | 5         | 10    |
-| 5.   | Flash the letter signs as images | 5          | 3         | 8     |
-| 6.   | Construct speed level            | 3          | 4         | 7     |
-| 7.   | Construct a start button         | 4          | 5         | 9     |
-| 8.   | Create a timer per word          | 5          | 3         | 9     |
-| 9.   | Approve typed letter/word        | 5          | 4         | 9     |
-| 10.  | Construct a replay button        | 5          | 3         | 8     |
-| 11.  | Encouragement message            | 4          | 5         | 9     |
-| 12.  | Construct game score             | 3          | 4         | 7     |
-| 13.  | Concluding game message          | 4          | 4         | 8     |
+| Item | Description                       | Importance | Viability | Score |
+| ---- | --------------------------------- | ---------- | --------- | ----- |
+| 1.   | Introductory heading section      | 3          | 5         | 8     |
+| 2.   | Interactive & engaging BSL game   | 5          | 4         | 9     |
+| 3.   | Defining the instructions         | 4          | 5         | 9     |
+| 4.   | Obtaining high quality images     | 5          | 5         | 10    |
+| 5.   | Flash the sign letter as images   | 5          | 3         | 8     |
+| 6.   | Construct speed level             | 3          | 4         | 7     |
+| 7.   | Construct a play button           | 4          | 5         | 9     |
+| 8.   | Create a timer per word           | 5          | 3         | 9     |
+| 9.   | Approve/encourage when typed word | 5          | 4         | 9     |
+| 10.  | Construct a replay button         | 5          | 3         | 8     |
+| 11.  | Construct game score              | 3          | 4         | 7     |
+| 12.  | Concluding game message           | 4          | 4         | 8     |
 
 ## Structure
 
