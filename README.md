@@ -34,11 +34,11 @@
 
 As I approached the second milestone project, which derives on the learning experience of exploring 
 through the fundamentals of JavaScript and the Interactive Front-End Development modules (which focuses 
-on jQuery, Application Programming Interfaces (API) and utilising an email service), attention has now 
-progressively transitioned from a static site to one that will become interactive whereby it allows 
-visitors to actively engage with data. It also completes what's known as the 'trinity of web development' 
-that forms the basis of front-end development which concerns itself with components such as HTML, CSS and 
-the addition of JavaScript or any of its associations.
+on jQuery, Application Programming Interfaces (abbreviated as API) and utilising an email service), 
+attention has now progressively transitioned from a static site to one that will become interactive 
+whereby it allows visitors to actively engage with data. It also completes what's known as the 'trinity 
+of web development' that forms the basis of front-end development which concerns itself with components 
+such as HTML, CSS and the addition of JavaScript or any of its associations.
 
 The core focal point of this project will consist of constructing an interactive front-end website that 
 will provide the value of enabling users a sense of engagement and to interact with the data as presented 
@@ -79,39 +79,42 @@ and it was with luck that one has been developed through a resourceful website.
 To summarise the website project's goals:
 
 * To demonstrate the implementation of acquiring a new knowledge & skill in JavaScript whilst 
-supplementing the experience of HTML & CSS to the design & development of the project
+supplementing the experience of HTML & CSS to the design & development of the project.
 * To provide an interactive educational game to target interested users with the objective of achieving 
 in acquiring the knowledge and in addition the ability to fingerspell or action in motion the alphabet in 
-BSL as a foundation
+BSL as a foundation.
 * To construct a game that elicits a positive user experience in a way that it encourages new/returning 
-visitors to continue the learning experience in an engaging way that is resourceful to them
+visitors to continue the learning experience in an engaging way that is resourceful to them.
 
 ## Scope
 
 ### User Stories
 
-* As a user, I want to be able to easily understand the sole purpose of the website and comprehend the 
-rationale into why it has been built and developed
+* As a user, I want to be able to understand with ease into the sole purpose and comprehend the rationale 
+as to why the website has been built and developed so I can see if it is relevant or of interest to me.
 * As a user, I want to be assured that the website overall and its content can be viewed clearly on a 
-range of devices
+range of devices to enable an opportunity to be flexible in my learning.
 * As a user, I expect to be given instructions as guidance into the rules which is easily understood as 
-to how the game is to be played and the learning outcome of it
+to how the game is to be played and the learning outcome of it to experience the benefit of utilising it.
 * As a user, I want to comfortably be allowed to commence the game when I am prepared and it is suitably 
-convenient to proceed
-* As a user, I expect to see a clear image depicting a sign that represents a letter in sequence to form 
-a word and have the ability to duplicate the sign
-* As a user, I expect to be provided with a resourceful content that would assist me when there is a 
-moment of doubt that can easily be referred to
-* As a user, I want the game to determine whether my thought was correct or incorrect
-* As a user, I expect the game to provide a way to restart it subsequent to the current play mode upon 
-of it ending
-* As a user, I would like to be able to visually view my score in the current game to gain confidence in 
-the ability to learn so that I can demonstrate it by motion
-* As a user, I would like to access any further resources that would progress or advance my learning, 
-should I wish to dedicate a commitment in making a difference within a community
+convenient to proceed so I can perform this to the best of my ability.
+* As a user, when presented, I expect to see a clear image depicting an alphabet in BSL in sequence to 
+form a word and have the ability to replicate the sign so that I can be competently confident when 
+applying it in the real world to achieve a personal goal.
+* As a user, I want to be provided with a resourceful section consisting of content as a guiding reference 
+point, that would easily be referred to and assist me when there is a moment of doubt.
+* As a user, I want the game to determine whether my answer was correct or incorrect and that there is 
+clear feedback that is complimentary and encouraging in a positive manner at any stage in the game.
+* As a user, I expect the game to offer the option to restart, subsequent to the current play mode 
+that has finished to allow me to continue my learning and make progress.
+* As a user, I would like to visually view my score in the current game to gain confidence in the ability 
+to learn so that I can demonstrate it by motion in reality.
+* As a user, I would like to access any further resources that would supplement or advance my learning, 
+should I wish to dedicate a commitment in making a difference within a community.
 * As a user, I expect to be able to access contact details into the owner of the website, should I wish 
-to reach out by raising queries, commend the game by providing feedback
-* As a user, I would like to explore any other projects that the developer has constructed
+to reach out by raising queries, commend the game by providing feedback.
+* As a user, I would like to explore other projects that the developer has constructed to assess their 
+range of technical skills and level of competency so that I can establish if it is of interest to me.
 
 ### Features
 
