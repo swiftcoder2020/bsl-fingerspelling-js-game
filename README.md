@@ -155,11 +155,12 @@ These items are above are determined in the below table:
 
 ## Structure
 
-The structure into the website project I feel will greatly benefit the new/returning users by constructing 
-in this instance various sections within a webpage, again to break up the content appropriately with the 
-sole major developmental focus being on the section that provides an interactive game utilising the 
-programming language of JavaScript. Again, this website has been identified to be of a simple and linear 
-structure, enough to create a functional yet resourceful method of learning a new skill.
+The structure into the website project aims to be based on taking into consideration of new/returning 
+visitors, which I feel would be of great benefit by constructing various webpages, again that enables 
+content to be broken up appropriately in a logical manner with the sole major developmental focus being 
+on the interactive game, utilising the programming language of JavaScript. Conclusively, this website has 
+been identified to be of a simple structure with a linear narrative which is enough to create a functional 
+yet resourceful method of learning a new skill.
 
 ### Interaction Design (IXD)
 
