@@ -148,19 +148,30 @@ range of technical skills and level of competency so that I can establish if it 
 The features which I envisage to incorporate into the project are as follows:
 
 * An introductory heading section that delves into the purpose of the website
+
 * A BSL Fingerspelling game that aims to be interactively engaging
+
 * Instructions into the game that clearly defines into the usage of how it is to be played
+
 * Various high quality images that depicts a sign of an alphabetic letter
+
 * The ability to flash each image to form a sequence into a word
+
 * The option where users can select their appropriate speed level of how slow/fast the images flashes 
 through a modal
+
 * A play button to activate the game
+
 * A timer that is based on each word which a user is given as opposed to the overall time allocated to 
 complete the game
+
 * An interactive message that determines when the word is incorrect when typed in and notifies the user 
 by way of a positive/encouraging response yet apply complimentary praise when correct
+
 * A replay button that allows users to review the alphabetic letters as images that has been displayed
+
 * A small area that calculates the score per word which builds up to the total score
+
 * An overview message into the progress of their learning and to provide positive encouragement
 
 These items are above are determined in the below table:
