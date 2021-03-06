@@ -102,19 +102,33 @@ convenient to proceed so I can perform this to the best of my ability.
 form a word and have the ability to replicate the sign so that I can be competently confident when 
 applying it in the real world to achieve a personal goal.
 * As a user, I want to be provided with a resourceful section consisting of content as a guiding reference 
-point, that would easily be referred to and assist me when there is a moment of doubt.
+point, that would easily be referred to, assist me when there is a moment of doubt and potentially 
+demonstrate it by motion in reality.
+* As a user, when I am confident in the knowledge, I want to be able to enter my answer so that the 
+experience feels like I am participating in the game.
 * As a user, I want the game to determine whether my answer was correct or incorrect and that there is 
 clear feedback that is complimentary and encouraging in a positive manner at any stage in the game.
+* As a user, I expect to have the opportunity to re-enter my answer when the previous suggestion is 
+incorrect to help me acknowledge where I need to make improvement in my learning or memory matching 
+abilities.
+* As a user, I would like to visually view my score in the current game to gain confidence in the ability 
+to learn so that I can assess my competency levels.
+* As a user, I expect the game to provide a notification when the time is up so that I can acknowledge 
+when my learning or memory matching opportunity has ceased.
 * As a user, I expect the game to offer the option to restart, subsequent to the current play mode 
 that has finished to allow me to continue my learning and make progress.
-* As a user, I would like to visually view my score in the current game to gain confidence in the ability 
-to learn so that I can demonstrate it by motion in reality.
 * As a user, I would like to access any further resources that would supplement or advance my learning, 
 should I wish to dedicate a commitment in making a difference within a community.
 * As a user, I expect to be able to access contact details into the owner of the website, should I wish 
 to reach out by raising queries, commend the game by providing feedback.
 * As a user, I would like to explore other projects that the developer has constructed to assess their 
 range of technical skills and level of competency so that I can establish if it is of interest to me.
+
+
+
+
+
+
 
 ### Features
 
@@ -167,6 +181,16 @@ Conclusively, this website has been identified to be of a simple structure with 
 is enough to create a functional yet resourceful method of learning a new skill.
 
 ### Interaction Design
+
+
+
+
+
+
+
+
+
+
 
 It was immediately yet concretely identified when approaching this project with some guidance that I had 
 to consider the principle of keeping this concept as simple and effective as possible given that the world 
