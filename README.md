@@ -129,8 +129,6 @@ range of technical skills and level of competency so that I can establish if it 
 
 
 
-
-
 ### Features
 
 The features which I envisage to incorporate into the project are as follows:
@@ -176,59 +174,16 @@ content to be broken up appropriately in a logical manner with the sole major de
 on the interactive game, utilising the programming language of JavaScript.
 
 In addition, the structure will also be of a constant design in that it is to be kept minimal to the 
-extent that there is no need for the website to be responsive across the range of devices.
+extent that there is no need for the website to be majorly responsive across the range of devices due to 
+the low amount of content involved in this project.
 
-Conclusively, this website has been identified to be of a simple structure with a linear narrative which 
-is enough to create a functional yet resourceful method of learning a new skill.
+Conclusively, it was immediately yet concretely identified in the duration of the planning stage with 
+some guidance, that I had to consider the principle of keeping this concept as simple and effective as 
+possible, which reflects the structure being basic to accommodate both the complex world of JavaScript 
+and the lightweight version of jQuery. This represents an unfamiliar territory to me on approach to this 
+milestone project, thus this journey will be a steep learning curve overall in equal measure with the 
+learning experience of the module. The structure will also consist of a linear narrative which is enough 
+I feel to create a functional yet resourceful method of learning a new skill.
 
 ### Interaction Design
 
-
-
-
-
-
-
-
-
-
-
-It was immediately yet concretely identified when approaching this project with some guidance that I had 
-to consider the principle of keeping this concept as simple and effective as possible given that the world 
-of JavaScript was an unfamiliar territory to me thus this journey had been and will be a steep learning 
-curve overall.
-
-Taking into consideration of the aforementioned specified user stories, the structure design and 
-interactive features will consist of:
-
-* A header that explicitly displays text entitled as 'British Sign Language Fingerspelling Game'
-
-* An introductory paragraph that provides an explanation into the purpose and rationale of the 
-construction, that will immediately enable new/returning visitors to recognise if they wish to express an 
-interest into it
-
-* The rendering of the design structure into its layout, especially the section of the JavaScript game 
-which proportionally fits well across all breakpoints that ensures of its responsiveness and that it is 
-playable
-
-<!-- Given that the construction into the game involves JavaScript which is an interactive programming 
-language, it has been identified that there will be a few essential design elements that encourages the 
-interaction between the website and the users that would elicit a positive emotive response such so that 
-it creates a good user experience. The JavaScript specific interactive elements are as follows:
-
-* Upon the game webpage being loaded, users will have the option to choose their speed level from easy, 
-medium and hard (which is represented as slow, normal and fast) that dictates on how slow/fast the images 
-are to be flashed visually for them to cognitively process what each image represents.
-
-* Users will also be given the option to share their name so that this can be included in the positive
-encouragement messages in the duration of the game.
-
-* Once the speed level has been comfortably selected by the user, the start game button allows visitors 
-to commence the play and initiate the images to flash.
-
-* A timer is activated once the start game button has been clicked on and will be  -->
-
-<!-- Testing - this will be more complex according to Igor as functionality will require testing as well 
-as display and responsiveness -->
-
-<!-- media obtained from http://www.essexlocaloffer.org.uk/british-sign-language/ -->
