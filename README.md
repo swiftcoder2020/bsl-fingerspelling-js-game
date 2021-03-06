@@ -14,7 +14,8 @@
    1. [Project Goals](#project-goals)
    2. [Strategy](#strategy)
    3. [Scope](#scope)
-      - [User Stories](#user-stories)
+      - [Main User Stories](#main-user-stories)
+      - [Accessibility User Stories](#accessibility-user-stories)
       - [Features](#features)
    4. [Structure](#structure)
       - [Interaction Design (IXD)](#interaction-design)
@@ -88,7 +89,7 @@ visitors to continue the learning experience in an engaging way that is resource
 
 ## Scope
 
-### User Stories
+### Main User Stories
 
 * As a user, I want to be able to understand with ease into the sole purpose and comprehend the rationale 
 as to why the website has been built and developed so I can see if it is relevant or of interest to me.
@@ -124,7 +125,7 @@ to reach out by raising queries, commend the game by providing feedback.
 * As a user, I would like to explore other projects that the developer has constructed to assess their 
 range of technical skills and level of competency so that I can establish if it is of interest to me.
 
-
+### Accessibility User Stories
 
 
 
