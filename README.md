@@ -263,3 +263,5 @@ form of a sitemap along with details for each of the webpages within the project
 logical thought process into different sections:
 
 **![BSL Fingerspelling Game Site Structure](wireframes/bsl-fingerspelling-game-sitemap.png)**
+
+[test](wireframes/bsl-fingerspelling-game-sitemap.png)
