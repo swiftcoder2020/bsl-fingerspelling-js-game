@@ -141,13 +141,14 @@ range of technical skills and level of competency so that I can establish if it 
 
 ### Accessibility User Stories
 
-
+* As a user who uses a screen reader technology, I want this to access most elements and controls, 
+especially describing the depicted images without giving away the answer.
 
 ### Features
 
 The features which I envisage to incorporate into the project are as follows:
 
-* An introductory heading section that delves into the purpose of the website
+* An introduction that delves into BSL and the purpose of the website
 
 * A BSL Fingerspelling game that aims to be interactively engaging
 
@@ -178,7 +179,7 @@ These items are above are determined in the below table:
 
 | Item | Description                       | Importance | Viability | Score |
 | ---- | --------------------------------- | ---------- | --------- | ----- |
-| 1.   | Introductory heading section      | 3          | 5         | 8     |
+| 1.   | Introduction to BSL & purpose     | 4          | 5         | 9     |
 | 2.   | Interactive & engaging BSL game   | 5          | 4         | 9     |
 | 3.   | Defining the instructions         | 4          | 5         | 9     |
 | 4.   | Obtaining high quality images     | 5          | 5         | 10    |
@@ -193,22 +194,7 @@ These items are above are determined in the below table:
 
 ## Structure
 
-The structure into the website project aims to be based on taking into consideration of new/returning 
-visitors, which I feel would be of great benefit by constructing various webpages, again that enables 
-content to be broken up appropriately in a logical manner with the sole major developmental focus being 
-on the interactive game, utilising the programming language of JavaScript.
-
-In addition, the structure will also be of a constant design in that it is to be kept minimal to the 
-extent that there is no need for the website to be majorly responsive across the range of devices due to 
-the low amount of content involved in this project.
-
-Conclusively, it was immediately yet concretely identified in the duration of the planning stage with 
-some guidance, that I had to consider the principle of keeping this concept as simple and effective as 
-possible, which reflects the structure being basic to accommodate both the complex world of JavaScript 
-and the lightweight version of jQuery. This represents an unfamiliar territory to me on approach to this 
-milestone project, thus this journey will be a steep learning curve overall in equal measure with the 
-learning experience of the module. The structure will also consist of a linear narrative which is enough 
-I feel to create a functional yet resourceful method of learning a new skill.
-
-### Interaction Design
-
+Retrospectively, it was immediately yet concretely identified in the duration of the planning stage that 
+by comparison to the previous milestone project and with some guidance that I had to consider the aim of 
+keeping this to a minimalistic design overall, including content to accommodate the sole major 
+developmental focus to be on the interactive yet functional game.
