@@ -230,6 +230,12 @@ learnable, predictable, that clear and intuitive feedback is provided and consis
 emphasis and consideration can be placed upon these when constructing an interactive JavaScript 
 Fingerspelling game.
 
+* Visible:- that the site conveys clarity in all aspect of IXD, especially with the images of the signs
+* Learnable:- the content provides a learning experience through supplementary information and resources
+* Predictable:- the behaviour of the game offers users functional features as part of an interactive game
+* Clear and intuitive feedback:- the message of these are clear and offer a positive experience
+* Consistent:- the site gives the impression that it is consistent in design & functionality
+
 Another aspect of my approach into the Interaction Design within the website is the adaption of choice to 
 appropriately include modals and these apply to when users: click on the 'Introduction' button that 
 allows them to access more information into the subject and purpose of the development, decide when they 
@@ -241,3 +247,19 @@ be applied to buttons and icons to create a positive appeal and within the foote
 will be applied when hovered over the social media/contact icons.
 
 ### Information Architecture
+
+The structure of the information architecture will be such that it is to consist of 4 webpages in total 
+which again, retains the simplicity into the website and as aforementioned to allow the focal point be on 
+the development of the JavaScript game.
+
+It will be structured in the form of a simple yet basic hierarchy whereby at the top level will be 'Home', 
+and the remainders will be at a level that is horizontally in equal measure such as 'Fingerspelling game', 
+'Resources' and 'Contact'. Within the next section will illustrate this thought process.
+
+#### Wireframing the website
+
+Below represents how the website will be structured on the basis of the information architecture in the 
+form of a sitemap along with details for each of the webpages within the project and illustrates the 
+logical thought process into different sections:
+
+**![BSL Fingerspelling Game Site Structure](wireframes/bsl-fingerspelling-game-sitemap.png.png)**
