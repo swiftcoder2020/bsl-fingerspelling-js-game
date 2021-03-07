@@ -262,6 +262,6 @@ Below represents how the website will be structured on the basis of the informat
 form of a sitemap along with details for each of the webpages within the project and illustrates the 
 logical thought process into different sections:
 
-**![BSL Fingerspelling Game Site Structure](wireframes/bsl-fingerspelling-game-sitemap.png)**
+**![BSL Fingerspelling Game Site Structure](asset/wireframes/bsl-fingerspelling-game-sitemap.png)**
 
 [test](wireframes/bsl-fingerspelling-game-sitemap.png)
