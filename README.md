@@ -232,6 +232,10 @@ Fingerspelling game.
 
 Another aspect of my approach into the Interaction Design within the website is the adaption of choice to 
 appropriately include modals and these apply to when users: click on the 'Introduction' button that 
-allows them to access more information into the subject and purpose of the development, when they want to 
-find out how to play the memory matching game, the interactive positive/encouraging message, the overall 
-score at the conclusion of the game
+allows them to access more information into the subject and purpose of the development, decide when they 
+want to find out how to play the memory matching game, the interactive positive/encouraging message, the 
+overall score at the conclusion of the game.
+
+To add further UX to the design of interaction for new/returning visitors, some darker subtle colours will 
+be applied to buttons and icons to create a positive appeal and within the footer, an expanding effect 
+will be applied when hovered over the social media/contact icons.
