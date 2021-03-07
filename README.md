@@ -19,7 +19,7 @@
       - [Features](#features)
    4. [Structure](#structure)
       - [Interaction Design (IXD)](#interaction-design)
-      - [Information Architecture](#)
+      - [Information Architecture](#information-architecture)
    5. [Skeleton](#)
       - [Wireframing the website](#)
    6. [Surface](#)
@@ -239,3 +239,5 @@ overall score at the conclusion of the game.
 To add further UX to the design of interaction for new/returning visitors, some darker subtle colours will 
 be applied to buttons and icons to create a positive appeal and within the footer, an expanding effect 
 will be applied when hovered over the social media/contact icons.
+
+### Information Architecture
