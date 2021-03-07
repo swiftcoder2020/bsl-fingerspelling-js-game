@@ -196,5 +196,24 @@ These items are above are determined in the below table:
 
 Retrospectively, it was immediately yet concretely identified in the duration of the planning stage that 
 by comparison to the previous milestone project and with some guidance that I had to consider the aim of 
-keeping this to a minimalistic design overall, including content to accommodate the sole major 
-developmental focus to be on the interactive yet functional game.
+keeping this to a minimalistic design overall, including content to accommodate and focus the attention 
+on the sole major development into the interactive yet functional game. The rationale into this 
+perspective is that the languages used within this website is an unfamiliar territory to me on approach 
+to this milestone project, therefore this journey will be a steep learning curve overall in equal measure 
+with the learning experience of the module.
+
+Thus the structure into the JavaScript game project aims to be simple in that it has basic content yet 
+will consider a linear narrative approach which is enough I feel to create a function yet resourceful 
+method of learning a new skill. The advantage to this is that it reduces the need for the website to be 
+majorly responsive across the range of devices, with the exception of the playing game area.
+
+### Interaction Design
+
+For this particular project, functionality and interactivity becomes a bit more prominent therefore I 
+acknowledged the principle within the duration of the design process, whereby I had to consider in keeping 
+the concept of the JavaScript game as simple and effective as possible. This reflects the aforementioned 
+as above in the structure being basic for the very reason in accommodating the new knowledge and skills to 
+utilise the programming languages into the complex world JavaScript and the lightweight version of jQuery.
+
+Given that Interaction Design (IXD) is concerned with 5 parts that ensures the site is: visible, 
+learnable, predictable, that clear and intuitive feedback is provided and consistent throughout,  
