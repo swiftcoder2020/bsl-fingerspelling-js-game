@@ -158,10 +158,12 @@ The features which I envisage to incorporate into the project are as follows:
 
 * The ability to flash each image to form a sequence into a word
 
+* A play button to activate the game
+
 * The option where users can select their appropriate speed level of how slow/fast the images flashes 
 through a modal
 
-* A play button to activate the game
+* A countdown timer that gives users some breathing space prior to commencing the game
 
 * A timer that is based on each word which a user is given as opposed to the overall time allocated to 
 complete the game
@@ -184,13 +186,14 @@ These items are above are determined in the below table:
 | 3.   | Defining the instructions         | 4          | 5         | 9     |
 | 4.   | Obtaining high quality images     | 5          | 5         | 10    |
 | 5.   | Flash the sign letter as images   | 5          | 3         | 8     |
-| 6.   | Construct speed level             | 3          | 4         | 7     |
-| 7.   | Construct a play button           | 4          | 5         | 9     |
-| 8.   | Create a timer per word           | 5          | 3         | 9     |
-| 9.   | Approve/encourage when typed word | 5          | 4         | 9     |
-| 10.  | Construct a replay button         | 5          | 3         | 8     |
-| 11.  | Construct game score              | 3          | 4         | 7     |
-| 12.  | Concluding game message           | 4          | 4         | 8     |
+| 6.   | Construct a play button           | 4          | 5         | 9     |
+| 7.   | Construct speed level             | 3          | 4         | 7     |
+| 8.   | Construct a countdown timer       | 4          | 5         | 9     |
+| 9.   | Create a timer per word           | 5          | 3         | 9     |
+| 10.  | Approve/encourage when typed word | 5          | 4         | 9     |
+| 11.  | Construct a replay button         | 5          | 3         | 8     |
+| 12.  | Construct game score              | 3          | 4         | 7     |
+| 13.  | Construct concluding game message | 4          | 4         | 8     |
 
 ## Structure
 
@@ -207,13 +210,28 @@ will consider a linear narrative approach which is enough I feel to create a fun
 method of learning a new skill. The advantage to this is that it reduces the need for the website to be 
 majorly responsive across the range of devices, with the exception of the playing game area.
 
+In order to provide a good user experience for new/returning visitors, I feel it would be of great 
+benefit to take into consideration of constructing various webpages, again, that would enable content to 
+be broken up into sections appropriately for simplicity. Also, intuitively it feels that by doing it this 
+way, content can be spread out and gives better flow of information in a logical manner, as opposed to 
+developing one page consisting of various sections to optimise the website a bit more.
+
 ### Interaction Design
 
 For this particular project, functionality and interactivity becomes a bit more prominent therefore I 
 acknowledged the principle within the duration of the design process, whereby I had to consider in keeping 
 the concept of the JavaScript game as simple and effective as possible. This reflects the aforementioned 
 as above in the structure being basic for the very reason in accommodating the new knowledge and skills to 
-utilise the programming languages into the complex world JavaScript and the lightweight version of jQuery.
+utilise the programming languages into the complex world JavaScript and its associative languages or 
+technologies such as the lightweight version of jQuery.
 
 Given that Interaction Design (IXD) is concerned with 5 parts that ensures the site is: visible, 
-learnable, predictable, that clear and intuitive feedback is provided and consistent throughout,  
+learnable, predictable, that clear and intuitive feedback is provided and consistent throughout, more 
+emphasis and consideration can be placed upon these when constructing an interactive JavaScript 
+Fingerspelling game.
+
+Another aspect of my approach into the Interaction Design within the website is the adaption of choice to 
+appropriately include modals and these apply to when users: click on the 'Introduction' button that 
+allows them to access more information into the subject and purpose of the development, when they want to 
+find out how to play the memory matching game, the interactive positive/encouraging message, the overall 
+score at the conclusion of the game
