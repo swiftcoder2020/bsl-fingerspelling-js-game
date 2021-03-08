@@ -20,7 +20,8 @@
    4. [Structure](#structure)
       - [Interaction Design (IXD)](#interaction-design)
       - [Information Architecture](#information-architecture)
-   5. [Skeleton](#)
+      - [Sitemap](#sitemap)
+   5. [Skeleton](#skeleton)
       - [Wireframing the website](#wireframing-the-website)
    6. [Surface](#)
       - [Colour palette](#)
@@ -256,7 +257,7 @@ It will be structured in the form of a simple yet basic hierarchy whereby at the
 and the remainders will be at a level that is horizontally in equal measure such as 'Fingerspelling game', 
 'Resources' and 'Contact'. Within the next section will illustrate this thought process.
 
-#### Wireframing the website
+#### Sitemap
 
 Below represents how the website will be structured on the basis of the information architecture in the 
 form of a sitemap along with details for each of the webpages within the project and illustrates the 
@@ -275,3 +276,10 @@ restart the game.
 supplement their learning or interest with links to various websites.
 - **Contact** :- Again, quite simply this will be a contact form that will reset when submitted and the 
 message will be sent to my professional email address via EmailJS.
+
+## Skeleton
+
+
+
+## Wireframing the website
+
