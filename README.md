@@ -21,7 +21,7 @@
       - [Interaction Design (IXD)](#interaction-design)
       - [Information Architecture](#information-architecture)
    5. [Skeleton](#)
-      - [Wireframing the website](#)
+      - [Wireframing the website](#wireframing-the-website)
    6. [Surface](#)
       - [Colour palette](#)
 3. [Features](#)
@@ -239,7 +239,7 @@ Fingerspelling game.
 Another aspect of my approach into the Interaction Design within the website is the adaption of choice to 
 appropriately include modals and these apply to when users: click on the 'Introduction' button that 
 allows them to access more information into the subject and purpose of the development, decide when they 
-want to find out how to play the memory matching game, the interactive positive/encouraging message, the 
+want to find out how to play the memory matching game, the interactive positive/encouraging messages, the 
 overall score at the conclusion of the game.
 
 To add further UX to the design of interaction for new/returning visitors, some darker subtle colours will 
@@ -263,3 +263,15 @@ form of a sitemap along with details for each of the webpages within the project
 logical thought process into different sections:
 
 **![BSL Fingerspelling Game Site Structure](assets/wireframes/bsl-game-sitemap.png)**
+
+- **Home** :- this will include an image of a logo depicting a sign for each letter of BSL, various 
+buttons which two of these is to produce a modal and the remaining two a link to a webpage respectively. 
+Lastly, a footer will be included with icons that links to GitHub, LinkedIn and to 'Contact' webpage.
+- **BSL Game** :- it is to consist of the same image as 'Home', a div area in which the game will be 
+undertaken, that will contain four modals; firstly to select the game level, a countdown timer, an 
+interactive positive/encouraging message and finally a concluding modal for the overall score & to 
+restart the game.
+- **Resources** :- I plan to provide new/returning visitors with a range of resourceful information to 
+supplement their learning or interest with links to various websites.
+- **Contact** :- Again, quite simply this will be a contact form that will reset when submitted and the 
+message will be sent to my professional email address via EmailJS.
