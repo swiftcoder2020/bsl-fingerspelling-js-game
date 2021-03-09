@@ -279,7 +279,15 @@ message will be sent to my professional email address via EmailJS.
 
 ## Skeleton
 
-
+Taking into consideration of the above Structure plane, the navigation and interface design can commence 
+in the form of building the Skeleton of the website through wireframes as provided below:
 
 ## Wireframing the website
 
+* **[Homepage](wireframes/homepage-for-all-devices.pdf)**
+
+* **[BSL Fingerspelling game](wireframes/bsl-game-for-all-devices.pdf)**
+
+* **[Resources](wireframes/resources-for-all-devices.pdf)**
+
+* **[Contact](wireframes/contact-for-all-devices.pdf)**
