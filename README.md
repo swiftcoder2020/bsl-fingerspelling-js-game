@@ -22,12 +22,12 @@
       - [Information Architecture](#information-architecture)
       - [Sitemap](#sitemap)
    5. [Skeleton](#skeleton)
-      - [Wireframing the website](#wireframing-the-website)
-   6. [Surface](#)
-      - [Colour palette](#)
+      - [Wireframing the Website](#wireframing-the-website)
+   6. [Surface](#surface)
+      - [Colour Palette](#colour-palette)
 3. [Features](#)
 4. [Technologies Utilised](#)
-5. [Project bugs and solutions](#)
+5. [Project Bugs and Solutions](#)
 6. [Testing](#)
 7. [Deployment](#)
 8. [Credits](#)
@@ -263,7 +263,7 @@ Below represents how the website will be structured on the basis of the informat
 form of a sitemap along with details for each of the webpages within the project and illustrates the 
 logical thought process into different sections:
 
-**![BSL Fingerspelling Game Site Structure](assets/wireframes/bsl-game-sitemap.png)**
+![BSL Fingerspelling Game Site Structure](assets/wireframes/bsl-game-sitemap.png)
 
 - **Home** :- this will include an image of a logo depicting a sign for each letter of BSL, various 
 buttons which two of these is to produce a modal and the remaining two a link to a webpage respectively. 
@@ -297,3 +297,18 @@ that can be access as below for each of the webpages:
 * **[Resources](assets/wireframes/resources-for-all-devices.pdf)**
 
 * **[Contact](assets/wireframes/contact-for-all-devices.pdf)**
+
+## Surface
+
+Given that the focus is on constructing a game, I thought it was appropriate to research and select bold 
+colours that illuminates vibrancy within the palette to convey an psychological element of fun and 
+playfulness to reflect the project.
+
+### Colour Palette
+
+The choice of these colours attracted me for its boldness, especially the tone of blue, green and orange 
+which I felt would initially work and having alternated these, I was satified with my final decision. The
+focal colours will be used on the website is primarily the blue and green. For the buttons and modal, I 
+thought it was appropriate to use the orange.
+
+![BSL Fingerspelling Game Colour Palette](assets/images/bsl-colour-palette.png)
