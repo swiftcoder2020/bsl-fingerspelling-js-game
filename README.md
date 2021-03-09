@@ -284,6 +284,10 @@ in the form of building the Skeleton of the website through wireframes as provid
 
 ## Wireframing the website
 
+As part of the planning processes, I was quite satisfied in utilising the software Balsamiq to form a 
+blueprint for my JavaScript game website which has considered devices such as mobile, tablet and desktop, 
+that can be access as below for each of the webpages:
+
 * **[Theme Template Design](assets/wireframes/template-design-for-all-devices.pdf)**
 
 * **[Homepage](assets/wireframes/homepage-for-all-devices.pdf)**
