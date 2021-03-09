@@ -284,6 +284,8 @@ in the form of building the Skeleton of the website through wireframes as provid
 
 ## Wireframing the website
 
+* **[Theme Template Design](assets/wireframes/template-design-for-all-devices.pdf)**
+
 * **[Homepage](assets/wireframes/homepage-for-all-devices.pdf)**
 
 * **[BSL Fingerspelling game](assets/wireframes/bsl-game-for-all-devices.pdf)**
