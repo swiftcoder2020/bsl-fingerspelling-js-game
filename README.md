@@ -25,6 +25,7 @@
       - [Wireframing the Website](#wireframing-the-website)
    6. [Surface](#surface)
       - [Colour Palette](#colour-palette)
+      - [Typography](#typography)
 3. [Features](#)
 4. [Technologies Utilised](#)
 5. [Project Bugs and Solutions](#)
@@ -306,9 +307,24 @@ playfulness to reflect the project.
 
 ### Colour Palette
 
-The choice of these colours attracted me for its boldness, especially the tone of blue, green and orange 
-which I felt would initially work and having alternated these, I was satified with my final decision. The
-focal colours will be used on the website is primarily the blue and green. For the buttons and modal, I 
-thought it was appropriate to use the orange.
-
 ![BSL Fingerspelling Game Colour Palette](assets/images/bsl-colour-palette.png)
+
+The choice of these generated colours attracted me for its boldness, especially the tone of blue, green 
+and orange which I felt would initially work and complemented towards the idea which having alternated 
+these within my wireframes, I was satified with my final decision. The focal colours will be used on the 
+website is primarily the green and turquoise blue whereby #BDBF09 will be used within the main content and 
+#2292A4 will be applied to the footer which are both separate elements. 
+
+For the buttons, I thought it was appropriate to use the orange (#D96C06) with a tone of white (#F5EFED) 
+which having sensibly checked through [Accessible Colors](https://accessible-colors.com) it was advised 
+that as long as the text was in bold weight, this was deemed as acceptable. 
+
+Separately, in relation to the modals, I was conscious of not overpowering the background colour by 
+utilising the orange (#D96C06) as it may be perceived as a warning alert message, therefore I took the 
+sensible decision to have a white (#F5EFED) background, then utilise the orange (#D96C06) for the border 
+with a turquoise blue (#2292A4) as the font colour. I had intended in wanting to apply the fluorescent 
+green (#BDBF09) as the font colour, to give an element of positivity in various messages, however, 
+much to my disappointment Accessible Colours deemed this as a fail.
+
+### Typography
+
