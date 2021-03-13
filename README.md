@@ -330,3 +330,13 @@ much to my disappointment Accessible Colours deemed this as a fail.
 
 ### Typography
 
+Bearing in mind that this is a memory matching game, I wanted a creative font for all my headings and 
+this would come in the form of a calligraphic style entitled as Akaya Telivigala which is a trending yet 
+contemporary typography and I had decided that this would be complemented by ABeeZee which is friendly 
+yet one that supports the process of learning.
+
+### Imagery
+
+In order to fully engage with the development of JavaScript, I have decided to keep the number of imagery 
+to a minimum by simply including a logo to complement the subject of the game.
+
