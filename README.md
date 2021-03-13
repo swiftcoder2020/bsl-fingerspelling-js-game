@@ -26,8 +26,8 @@
    6. [Surface](#surface)
       - [Colour Palette](#colour-palette)
       - [Typography](#typography)
-3. [Features](#)
-4. [Technologies Utilised](#)
+3. [Features](#features)
+4. [Technologies Utilised](#technologies-utilised)
 5. [Project Bugs and Solutions](#)
 6. [Testing](#)
 7. [Deployment](#)
@@ -340,3 +340,6 @@ yet one that supports the process of learning.
 In order to fully engage with the development of JavaScript, I have decided to keep the number of imagery 
 to a minimum by simply including a logo to complement the subject of the game.
 
+# Features
+
+# Technologies Utilised
