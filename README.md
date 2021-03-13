@@ -309,6 +309,8 @@ playfulness to reflect the project.
 
 ![BSL Fingerspelling Game Colour Palette](assets/images/bsl-colour-palette.png)
 
+Source: [Coolors](https://coolors.co/0f0a0a-f5efed-2292a4-bdbf09-d96c06)
+
 The choice of these generated colours attracted me for its boldness, especially the tone of blue, green 
 and orange which I felt would initially work and complemented towards the idea which having alternated 
 these within my wireframes, I was satified with my final decision. The focal colours will be used on the 
