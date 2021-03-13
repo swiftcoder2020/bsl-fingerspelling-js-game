@@ -326,7 +326,8 @@ utilising the orange (#D96C06) as it may be perceived as a warning alert message
 sensible decision to have a white (#F5EFED) background, then utilise the orange (#D96C06) for the border 
 with a turquoise blue (#2292A4) as the font colour. I had intended in wanting to apply the fluorescent 
 green (#BDBF09) as the font colour, to give an element of positivity in various messages, however, 
-much to my disappointment Accessible Colours deemed this as a fail.
+much to my disappointment Accessible Colours deemed this as a fail therefore a blend of black (#0F0A0A) 
+was an appropriate alternative which I decided to choose in place of my preference.
 
 ### Typography
 
