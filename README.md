@@ -313,13 +313,15 @@ Source: [Coolors](https://coolors.co/0f0a0a-f5efed-2292a4-bdbf09-d96c06)
 
 The choice of these generated colours attracted me for its boldness, especially the tone of blue, green 
 and orange which I felt would initially work and complemented towards the idea which having alternated 
-these within my wireframes, I was satified with my final decision. The focal colours will be used on the 
-website is primarily the green and turquoise blue whereby #BDBF09 will be used within the main content and 
-#2292A4 will be applied to the footer which are both separate elements. 
+these within my wireframes, I was satified with my final decision. The focal colours that will be used 
+on the website is primarily the fluorescent green and turquoise blue whereby #BDBF09 will be used within 
+the main content and #2292A4 will be applied to the footer which are both separate elements. 
 
-For the buttons, I thought it was appropriate to use the orange (#D96C06) with a tone of white (#F5EFED) 
-which having sensibly checked through [Accessible Colors](https://accessible-colors.com) it was advised 
-that as long as the text was in bold weight, this was deemed as acceptable. 
+For the buttons, I thought it was appropriate to use the orange (#D96C06) as a background colour with a 
+tone of white (#F5EFED) for the font, which instinctively I had realised accessibility needed to be 
+considered for the colour choice thus this was sensibly checked through 
+[Accessible Colors](https://accessible-colors.com) and it was advised that as long as the text was in 
+bold weight, this was deemed as acceptable. 
 
 Separately, in relation to the modals, I was conscious of not overpowering the background colour by 
 utilising the orange (#D96C06) as it may be perceived as a warning alert message, therefore I took the 
@@ -335,6 +337,11 @@ Bearing in mind that this is a memory matching game, I wanted a creative font fo
 this would come in the form of a calligraphic style entitled as Akaya Telivigala which is a trending yet 
 contemporary typography and I had decided that this would be complemented by ABeeZee which is friendly 
 yet one that supports the process of learning.
+
+### Icons
+
+These are going to be provided by [Font Awesome](https://accessible-colors.com) which would be used where 
+appropriate yet in moderation such as to activate the game and social media links.
 
 ### Imagery
 
