@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=ABeeZee&display=swap');
+
+/*-----General style of BSL Game-----*/
+
+/* eliminates default margin & padding for all browsers */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding-top: 3em;
+}
+
+.header {
+    font-family: "Akaya Telivigala", sans-serif;
+}
+
+.main-content {
+    font-family: "ABeeZee", sans-serif;
+}
+
+/* -----Header----- */
+
+.bg-acid-green {
+    background-color: #BDBF09;
+}
+
+.navbar-brand {
+    font-family: "Akaya Telivigala", sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #0F0A0A;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-family: "Akaya Telivigala", sans-serif;
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #0F0A0A;
+}
+
+.bsl-logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3em;
+    width: auto;
+}
+
+.general-style {
+    background-color: #BDBF09;
+}
+
+/* -----Footer----- */
+
+.footer-style {
+    height: 7rem;
+    padding-top: 1.25rem;
+    line-height: 2.25rem;
+    background-color: #2292A4;
+}
+
+.social-links {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-evenly;
+}
+
+.social-links li a i {
+    height: 2.5rem;
+    width: 2.5rem;
+    padding: 1rem 0;
+    border-radius: 50%;
+    line-height: 8px;
+    font-size: 2rem;
+    color: #F5EFED;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    color: #BDBF09;
+    background: #F5EFED;
+    transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+}
+
+.social-links-item {
+    text-align: center;
+}
+
+.footer-links {
+    font-family: "ABeeZee", sans-serif;
+    font-size: 1.125rem;
+    color: #F5EFED;
+}
