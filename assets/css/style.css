@@ -52,6 +52,10 @@ body {
     color: #0F0A0A;
 }
 
+.navbar-collapse {
+    padding: 1rem;
+}
+
 .bsl-logo img {
     display: block;
     margin-left: auto;
