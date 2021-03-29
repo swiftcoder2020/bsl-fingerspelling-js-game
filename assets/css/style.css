@@ -12,8 +12,9 @@ body {
     padding-top: 3em;
 }
 
-.header {
+.heading {
     font-family: "Akaya Telivigala", sans-serif;
+    text-align: center;
 }
 
 .main-content {
