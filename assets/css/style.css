@@ -67,7 +67,7 @@ body {
 
 .bsl-logo img {
     display: block;
-    margin: auto;
+    margin: 0 auto;
     padding-top: 3em;
     width: auto;
 }
