@@ -45,6 +45,7 @@ body {
     font-weight: bold;
 }
 
+/* positions nav-items to the right in mobile view */
 .nav-item {
     text-align: right;
 }
@@ -53,8 +54,9 @@ body {
     color: #0F0A0A;
 }
 
+/* creates a gap between nav-items and toggle dropdown */
 .navbar-collapse {
-    padding: 1rem;
+    padding: 0.75rem;
 }
 
 /* Main section */
