@@ -23,6 +23,11 @@ body {
 
 /* -----Header----- */
 
+/* creates a shadow below the navbar in mobile view */
+.navbar {
+    box-shadow: 0 0 8px #0F0A0A;
+}
+
 .bg-acid-green {
     background-color: #BDBF09;
 }
