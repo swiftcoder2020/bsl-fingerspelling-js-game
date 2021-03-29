@@ -58,16 +58,16 @@ body {
 
 /* Main section */
 
+.general-style {
+    background-color: #BDBF09;
+}
+
 .bsl-logo img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-top: 3em;
     width: auto;
-}
-
-.general-style {
-    background-color: #BDBF09;
 }
 
 /* -----Footer----- */
