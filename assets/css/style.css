@@ -72,6 +72,17 @@ body {
     width: auto;
 }
 
+.button-style {
+    display: block;
+    margin: 3rem auto;    
+    font-family: "ABeeZee", sans-serif;
+    font-size: 1.25rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    background-color: #D96C06;
+    color: #F5EFED;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 768px) {
