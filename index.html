@@ -18,6 +18,7 @@
 </head>
 <body>
     <!-- extracted from Bootstrap version 5 https://getbootstrap.com/docs/5.0/components/navbar/#nav -->
+    <!-- navbar-expand-md is set at tablet breakpoint due to div class set at container rather container-fluid like MS1 -->
     <nav class="navbar navbar-expand-md fixed-top navbar-light bg-acid-green">
         <div class="container">
             <a class="navbar-brand" href="index.html">British Sign Language</a>
@@ -44,14 +45,67 @@
         </div>
     </nav>
     <main class="general-style">
-        <div class="bsl-logo">
-            <img src="assets/images/bsl-image.png" alt="British Sign Language logo">
+        <div class="text-center">
+            <div class="bsl-logo">
+                <img src="assets/images/bsl-image.png" alt="British Sign Language logo">
+            </div>
+            <!-- extracted from Bootstrap 5 https://getbootstrap.com/docs/5.0/components/modal/#live-demo -->
+            <!-- Introduction button to trigger modal -->
+            <button type="button" class="btn button-style" data-bs-toggle="modal" data-bs-target="#introModal">
+                <i class="far fa-lightbulb"></i>
+                <span class="icon">Introduction</span>
+            </button>
+            <!-- Introduction modal -->
+            <div class="modal fade" id="introModal" tabindex="-1" aria-labelledby="introModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h2 class="modal-title modal-heading" id="introModalLabel">Introduction</h2>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <p class="main-content"></p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary modal-button" data-bs-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <h1 class="heading">Fingerspelling Game</h1>
+            <!-- Instructions button to trigger modal -->
+            <button type="button" class="btn button-style" data-bs-toggle="modal" data-bs-target="#instructModal">
+                <i class="far fa-question-circle"></i>
+                <span class="icon">Instructions</span>
+            </button>
+            <!-- Instructions modal -->
+            <div class="modal fade" id="instructModal" tabindex="-1" aria-labelledby="instructModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h3 class="modal-title modal-heading" id="instructModalLabel">Instructions</h3>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <p class="main-content"></p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary modal-button" data-bs-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Play BSL Game button -->
+            <a href="bsl-game.html" class="btn button-style" role="button">
+                <i class="far fa-play-circle"></i>
+                <span class="icon">Play BSL Game</span>
+            </a>
+            <!-- Resources button -->
+            <a href="resources.html" class="btn button-style" role="button">
+                <i class="fas fa-info-circle"></i>
+                <span class="icon">Resources</span>
+            </a>
         </div>
-        <button class="button-style"><i class="far fa-lightbulb"></i>Introduction</button>
-        <h1 class="heading">Fingerspelling Game</h1>
-        <button class="button-style"><i class="far fa-question-circle"></i>Instructions</button>
-        <button class="button-style"><i class="far fa-play-circle"></i>Play</button>
-        <button class="button-style"><i class="fas fa-info-circle"></i>Resources</button>
     </main>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" 
