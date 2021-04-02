@@ -351,3 +351,15 @@ to a minimum by simply including a logo to complement the subject of the game.
 # Features
 
 # Technologies Utilised
+
+# Credits
+
+## Contents
+
+Context for the introduction into BSL was extracted from the [British Sign](https://www.british-sign.co.uk/) 
+website to ensure accurate representation and consistency of information.
+
+## Media
+
+The image logo to represent BSL had been obtained specifically via this webpage
+[Essex Local Offer](http://www.essexlocaloffer.org.uk/british-sign-language/).
