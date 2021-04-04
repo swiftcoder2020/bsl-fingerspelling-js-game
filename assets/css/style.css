@@ -119,6 +119,7 @@ body {
     margin-bottom: 1rem;
 }
 
+
 /* -----Media queries----- */
 
 @media (min-width: 576px) {
@@ -131,5 +132,32 @@ body {
     /* pushes down the main content due to a fixed-top Bootstrap styling from tablet view */
     body {
       padding-top: 5em;
+    }
+
+    /* following 3 classes extracted from https://codepen.io/bootstrapped/pen/yJqbPa */
+    /* positions it under each navigational link from tablet view */
+    .underline {
+        position: relative;
+        text-decoration: none;
+    }
+
+    .underline:after {
+        position: absolute;
+        content:'';
+        height: 3px;
+        bottom: 2px;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 50%;
+        background: #F5EFED;
+        -o-transition: .5s;
+        -webkit-transition: .5s;
+        transition: .5s;
+    }
+
+    .underline:hover:after {
+        width: 80%;
+        background: #D96C06;
     }
 }
