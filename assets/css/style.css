@@ -119,6 +119,54 @@ body {
     margin-bottom: 1rem;
 }
 
+/* -----Footer----- */
+
+.footer-style {
+    height: 9.5rem;
+    padding-top: 2.25rem;
+    line-height: 2.5rem;
+    background-color: #2292A4;
+    color: #F5EFED;
+}
+
+.social-links {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-evenly;
+}
+
+/* extracted from Rosie's résumé */
+.social-links li a i {
+    height: 2.5rem;
+    width: 2.5rem;
+    padding: 1rem 0;
+    border-radius: 50%;
+    line-height: 8px;
+    font-size: 2rem;
+    color: #F5EFED;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    color: #BDBF09;
+    background: #F5EFED;
+    transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+}
+
+.social-links-item {
+    text-align: center;
+}
+
+.footer-links {
+    font-family: "ABeeZee", sans-serif;
+    font-size: 1.125rem;
+    color: #F5EFED;
+}
 
 /* -----Media queries----- */
 
