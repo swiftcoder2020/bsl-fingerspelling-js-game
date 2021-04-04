@@ -115,6 +115,10 @@ body {
     border-color: #2292A4;
 }
 
+.play-listings > li {
+    margin-bottom: 1rem;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 576px) {
