@@ -79,6 +79,16 @@ body {
     padding-top: 25px;
 }
 
+.link-style {
+    display: block;
+    text-align: center;
+    line-height: 3rem;
+}
+
+.resource-content {
+    padding: 1rem 0.75rem;
+}
+
 /* Buttons */
 
 .button-style {
