@@ -178,6 +178,18 @@ body {
     color: #F5EFED;
 }
 
+/* -----Contact----- */
+
+.contact-content {
+    padding: 1rem 0.75rem;
+}
+
+.contact-heading {
+    margin-bottom: 0.9rem;
+    font-family: "Akaya Telivigala", sans-serif;
+    color: #0F0A0A;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 576px) {
