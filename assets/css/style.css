@@ -214,6 +214,11 @@ body {
     font-family: "ABeeZee", sans-serif;
 }
 
+.contact-button {
+    display: flex;
+    margin: 0 auto;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 576px) {
