@@ -19,10 +19,6 @@ body {
     text-align: center;
 }
 
-.heading-space {
-    padding-top: 25px;
-}
-
 .main-content {
     font-family: "ABeeZee", sans-serif;
     color: #0F0A0A;
@@ -77,6 +73,10 @@ body {
     margin: 0 auto;
     padding-top: 3em;
     width: auto;
+}
+
+.heading-space {
+    padding-top: 25px;
 }
 
 /* Buttons */
@@ -239,7 +239,8 @@ body {
         padding: 1rem 3rem;
     }
 }
-    @media (min-width: 1024px) {
+
+@media (min-width: 1024px) {
     .main-content {
         font-size: 1.25rem;
     }
