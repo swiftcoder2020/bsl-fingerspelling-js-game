@@ -222,6 +222,7 @@ body {
 .contact-button {
     display: flex;
     margin: 0 auto;
+    margin-top: 2rem;
 }
 
 /* -----Media queries----- */
