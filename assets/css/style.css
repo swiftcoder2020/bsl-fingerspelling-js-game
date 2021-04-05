@@ -205,6 +205,10 @@ body {
     color: #0F0A0A;
 }
 
+.form-group {
+    margin-bottom: 1.25rem;
+}
+
 .form-labels {
     font-family: "Akaya Telivigala", sans-serif;
     font-size: 1.25rem;
