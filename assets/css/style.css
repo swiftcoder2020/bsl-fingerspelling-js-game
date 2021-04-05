@@ -205,6 +205,11 @@ body {
     color: #0F0A0A;
 }
 
+.form-labels {
+    font-family: "Akaya Telivigala", sans-serif;
+    font-size: 1.25rem;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 576px) {
