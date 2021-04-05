@@ -166,6 +166,10 @@ body {
     text-align: center;
 }
 
+.social-links-item a:link {
+    text-decoration: none;
+}
+
 .footer-links {
     font-family: "ABeeZee", sans-serif;
     font-size: 1.125rem;
