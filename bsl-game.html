@@ -17,15 +17,17 @@
     <title>BSL Fingerspelling Game</title>
 </head>
 <body>
+    <!-- extracted from Bootstrap version 5 https://getbootstrap.com/docs/5.0/components/navbar/#nav -->
+    <!-- navbar-expand-md is set at tablet breakpoint due to div class set at container rather container-fluid like MS1 -->
     <nav class="navbar navbar-expand-md fixed-top navbar-light bg-acid-green">
         <div class="container">
             <a class="navbar-brand" href="index.html">British Sign Language</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarDropdown" 
             aria-controls="navbarDropdown" aria-expanded="false" aria-label="toggleNavigation">
                 <span class="navbar-toggler-icon"></span>
-            </button>            
+            </button>
             <div class="collapse navbar-collapse" id="navbarDropdown">
-                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
                         <a class="nav-link underline" aria-current="page" href="index.html">Home</a>
                     </li>
@@ -40,16 +42,18 @@
                     </li>
                 </ul>
             </div>
-
         </div>
     </nav>
     <main class="general-style">
-        <div class="bsl-logo">
-            <img src="assets/images/bsl-image.png" alt="BSL logo">
+        <div class="container">
+            <div class="bsl-logo">
+                <img src="assets/images/bsl-image.png" alt="BSL logo">
+            </div>
         </div>
     </main>
     <footer class="footer-style">
         <div class="container footer-container">
+            <!-- extracted from Rosie's résumé -->
             <ul class="list-inline social-links">
                 <li class="list-inline-item social-links-item">
                     <a href="https://www.github.com/swiftcoder2020" target="_blank" rel="noopener" aria-label="GitHub development community">
@@ -66,7 +70,7 @@
                     </a>
                 </li>
                 <li class="list-inline-item social-links-item">
-                    <a href="contact.html" target="_blank" rel="noopener" aria-label="Contact me!">
+                    <a href="contact.html" aria-label="Contact me!">
                         <i class="fas fa-envelope-square" aria-hidden="true" aria-label="LinkedIn icon to the developer's profile"></i>
                         <p class="footer-links">Contact me!</p>
                         <span class="sr-only">Contact me!</span>
