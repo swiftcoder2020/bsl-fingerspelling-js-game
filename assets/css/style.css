@@ -71,7 +71,7 @@ body {
 .bsl-logo img {
     display: block;
     margin: 0 auto;
-    padding-top: 2em;
+    padding-top: 3em;
     width: auto;
 }
 
@@ -264,6 +264,10 @@ body {
     .underline:hover:after {
         width: 80%;
         background: #D96C06;
+    }
+
+    .bsl-logo img {
+        padding-top: 2em;
     }
 
     .main-content {
