@@ -10,7 +10,7 @@
 
 /* pushes down the main content due to a fixed-top Bootstrap styling in mobile view */
 body {
-    padding-top: 3em;
+    padding-top: 2em;
 }
 
 .heading {
@@ -67,7 +67,7 @@ body {
 
 .general-style {
     background-color: #BDBF09;
-    padding-bottom: 1rem;
+    padding: 2rem 0;
 }
 
 .bsl-logo img {
