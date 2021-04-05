@@ -201,6 +201,7 @@ body {
 }
 
 .form-container {
+    padding: 0 10px;
     padding-bottom: 20px;
     color: #0F0A0A;
 }
