@@ -200,6 +200,11 @@ body {
     color: #0F0A0A;
 }
 
+.form-container {
+    padding: 20px 0px;
+    color: #3066be;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 576px) {
