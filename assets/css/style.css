@@ -272,6 +272,11 @@ body {
     .resource-content {
         padding: 1rem 3rem;
     }
+
+    .form-container {
+        margin: 0 auto;
+        width: 75%;
+    }
 }
 
 @media (min-width: 1024px) {
