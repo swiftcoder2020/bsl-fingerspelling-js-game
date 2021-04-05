@@ -18,6 +18,10 @@ body {
     text-align: center;
 }
 
+#heading-space {
+    padding-top: 25px;
+}
+
 .main-content {
     font-family: "ABeeZee", sans-serif;
 }
