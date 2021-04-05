@@ -285,10 +285,6 @@ body {
         padding-top: 2em;
     }
 
-    .main-content {
-        font-size: 1.125rem;
-    }
-
     .resource-content {
         padding: 1rem 3rem;
     }
@@ -301,7 +297,7 @@ body {
 
 @media (min-width: 1024px) {
     .main-content {
-        font-size: 1.25rem;
+        font-size: 1.125rem;
     }
 
     .resource-content {
