@@ -15,6 +15,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <title>BSL Fingerspelling Game</title>
+    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
+    <script type="text/javascript">
+        (function(){
+            emailjs.init("user_Vfh2h2XKDRZncTT4qzlel");
+        })();
+    </script>
 </head>
 <body>
     <!-- extracted from Bootstrap version 5 https://getbootstrap.com/docs/5.0/components/navbar/#nav -->
@@ -49,7 +55,39 @@
             <div class="bsl-logo">
                 <img src="assets/images/bsl-image.png" alt="BSL logo">
             </div>
-            <h1 id="heading-space" class="heading">Contact</h1>
+            <h1 class="heading heading-space">Contact me!</h1>
+            <!-- utilised Bootstrap's form and customised it -->
+            <div class="contact-content">
+                <h3 class="contact-heading"><i>Come and get in touch!</i></h3>
+                <p class="main-content">
+                    If you identify yourself as a prospective employer who is 
+                    impressed with this milestone project work, then I invite 
+                    you to contact me via the form below. Comments and/or 
+                    suggestions are welcome! Thank you in advance for your 
+                    interest!
+                </p>
+            </div>
+            <form class="form-container" onsubmit="return sendMail(this);">
+                <div class="form-group row">
+                    <label for="fullname" class="col-sm-2 col-form-label form-labels">Name</label>
+                    <div class="col-sm-10">
+                        <input type="text" id="fullname" name="fullname" class="form-control form-inputs" placeholder="Your full name" required/>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="emailaddress" class="col-sm-2 col-form-label form-labels">Email</label>
+                    <div class="col-sm-10">
+                        <input type="email" id="emailaddress" name="emailaddress" class="form-control form-inputs" placeholder="Your email address" required/>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="message" class="col-sm-2 col-form-label form-labels">Message</label>
+                    <div class="col-sm-10">
+                        <textarea class="form-control form-inputs" id="message" name="message" cols="30" rows="10" placeholder="Your message..."></textarea>
+                    </div>
+                </div>
+                <input class="btn btn-primary contact-button" type="submit" value="Submit my message">
+            </form>
         </div>
     </main>
     <footer class="footer-style">
@@ -80,6 +118,7 @@
             </ul>
         </div>
     </footer>
+<script src="sendEmail.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" 
 integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" 
