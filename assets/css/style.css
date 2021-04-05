@@ -138,17 +138,25 @@ body {
 /* -----Footer----- */
 
 .footer-style {
-    height: 9.5rem;
+    height: 12.5rem;
     padding-top: 2.25rem;
     line-height: 2.5rem;
     background-color: #2292A4;
     color: #F5EFED;
 }
 
+.footer-container {
+    text-align: center;
+}
+
 .social-links {
    display: flex;
    flex-flow: row wrap;
    justify-content: space-evenly;
+}
+
+.social-links dl, ol, ul {
+    margin-bottom: 0;
 }
 
 /* extracted from Rosie's résumé */
@@ -186,6 +194,13 @@ body {
     font-family: "ABeeZee", sans-serif;
     font-size: 1.125rem;
     color: #F5EFED;
+}
+
+.copyright {
+    font-family: "ABeeZee", sans-serif;
+    font-size: 0.75rem;
+    color: #F5EFED;
+    margin: 0 auto;
 }
 
 /* -----Contact----- */
