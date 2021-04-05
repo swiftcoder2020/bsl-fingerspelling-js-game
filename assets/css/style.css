@@ -15,6 +15,7 @@ body {
 
 .heading {
     font-family: "Akaya Telivigala", sans-serif;
+    color: #0F0A0A;
     text-align: center;
 }
 
@@ -24,6 +25,7 @@ body {
 
 .main-content {
     font-family: "ABeeZee", sans-serif;
+    color: #0F0A0A;
 }
 
 /* -----Header----- */
