@@ -300,6 +300,10 @@ body {
         font-size: 1.125rem;
     }
 
+    .modal-dialog {
+        max-width: 700px;
+    }
+
     .resource-content {
         padding: 1rem 7.5rem;
     }
