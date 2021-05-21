@@ -193,12 +193,14 @@ body {
 .footer-links {
     font-family: "ABeeZee", sans-serif;
     font-size: 1.125rem;
+    font-weight: 600;
     color: #F5EFED;
 }
 
 .copyright {
     font-family: "ABeeZee", sans-serif;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 600;
     color: #F5EFED;
     margin: 0 auto;
 }
@@ -238,6 +240,8 @@ body {
     display: flex;
     margin: 0 auto;
     margin-top: 2rem;
+    background-color: #2292A4;
+    font-weight: 500;
 }
 
 /* -----Media queries----- */
