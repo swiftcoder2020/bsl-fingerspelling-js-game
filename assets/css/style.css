@@ -241,7 +241,7 @@ body {
     margin: 0 auto;
     margin-top: 2rem;
     background-color: #2292A4;
-    border-color: #F5EFED;
+    border: 3px solid #F5EFED;
     font-weight: 500;
 }
 
