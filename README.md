@@ -156,7 +156,7 @@ The features which I envisage to incorporate into the project are as follows:
 
 * Instructions into the game that clearly defines into the usage of how it is to be played
 
-* Various high quality images that depicts a sign of an alphabetic letter
+* Various high quality images that depicts a sign of an alphabetic letter for clarity
 
 * The ability to flash each image to form a sequence into a word
 
@@ -168,7 +168,7 @@ through a modal
 * A countdown timer that gives users some breathing space prior to commencing the game
 
 * A timer that is based on each word which a user is given as opposed to the overall time allocated to 
-complete the game
+complete the game for ease of use
 
 * An interactive message that determines when the word is incorrect when typed in and notifies the user 
 by way of a positive/encouraging response yet apply complimentary praise when correct
