@@ -364,3 +364,6 @@ website to ensure accurate representation and consistency of information.
 
 The image logo to represent BSL had been obtained specifically via this webpage
 [Essex Local Offer](http://www.essexlocaloffer.org.uk/british-sign-language/).
+
+Also incorporated are a series of images which have been derived to be obtained 
+from, with grateful thanks to the Royal National Institute for Deaf (RNID).
