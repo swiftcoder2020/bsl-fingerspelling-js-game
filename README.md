@@ -267,7 +267,7 @@ logical thought process into different sections:
 ![BSL Fingerspelling Game Site Structure](assets/wireframes/bsl-game-sitemap.png)
 
 - **Home** :- this will include an image of a logo depicting a sign for each letter of BSL, various 
-buttons which two of these is to produce a modal and the remaining two a link to a webpage respectively. 
+buttons whereby two of these is to produce a modal and the remaining two a link to a webpage respectively. 
 Lastly, a footer will be included with icons that links to GitHub, LinkedIn and to 'Contact' webpage.
 - **BSL Game** :- it is to consist of the same image as 'Home', a div area in which the game will be 
 undertaken, that will contain four modals; firstly to select the game level, a countdown timer, an 
@@ -314,8 +314,8 @@ Source: [Coolors](https://coolors.co/0f0a0a-f5efed-2292a4-bdbf09-d96c06)
 The choice of these generated colours attracted me for its boldness, especially the tone of blue, green 
 and orange which I felt would initially work and complemented towards the idea which having alternated 
 these within my wireframes, I was satified with my final decision. The focal colours that will be used 
-on the website is primarily the fluorescent green and turquoise blue whereby #BDBF09 will be used within 
-the main content and #2292A4 will be applied to the footer which are both separate elements. 
+on the website is primarily the fluorescent green and teal whereby #BDBF09 will be used within the main 
+content and #2292A4 will be applied to the footer which are both separate elements. 
 
 For the buttons, I thought it was appropriate to use the orange (#D96C06) as a background colour with a 
 tone of white (#F5EFED) for the font, which instinctively I had realised accessibility needed to be 
@@ -326,10 +326,10 @@ bold weight, this was deemed as acceptable.
 Separately, in relation to the modals, I was conscious of not overpowering the background colour by 
 utilising the orange (#D96C06) as it may be perceived as a warning alert message, therefore I took the 
 sensible decision to have a white (#F5EFED) background, then utilise the orange (#D96C06) for the border 
-with a turquoise blue (#2292A4) as the font colour. I had intended in wanting to apply the fluorescent 
-green (#BDBF09) as the font colour, to give an element of positivity in various messages, however, 
-much to my disappointment Accessible Colours deemed this as a fail therefore a blend of black (#0F0A0A) 
-was an appropriate alternative which I decided to choose in place of my preference.
+with a teal (#2292A4) as the font colour. I had intended in wanting to apply the fluorescent green 
+(#BDBF09) as the font colour, to give an element of positivity in various messages, however, much to my 
+disappointment Accessible Colours deemed this as a fail therefore a blend of black (#0F0A0A) was an 
+appropriate alternative which I decided to choose in place of my preference.
 
 ### Typography
 
