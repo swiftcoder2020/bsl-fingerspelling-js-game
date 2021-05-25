@@ -36,12 +36,12 @@
 # Overview
 
 As I approached the second milestone project, which derives on the learning experience of exploring 
-through the fundamentals of JavaScript and the Interactive Front-End Development modules (which focuses 
-on jQuery, Application Programming Interfaces (abbreviated as API) and utilising an email service), 
+through the fundamentals of JavaScript and the Interactive Front-End Development modules (that focuses 
+on jQuery, Application Programming Interfaces (abbreviated as API) and utilising an email JS service), 
 attention has now progressively transitioned from a static site to one that will become interactive 
 whereby it allows visitors to actively engage with data. It also completes what's known as the 'trinity 
 of web development' that forms the basis of front-end development which concerns itself with components 
-such as HTML, CSS and the addition of JavaScript or any of its associations.
+such as HTML, CSS and the additional insight into JavaScript plus any of its associations.
 
 The core focal point of this project will consist of constructing an interactive front-end website that 
 will provide the value of enabling users a sense of engagement and to interact with the data as presented 
