@@ -346,7 +346,8 @@ appropriate yet in moderation such as to activate the game and social media link
 ### Imagery
 
 In order to fully engage with the development of JavaScript, I have decided to keep the number of imagery 
-to a minimum by simply including a logo to complement the subject of the game.
+to a minimum by simply including a logo to complement the subject of the game and also incorporate a series
+of images within the BSL Fingerspelling Game.
 
 # Features
 
