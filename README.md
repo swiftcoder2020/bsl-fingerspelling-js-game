@@ -255,8 +255,8 @@ which again, retains the simplicity into the website and as aforementioned to al
 the development of the JavaScript game.
 
 It will be structured in the form of a simple yet basic hierarchy whereby at the top level will be 'Home', 
-and the remainders will be at a level that is horizontally in equal measure such as 'Fingerspelling game', 
-'Resources' and 'Contact'. Within the next section will illustrate this thought process.
+and the remainders will be at a level that is horizontally in equal measure such as 'BSL Fingerspelling 
+game', 'Resources' and 'Contact'. Within the next section will illustrate this thought process.
 
 #### Sitemap
 
