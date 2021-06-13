@@ -277,10 +277,12 @@ logical thought process into different sections:
 - **Home** :- this will include an image of a logo depicting a sign for each letter of BSL, various 
 buttons whereby two of these is to produce a modal and the remaining two a link to a webpage respectively. 
 Lastly, a footer will be included with icons that links to GitHub, LinkedIn and to 'Contact' webpage.
-- **BSL Game** :- it is to consist of the same image as 'Home', a div area in which the game will be 
-undertaken, that will contain four modals; firstly to select the game level, a countdown timer, an 
-interactive positive/encouraging message and finally a concluding modal for the overall score & to 
-restart the game.
+- **BSL Game** :- it is to consist of the same image as 'Home', a div area (originally I had considered 
+using the canvas element as the area where the active game is to be played, however after consulting with 
+the Slack community, my mentor and IFD Lead, it was recommended that I steer away from utilising this) in 
+which the game will be undertaken, that will contain four modals; firstly to select the game level, a 
+countdown timer, an interactive positive/encouraging message and finally a concluding modal for the 
+overall score & to restart the game.
 - **Resources** :- I plan to provide new/returning visitors with a range of resourceful information to 
 supplement their learning or interest with links to various websites.
 - **Contact** :- Again, quite simply this will be a contact form that will reset when submitted and the 
