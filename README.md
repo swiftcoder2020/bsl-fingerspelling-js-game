@@ -187,6 +187,7 @@ by way of a positive/encouraging response yet apply complimentary praise when co
 * An overview message into the progress of their learning and to provide positive encouragement
 
 These items are above are determined in the below table:
+*(scale is judged whereby 0 is insignificant and 5 represents as very important)*
 
 | Item | Description                       | Importance | Viability | Score |
 | ---- | --------------------------------- | ---------- | --------- | ----- |
