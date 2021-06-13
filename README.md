@@ -4,8 +4,15 @@
 </div>
 
 # British Sign Language Fingerspelling:- An Educational JavaScript Memory Matching Game
-
 *Constructed as part of Code Institute's Milestone 2 Project: Interactive Front-End Development module*
+
+## Demonstration
+
+### **Responsive image of site**
+
+<img src="#">
+
+**[Active link to the website portfolio](https://swiftcoder2020.github.io/bsl-fingerspelling-js-game/)**
 
 ## Table of Contents
 
