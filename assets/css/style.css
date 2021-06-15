@@ -205,6 +205,17 @@ body {
     margin: 0 auto;
 }
 
+/* -----BSL game----- */
+.bsl-guide {
+    overflow-x: auto;
+}
+
+img {
+    width: 4rem;
+    height: auto;
+    padding: 0.2rem;
+}
+
 /* -----Contact----- */
 
 .contact-content {
