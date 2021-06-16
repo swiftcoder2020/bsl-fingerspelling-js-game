@@ -221,6 +221,10 @@ body {
     font-size: 3rem;
 }
 
+.play-font {
+    font-family: "ABeeZee", sans-serif;
+}
+
 .bsl-guide {
     overflow-x: auto;
 }
