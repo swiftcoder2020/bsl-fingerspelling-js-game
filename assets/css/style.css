@@ -206,6 +206,17 @@ body {
 }
 
 /* -----BSL game----- */
+.bsl-game-container {
+    margin: 1rem 0;
+    padding: 0.75rem;
+    border: 3px solid #0F0A0A;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px #F5EFED;
+    background-color: #F5EFED;
+    text-align: center;
+    color: #D96C06;
+}
+
 .bsl-guide {
     overflow-x: auto;
 }
@@ -215,6 +226,7 @@ img {
     height: auto;
     padding: 0.2rem;
 }
+
 
 /* -----Contact----- */
 
