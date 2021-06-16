@@ -229,6 +229,12 @@ body {
     overflow-x: auto;
 }
 
+.bsl-letters {
+    font-family: "ABeeZee", sans-serif;
+    text-align: center;
+    color: #0F0A0A;
+}
+
 img {
     width: 4rem;
     height: auto;
