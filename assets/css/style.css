@@ -217,6 +217,10 @@ body {
     color: #D96C06;
 }
 
+.play-button {
+    font-size: 3rem;
+}
+
 .bsl-guide {
     overflow-x: auto;
 }
@@ -226,7 +230,6 @@ img {
     height: auto;
     padding: 0.2rem;
 }
-
 
 /* -----Contact----- */
 
