@@ -207,7 +207,8 @@ body {
 
 /* -----BSL game----- */
 .bsl-game-container {
-    margin: 1rem 0;
+    height: 30vh;
+    margin: 2rem 0;
     padding: 0.75rem;
     border: 3px solid #0F0A0A;
     border-radius: 10px;
