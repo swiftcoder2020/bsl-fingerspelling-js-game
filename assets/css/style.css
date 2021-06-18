@@ -47,6 +47,10 @@ body {
     font-weight: bold;
 }
 
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(217, 108, 6, 0.9);
+}
+
 /* positions nav-items to the right in mobile view */
 .nav-item {
     text-align: right;
