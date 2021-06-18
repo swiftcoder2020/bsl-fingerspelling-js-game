@@ -205,8 +205,14 @@ body {
     margin: 0 auto;
 }
 
+/* source for centring icon horizontally & vertically
+https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-and-vertically-inside-a-div-block */
 /* -----BSL game----- */
 .bsl-game-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     height: 30vh;
     margin: 2rem 0;
     padding: 0.75rem;
