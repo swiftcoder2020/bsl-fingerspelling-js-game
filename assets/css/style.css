@@ -26,7 +26,7 @@ body {
 
 /* -----Header----- */
 
-/* creates a shadow below the navbar in mobile view */
+/* creates a shadow below the navbar in mobile view to separate main content */
 .navbar {
     box-shadow: 0 0 8px #0F0A0A;
 }
