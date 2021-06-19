@@ -26,11 +26,6 @@ body {
 
 /* -----Header section----- */
 
-/* creates a shadow below the navbar in mobile view to separate main content */
-.navbar {
-    box-shadow: 0 0 8px #0F0A0A;
-}
-
 .bg-acid-green {
     background-color: #BDBF09;
 }
@@ -47,15 +42,12 @@ body {
     font-weight: bold;
 }
 
+/* colours the active link */
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link {
     color: rgba(217, 108, 6, 0.9);
 }
 
-/* positions nav-items to the right in mobile view */
-.nav-item {
-    text-align: right;
-}
-
+/* colours the links when hovered on */
 .navbar-light .navbar-brand {
     color: #0F0A0A;
 }
@@ -65,7 +57,17 @@ body {
     padding: 0.75rem;
 }
 
-/* Main section */
+/* positions nav-items to the right in mobile view */
+.nav-item {
+    text-align: right;
+}
+
+/* creates a shadow below the navbar to separate main content */
+.navbar {
+    box-shadow: 0 0 8px #0F0A0A;
+}
+
+/* -----Main section----- */
 
 .general-style {
     background-color: #BDBF09;
@@ -93,7 +95,7 @@ body {
     padding: 1rem 0.75rem;
 }
 
-/* Buttons */
+/* -----Buttons----- */
 
 .button-style {
     display: block;
@@ -112,7 +114,16 @@ body {
     padding: 0.5rem;
 }
 
-/* Modals */
+.contact-button {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 2rem;
+    background-color: #2292A4;
+    border: 3px solid #F5EFED;
+    font-weight: 500;
+}
+
+/* -----Modals----- */
 
 /* homepage */
 .modal-content {
@@ -160,11 +171,12 @@ body {
    justify-content: space-evenly;
 }
 
+/* removes the preset spacing to push up the copyright section */
 .social-links dl, ol, ul {
     margin-bottom: 0;
 }
 
-/* extracted from Rosie's résumé */
+/* social-links extracted & improvised from Rosie's résumé */
 .social-links li a i {
     height: 2.5rem;
     width: 2.5rem;
@@ -179,6 +191,7 @@ body {
     -o-transition: all 0.35s ease-in-out;
 }
 
+/* also extracted & improvised from Rosie's résumé */
 .social-links li a i:hover {
     color: #BDBF09;
     background: #F5EFED;
@@ -210,9 +223,10 @@ body {
     margin: 0 auto;
 }
 
-/* source for centring icon horizontally & vertically
-https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-and-vertically-inside-a-div-block */
 /* -----BSL game----- */
+
+/* source extracted on lines 221 - 224 for centring icon horizontally & vertically
+https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-and-vertically-inside-a-div-block */
 .bsl-game-container {
     display: flex;
     flex-direction: column;
@@ -244,6 +258,7 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
     font-weight: bold;
 }
 
+/* keeps the table within the webpage rather than overflowing */
 .bsl-guide {
     overflow-x: auto;
 }
@@ -254,6 +269,7 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
     color: #0F0A0A;
 }
 
+/* styles the BSL alphabet images */
 img {
     width: 4rem;
     height: auto;
@@ -262,6 +278,7 @@ img {
 
 /* -----Contact----- */
 
+/* separates the gap between heading and contact form */
 .contact-content {
     padding: 1rem 0.75rem;
 }
@@ -289,15 +306,6 @@ img {
 
 .form-inputs {
     font-family: "ABeeZee", sans-serif;
-}
-
-.contact-button {
-    display: flex;
-    margin: 0 auto;
-    margin-top: 2rem;
-    background-color: #2292A4;
-    border: 3px solid #F5EFED;
-    font-weight: 500;
 }
 
 /* -----Media queries----- */
