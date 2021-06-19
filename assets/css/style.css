@@ -110,6 +110,10 @@ body {
     color: #F5EFED;
 }
 
+.btn:hover {
+    color: #0f0a0a;
+}
+
 .icon {
     padding: 0.5rem;
 }
