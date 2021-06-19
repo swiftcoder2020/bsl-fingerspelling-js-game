@@ -31,7 +31,7 @@ window.onclick = function(event) {
 
 // declare an array variable associated with deaf culture
 const bslwords = ["bond", "social", "touch", "rnid", "company", "dog", "attentive", 
-"express", "deaf", "sign", "hand", "mouth", "lip", "read", "visual", "contact", "eye",
+"express", "deaf", "sign", "hand", "mouth", "lip", "read", "visual", "contact", "eye", 
 "fingers", "sense", "belong", "culture", "diverse", "values", "beliefs", "identity"];
 console.log(bslwords);
 
