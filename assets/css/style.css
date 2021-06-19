@@ -143,6 +143,7 @@ body {
 }
 
 .modal-button {
+    margin: auto;
     background-color: #2292A4;
     border-color: #2292A4;
 }
@@ -322,7 +323,7 @@ img {
       padding-top: 5em;
     }
 
-    /* following 3 classes extracted from https://codepen.io/bootstrapped/pen/yJqbPa */
+    /* following 3 classes extracted & improvised from https://codepen.io/bootstrapped/pen/yJqbPa */
     /* positions it under each navigational link from tablet view */
     .underline {
         position: relative;
