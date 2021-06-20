@@ -174,20 +174,24 @@ body {
 
 /* also extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp */
 .game-intro-content {
-    width: 80%;
+    width: 85%;
     margin: auto;
-    padding: 20px;
+    padding: 15px;
     background-color: #F5EFED;
     border: 4px solid #D96C06;
     border-radius: 8px;
+    font-family: "Akaya Telivigala", sans-serif;
+    font-size: 1.15rem;
+    font-weight: bold;
+    color: #2292A4;
 }
 
 /* also extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp */
 .close {
     float: right;
     position: relative;
-    top: -20px;
-    right: -10px;
+    top: -15px;
+    right: -5px;
     color: #aaaaaa;
     font-size: 28px;
     font-weight: bold;
