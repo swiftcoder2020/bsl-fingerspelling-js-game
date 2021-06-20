@@ -137,6 +137,7 @@ body {
 .play-game {
     width: 105px;
     padding: 5px;
+    margin-bottom: 1rem;
     background-color: #2292A4;
     color: #F5EFED;
 }
