@@ -21,7 +21,7 @@ span.onclick = function() {
 
 // when the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
+    if (event.target == gameModal) {
         gameModal.style.display = "none";
     }
 }
