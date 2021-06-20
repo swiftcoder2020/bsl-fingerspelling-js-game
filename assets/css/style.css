@@ -127,6 +127,20 @@ body {
     font-weight: 500;
 }
 
+.speed-level {
+    width: 75px;
+    padding: 5px;
+    background-color: #D96C06;
+    color: #F5EFED;
+}
+
+.play-game {
+    width: 105px;
+    padding: 5px;
+    background-color: #2292A4;
+    color: #F5EFED;
+}
+
 /* -----Modals----- */
 
 /* Homepage */
