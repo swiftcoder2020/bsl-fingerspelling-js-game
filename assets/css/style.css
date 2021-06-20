@@ -421,6 +421,14 @@ img {
         padding-top: 2em;
     }
 
+    .game-intro-modal {
+        padding-top: 304px;
+    }
+
+    .game-intro-content {
+        width: 85%;
+    }
+
     .resource-content {
         padding: 1rem 3rem;
     }
