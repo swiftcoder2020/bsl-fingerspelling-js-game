@@ -59,29 +59,30 @@
                 <img src="" alt="">
                 <!-- modal extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp -->
                 <!-- Game introductory modal -->
-                    <div id="gameIntroModal" class="game-intro-modal">
-                        <!-- Game introductory modal content -->
-                        <div class="game-intro-content">
-                            <span class="close">&times;</span>
-                            <div class="heading-space">
-                                <label for="forename">Insert forename:</label>
-                                <input type="text">
-                            </div>
-                            <div class="heading-space">
-                                <p>Select your game speed level:</p>
-                                <button class="speed-level">Easy</button>
-                                <button class="speed-level">Medium</button>
-                                <button class="speed-level">Hard</button>
-                            </div>
-                            <div class="heading-space">
-                                <button class="play-game">Play Game!</button>
-                            </div>
+                <div id="gameIntroModal" class="game-intro-modal">
+                    <!-- Game introductory modal content -->
+                    <div class="game-intro-content">
+                        <span class="close">&times;</span>
+                        <div class="heading-space">
+                            <label for="forename">Insert forename:</label>
+                            <input type="text">
+                        </div>
+                        <div class="heading-space">
+                            <p>Select your game speed level:</p>
+                            <button class="speed-level">Easy</button>
+                            <button class="speed-level">Medium</button>
+                            <button class="speed-level">Hard</button>
+                        </div>
+                        <div class="heading-space">
+                            <button class="play-game">Play Game!</button>
                         </div>
                     </div>
                 </div>
-            <div>
-                <label for="bsl-answer">Your guess/answer:</label>
-                <input type="text">
+                <div id="bslTimer" class="bsl-timer"></div>
+                <div>
+                    <label for="bsl-answer">Your guess/answer:</label>
+                    <input type="text">
+                </div>
             </div>
             <!-- utilise grid or flexbox to make this section responsive -->
             <div class="bsl-guide">
