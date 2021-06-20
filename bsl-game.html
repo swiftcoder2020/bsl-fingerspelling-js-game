@@ -55,24 +55,30 @@
             <div class="bsl-game-container">
                 <!-- the id attribute triggers/opens the modal and is a reference to JS -->
                 <i class="far fa-play-circle play-button" id="playButtonModal"></i>
-                <p class="play-font">Play Game</p>
+                <p class="play-font">Click to start!</p>
                 <img src="" alt="">
-            </div>
-            <!-- modal extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp -->
-            <!-- Game introductory modal -->
-            <div id="gameIntroModal" class="game-intro-modal">
-                <!-- Game introductory modal content -->
-                <div class="game-intro-content">
-                    <span class="close">&times;</span>
-                    <label for="">Insert forename:</label>
-                    <input type="text">
-                    <br>
-                    <p>Select your game speed level:</p>
-                    <button>Easy</button>
-                    <button>Medium</button>
-                    <button>Hard</button>
+                <!-- modal extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp -->
+                <!-- Game introductory modal -->
+                    <div id="gameIntroModal" class="game-intro-modal">
+                        <!-- Game introductory modal content -->
+                        <div class="game-intro-content">
+                            <span class="close">&times;</span>
+                            <div>
+                                <label for="">Insert forename:</label>
+                                <input type="text">
+                            </div>
+                            <div>
+                                <p>Select your game speed level:</p>
+                                <button>Easy</button>
+                                <button>Medium</button>
+                                <button>Hard</button>
+                            </div>
+                            <div>
+                                <button>Play Game</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
             <div>
                 <label for="bsl-answer">Your guess/answer:</label>
                 <input type="text">
