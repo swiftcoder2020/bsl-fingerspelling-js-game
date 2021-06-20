@@ -130,6 +130,7 @@ body {
 .speed-level {
     width: 75px;
     padding: 5px;
+    margin: 0 2px;
     background-color: #D96C06;
     color: #F5EFED;
 }
