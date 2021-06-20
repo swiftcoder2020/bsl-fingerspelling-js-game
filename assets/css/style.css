@@ -177,7 +177,7 @@ body {
     display: none; /* hidden by default */
     position: fixed; /* stay in place */
     z-index: 1; /* sit on top */
-    padding-top: 260px; /* location of the box */
+    padding-top: 250px; /* location of the box */
     left: 0;
     top: 0;
     width: 100%; /* full width */
