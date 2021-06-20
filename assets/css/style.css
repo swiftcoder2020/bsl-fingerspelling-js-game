@@ -162,7 +162,7 @@ body {
     display: none; /* hidden by default */
     position: fixed; /* stay in place */
     z-index: 1; /* sit on top */
-    padding-top: 270px; /* location of the box */
+    padding-top: 265px; /* location of the box */
     left: 0;
     top: 0;
     width: 100%; /* full width */
@@ -174,7 +174,7 @@ body {
 
 /* also extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp */
 .game-intro-content {
-    width: 85%;
+    width: 90%;
     margin: auto;
     padding: 15px;
     background-color: #F5EFED;
