@@ -85,6 +85,12 @@ body {
     padding-top: 25px;
 }
 
+.heading-underline {
+    border-bottom: 4px solid #D96C06;
+    width: 9rem;
+    margin: 0 auto;
+}
+
 .link-style {
     display: block;
     text-align: center;
@@ -423,6 +429,10 @@ img {
         padding-top: 2em;
     }
 
+    .heading-underline {
+        width: 11rem;
+    }
+
     .game-intro-modal {
         padding-top: 296px;
     }
@@ -442,6 +452,10 @@ img {
 }
 
 @media (min-width: 1024px) {
+    .heading-underline {
+        width: 12rem;
+    }
+    
     .main-content {
         font-size: 1.125rem;
     }
@@ -452,5 +466,11 @@ img {
 
     .resource-content {
         padding: 1rem 7.5rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .heading-underline {
+        width: 13rem;
     }
 }
