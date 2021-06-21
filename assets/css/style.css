@@ -394,12 +394,12 @@ img {
 
     /* following 3 classes extracted & improvised from https://codepen.io/bootstrapped/pen/yJqbPa */
     /* positions it under each navigational link from tablet view */
-    .underline {
+    .link-underline {
         position: relative;
         text-decoration: none;
     }
 
-    .underline:after {
+    .link-underline:after {
         position: absolute;
         content:'';
         height: 3px;
@@ -414,7 +414,7 @@ img {
         transition: .5s;
     }
 
-    .underline:hover:after {
+    .link-underline:hover:after {
         width: 80%;
         background: #D96C06;
     }
