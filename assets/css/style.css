@@ -186,6 +186,21 @@ body {
     border-color: #2292A4;
 }
 
+.modal-button:hover {
+    margin: auto;
+    background-color: #F5EFED;
+    border: 2px solid #2292A4;
+    color: #2292A4;
+    font-weight: bold;
+}
+
+.modal-button:focus {
+    margin: auto;
+    background-color: #2292A4;
+    border-color: #2292A4;
+    color: #F5EFED;
+}
+
 .play-listings > li {
     margin-bottom: 1rem;
 }
