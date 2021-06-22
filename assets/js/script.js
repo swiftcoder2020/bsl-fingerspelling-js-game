@@ -9,6 +9,11 @@ const playIconButton = document.getElementById("playButtonModal");
 // get the span element that closes the modal
 const modalClose = document.getElementsByClassName("close")[0];
 
+// get each of the game speed level buttons
+const gameEasy = document.getElementById("bslGameEasy");
+const gameMedium = document.getElementById("bslGameMedium");
+const gameHard = document.getElementById("bslGameHard");
+
 // get the button element that commences the BSL game
 const commenceGame = document.getElementById("playGame");
 
