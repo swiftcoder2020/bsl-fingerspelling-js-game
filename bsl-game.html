@@ -49,9 +49,11 @@
             <div class="bsl-logo">
                 <img src="assets/images/bsl-image.png" alt="BSL logo">
             </div>
-            <!-- div (originally a canvas) with a play FontAwesome button that produces a modal when 
-                 clicked to offer users the opportunity to enter their forename and to specify 3 x 
-                 levels to select a speed i.e. easy/medium/hard before pressing 'Play Game!'. -->
+            <!-- 
+                div (originally a canvas) with a play FontAwesome button that produces a modal when 
+                clicked to offer users the opportunity to enter their forename and to specify 3 x 
+                levels to select a speed i.e. easy/medium/hard before pressing 'Play Game!'. 
+            -->
             <div class="bsl-game-container">
                 <noscript class="main-content">
                     If you are viewing this message, then this means that you currently have
@@ -71,21 +73,27 @@
                             <input id="forename" type="text" name="forename" placeholder="Your first name...">
                         </div>
                         <div class="heading-space">
-                            <!-- once one of the speed buttons is clicked on, the button should 
-                                 change colour so that the user knows what they have selected
-                                 prior to clicking on the 'Play Game!' button -->
+                            <!-- 
+                                once one of the speed buttons is clicked on, the button should 
+                                change colour so that the user knows what they have selected
+                                prior to clicking on the 'Play Game!' button 
+                            -->
                             <p>Select your game speed level:</p>
-                            <!-- the onclick is a reference point for JS to know which option the
-                                 user/visitor has selected -->
+                            <!-- 
+                                the onclick is a reference point for JS to know which option the
+                                user/visitor has selected 
+                            -->
                             <button id="bslGameEasy" class="speed-level" onclick="setLevel(1)">Easy</button>
                             <button id="bslGameMedium" class="speed-level" onclick="setLevel(2)">Medium</button>
                             <button id="bslGameHard" class="speed-level" onclick="setLevel(3)">Hard</button>
                         </div>
                         <div class="heading-space">
-                            <!-- once this button is pressed, the play icon & 'Click to start!' 
-                                 is removed and replaced with ?another div? to start the game 
-                                 to include a score, time, a series of images and an input for
-                                 the user/visitor to enter their answer/guess -->
+                            <!-- 
+                                once this button is pressed, the play icon & 'Click to start!' 
+                                is removed and replaced with ?another div? to start the game 
+                                to include a score, time, a series of images and an input for
+                                the user/visitor to enter their answer/guess 
+                            -->
                             <button id="playGame"class="play-game">Play Game!</button>
                         </div>
                     </div>
@@ -240,9 +248,11 @@
             <span class="copyright">Copyright @Jonathan Swift © 2021</span>
         </div>
     </footer>
-<!-- it is recommended that the scripts are placed at the end of the body section (immediately
-     before the </body> closing tag so the browser can render the web page before interpreting
-     the script) -->
+<!-- 
+    it is recommended that the scripts are placed at the end of the body section (immediately
+    before the closing body tag so the browser can render the web page before interpreting
+    the script) 
+-->
 <script src="assets/js/script.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" 
