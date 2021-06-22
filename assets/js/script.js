@@ -17,7 +17,7 @@ const gameHard = document.getElementById("bslGameHard");
 // get the button element that commences the BSL game
 const commenceGame = document.getElementById("playGame");
 
-// when the user/visitor clicks the button, open the modal
+// when the user/visitor clicks the play icon button, open the modal
 playIconButton.onclick = function() {
     gameModal.style.display = "block";
 }
