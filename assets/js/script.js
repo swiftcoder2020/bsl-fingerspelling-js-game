@@ -29,6 +29,11 @@ window.onclick = function(event) {
     }
 }
 
+// when the user/visitor clicks on the 'Play Game' button, the game simply commences
+commenceGame.onclick = function() {
+    
+}
+
 // create a function for each specific speed i.e. easy/medium/hard (slow/normal/fast)
 
 
