@@ -71,16 +71,16 @@
                             <!-- once one of the speed buttons is clicked on, the button should 
                                  change colour so that the user knows what they have selected
                                  prior to clicking on the 'Play Game!' button -->
-                            <button class="speed-level">Easy</button>
-                            <button class="speed-level">Medium</button>
-                            <button class="speed-level">Hard</button>
+                            <button id="bslGameEasy" class="speed-level" onclick="setLevel(1)">Easy</button>
+                            <button id="bslGameMedium" class="speed-level" onclick="setLevel(2)">Medium</button>
+                            <button id="bslGameHard" class="speed-level" onclick="setLevel(3)">Hard</button>
                         </div>
                         <div class="heading-space">
                             <!-- once this button is pressed, the play icon & 'Click to start!' 
                                  is removed and replaced with ?another div? to start the game 
                                  to include a score, time, a series of images and an input for
                                  the user/visitor to enter their answer/guess -->
-                            <button class="play-game">Play Game!</button>
+                            <button id="playGame"class="play-game">Play Game!</button>
                         </div>
                     </div>
                 </div>                
