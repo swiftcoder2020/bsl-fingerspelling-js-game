@@ -44,14 +44,17 @@ function setLevel(level) {
     if (level === 1) {
         document.getElementById("bslGameEasy").style.backgroundColor = "#2292A4";
         speedLevel = 1000;
+        console.log(level);
     }
     if (level === 2) {
         document.getElementById("bslGameMedium").style.backgroundColor = "#2292A4";
         speedLevel = 2000;
+        console.log(level);
     }
     if (level === 3) {
         document.getElementById("bslGameHard").style.backgroundColor = "#2292A4";
         speedLevel = 3000;
+        console.log(level);
     }
 }
 
