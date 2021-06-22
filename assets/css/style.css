@@ -120,12 +120,6 @@ body {
     color: #0f0a0a;
 }
 
-.button-style:focus {
-    background-color:#F5EFED;
-    border: 2px solid #D96C06;
-    color: #D96C06;
-}
-
 .icon {
     padding: 0.5rem;
 }
