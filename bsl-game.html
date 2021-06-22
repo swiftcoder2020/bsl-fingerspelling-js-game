@@ -53,6 +53,10 @@
                  clicked to offer users the opportunity to enter their forename and to specify 3 x 
                  levels to select a speed i.e. easy/medium/hard before pressing 'Play Game!'. -->
             <div class="bsl-game-container">
+                <noscript class="main-content">
+                    If you are viewing this message, then this means that you currently have
+                    JavaScript disabled in your browser.
+                </noscript>
                 <!-- the id attribute triggers/opens the modal and is a reference to JS -->
                 <i id="playButtonModal" class="far fa-play-circle play-button"></i>
                 <p class="play-font">Click to start!</p>
@@ -236,6 +240,9 @@
             <span class="copyright">Copyright @Jonathan Swift © 2021</span>
         </div>
     </footer>
+<!-- it is recommended that the scripts are placed at the end of the body section (immediately
+     before the </body> closing tag so the browser can render the web page before interpreting
+     the script) -->
 <script src="assets/js/script.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" 
