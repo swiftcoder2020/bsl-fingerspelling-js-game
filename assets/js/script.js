@@ -9,7 +9,7 @@ const playIconButton = document.getElementById("playButtonModal");
 // get the span element that closes the modal
 const modalClose = document.getElementsByClassName("close")[0];
 
-// get each of the game speed level buttons
+// get each of the game speed levels defined within the buttons
 const gameEasy = document.getElementById("bslGameEasy");
 const gameMedium = document.getElementById("bslGameMedium");
 const gameHard = document.getElementById("bslGameHard");
@@ -34,25 +34,26 @@ window.onclick = function(event) {
     }
 }
 
-// when the user/visitor clicks on the 'Play Game' button, the game simply commences
+/* when the user/visitor clicks on the 'Play Game' button, the game simply commences by
+displaying a series of images */
 commenceGame.onclick = function() {
     
 }
 
-// create a function for each specific speed i.e. easy/medium/hard (slow/normal/fast)
+/* create a function that determines which of each specific speed i.e. easy/medium/hard 
+(slow/normal/fast) has been clicked on so that a change in background colour can be applied, 
+yet only one of the three options can be selected. Then specify a speed as a time in 
+milliseconds. */
 function setLevel(level) {
     if (level === 1) {
-        document.getElementById("bslGameEasy").style.backgroundColor = "#2292A4";
         speedLevel = 1000;
         console.log(level);
     }
     if (level === 2) {
-        document.getElementById("bslGameMedium").style.backgroundColor = "#2292A4";
         speedLevel = 2000;
         console.log(level);
     }
     if (level === 3) {
-        document.getElementById("bslGameHard").style.backgroundColor = "#2292A4";
         speedLevel = 3000;
         console.log(level);
     }
