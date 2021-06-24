@@ -1,6 +1,9 @@
+// @ts-check <--- refer to Gitpod Welcome, this is the JavaScript Type Checking to spot mistakes
+
 // lines 3 - 27 extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp
 // Game introductory modal
-// get the modal
+// get the modal and assign it to a variable
+// according to w3schools getElementById finds an HTML element with id e.g id="gameIntroModal"
 const gameModal = document.getElementById("gameIntroModal");
 
 // get the play button that opens the modal
