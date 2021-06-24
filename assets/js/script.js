@@ -46,7 +46,7 @@ yet only one of the three options can be selected. Then specify a speed as a tim
 milliseconds. */
 function setLevel(level) {
     if (level === 1) {
-        speedLevel = 1000;
+        speedLevel = 3000;
         console.log(level);
     }
     if (level === 2) {
@@ -54,7 +54,7 @@ function setLevel(level) {
         console.log(level);
     }
     if (level === 3) {
-        speedLevel = 3000;
+        speedLevel = 1000;
         console.log(level);
     }
 }
