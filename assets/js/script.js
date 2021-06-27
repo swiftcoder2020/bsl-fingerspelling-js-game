@@ -62,3 +62,13 @@ console.log(bslwords);
 const randombslword = Math.floor(Math.random() * bslwords.length);
 console.log(randombslword, bslwords[randombslword].split(""));
 
+// create a variable to split the word into letters
+let splitWord = bslwords[randombslword].split("");
+
+// according to Fatima (CI) this retrieves the div from the frontend and Sean (CI) hold all the letters
+let bslDivContainer = document.getElementById("bslWordContainer");
+
+// this iterates over the bslwords array and for each word, create a html element and add the word to it
+bslwords.forEach(letter => {
+    bslDivContainer.innerHTML += `<div><img src="assets/images/bsl-alphabets/${letter}.png" /><p>${letter}</p></div>`
+});
