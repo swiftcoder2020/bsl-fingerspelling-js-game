@@ -5,13 +5,13 @@
 // according to w3schools getElementById finds an HTML element with id e.g id="gameIntroModal"
 
 // get the modal and assign it to a variable
-const gameModal = document.getElementById("gameIntroModal"); 
+const gameModal = document.getElementById("gameIntroModal");
 
 // get the play button that opens the modal
-const playIconButton = document.getElementById("playButtonModal"); 
+const playIconButton = document.getElementById("playButtonModal");
 
 // get the span element that closes the modal
-const modalClose = document.getElementsByClassName("close")[0]; 
+const modalClose = document.getElementsByClassName("close")[0];
 
 // get each of the game speed levels defined within the buttons
 const gameEasy = document.getElementById("bslGameEasy");
@@ -32,8 +32,8 @@ modalClose.onclick = function() {
 }
 
 // when the user/visitor clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-    if (event.target == gameModal) {
+window.onclick = function(close) {
+    if (close.target == gameModal) {
         gameModal.style.display = "none";
     }
 }
@@ -48,20 +48,8 @@ commenceGame.onclick = function() {
 easy/medium/hard (slow/normal/fast) has been clicked on so that a change in 
 background colour can be applied, yet only one of the three options can be 
 selected. Then specify a speed as a time in milliseconds. */
-function setLevel(level) {
-    if (level === 1) {
-        speedLevel = 3000;
-        console.log(level);
-    }
-    if (level === 2) {
-        speedLevel = 2000;
-        console.log(level);
-    }
-    if (level === 3) {
-        speedLevel = 1000;
-        console.log(level);
-    }
-}
+
+
 
 // declare an array variable associated with deaf culture
 const bslwords = ["bond", "social", "touch", "rnid", "company", "dog", "attentive", 
@@ -69,9 +57,8 @@ const bslwords = ["bond", "social", "touch", "rnid", "company", "dog", "attentiv
 "fingers", "sense", "belong", "culture", "diverse", "values", "beliefs", "identity"];
 console.log(bslwords);
 
-// grab a random word from the above array variable named bslwords and put into a new array
+// grab a random word from the above array variable named bslwords and put into a new array, then split the word into letters
 // source to select a random value:- https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array
 const randombslword = Math.floor(Math.random() * bslwords.length);
-console.log(randombslword, bslwords[randombslword]);
+console.log(randombslword, bslwords[randombslword].split(""));
 
-// create another new array to split the word into letters
