@@ -69,6 +69,6 @@ let splitWord = bslwords[randombslword].split("");
 let bslDivContainer = document.getElementById("bslWordContainer");
 
 // this iterates over the bslwords array and for each word, create a html element and add the word to it
-bslwords.forEach(letter => {
-    bslDivContainer.innerHTML += `<div><img src="assets/images/bsl-alphabets/${letter}.png" /><p>${letter}</p></div>`
+splitWord.forEach(letter => {
+    bslDivContainer.innerHTML += `<div><img src="assets/images/bsl-alphabets/${letter}.png" /><p hidden>${letter}</p></div>`
 });
