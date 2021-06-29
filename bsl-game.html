@@ -69,6 +69,14 @@
                 <div id="bslWordContainer">
 
                 </div>
+                <!-- 
+                    this element is currently hidden until when 'Play Game!' button has been clicked
+                    whereby this will be made visible to allow the user to enter their answer/guess
+                -->
+                <div id="bslAnswerContainer" hidden>
+                    <label for="bsl-answer">Your guess/answer:</label>
+                    <input id="bslWordGuess" type="text" placeholder="Enter your guess or answer..." autofocus>
+                </div>
                 <!-- modal extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp -->
                 <!-- Game introductory modal -->
                 <div id="gameIntroModal" class="game-intro-modal">
