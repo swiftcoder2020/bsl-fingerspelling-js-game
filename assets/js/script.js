@@ -68,6 +68,8 @@ document.getElementById("playGame").addEventListener("click", function() {
     // style visibility property extracted & improvised from https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_visibility
     document.getElementById("playButtonModal").style.visibility = "hidden";
     document.getElementById("playFontModal").style.visibility = "hidden";
+    // removeAttribute extracted & improvised from https://stackoverflow.com/questions/49836397/how-do-you-add-remove-hidden-in-p-hidden-with-javascript
+    document.getElementById("bslAnswerContainer").removeAttribute("hidden");
     // this iterates over the bslwords array and for each word, create a html element and add the word to it
     splitWord.forEach(letter => {
         bslDivContainer.innerHTML += `<div><img src="assets/images/bsl-alphabets/${letter}.png" /><p hidden>${letter}</p></div>`
