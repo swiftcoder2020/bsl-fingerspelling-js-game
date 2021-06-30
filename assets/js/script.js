@@ -66,8 +66,8 @@ document.getElementById("playGame").addEventListener("click", function() {
     gameModal.style.display = "none";
     // this hides the play icon button and also the 'Click to start!' text
     // style visibility property extracted & improvised from https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_visibility
-    document.getElementById("playButtonModal").style.visibility = "hidden";
-    document.getElementById("playFontModal").style.visibility = "hidden";
+    document.getElementById("playButtonModal").style.display = "none";
+    document.getElementById("playFontModal").style.display = "none";
     // removeAttribute extracted & improvised from https://stackoverflow.com/questions/49836397/how-do-you-add-remove-hidden-in-p-hidden-with-javascript
     document.getElementById("bslAnswerContainer").removeAttribute("hidden");
     // loop extracted & improvised from https://stackoverflow.com/questions/3583724/how-do-i-add-a-delay-in-a-javascript-loop/3583740#3583740    // 
