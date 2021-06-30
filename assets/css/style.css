@@ -373,6 +373,11 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
     font-weight: bold;
 }
 
+#bsl-answer-label {
+    font-family: "ABeeZee", sans-serif;
+    font-weight: bold;
+}
+
 /* keeps the table within the webpage rather than overflowing */
 .bsl-guide {
     overflow-x: auto;
