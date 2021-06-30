@@ -374,6 +374,7 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
 }
 
 #bsl-answer-label {
+    padding-top: 1rem;
     font-family: "ABeeZee", sans-serif;
     font-weight: bold;
 }
