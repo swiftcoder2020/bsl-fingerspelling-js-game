@@ -145,6 +145,15 @@ body {
     color: #F5EFED;
 }
 
+.submit-answer {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 0.75rem;
+    background-color: #2292A4;
+    border: 3px solid #F5EFED;
+    font-weight: 450;
+}
+
 .speed-level {
     width: 75px;
     padding: 5px;
