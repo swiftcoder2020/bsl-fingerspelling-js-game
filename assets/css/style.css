@@ -254,6 +254,18 @@ body {
     cursor: pointer;
 }
 
+.flashimages {
+    animation: flash linear 1s 1;
+    width: 10rem;
+    height: auto;
+    padding: 0.2rem;
+}
+
+@keyframes flash {
+    0%, 50% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
 /* -----Footer----- */
 
 .footer-style {
