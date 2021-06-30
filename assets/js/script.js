@@ -81,6 +81,10 @@ document.getElementById("playGame").addEventListener("click", function() {
                 i++; // increment the counter so that it counts how many images per word is displayed
                 if (i < splitWord.length) { // if the counter < word length, call the loop function
                   imageLoop(); // again which will trigger another setTimeout()
+                } else {
+                    setInterval(function() {
+                        bslDivContainer.innerHTML = "";
+                    }, 2000);
                 }
             }, 2000) // this is the 2 seconds timeout
         }
