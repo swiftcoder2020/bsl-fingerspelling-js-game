@@ -70,8 +70,19 @@ document.getElementById("playGame").addEventListener("click", function() {
     document.getElementById("playFontModal").style.visibility = "hidden";
     // removeAttribute extracted & improvised from https://stackoverflow.com/questions/49836397/how-do-you-add-remove-hidden-in-p-hidden-with-javascript
     document.getElementById("bslAnswerContainer").removeAttribute("hidden");
-    // this iterates over the bslwords array and for each word, create a html element and add the word to it
-    splitWord.forEach(letter => {
-        bslDivContainer.innerHTML += `<div><img src="assets/images/bsl-alphabets/${letter}.png" /><p hidden>${letter}</p></div>`
-    })
+    // loop extracted & improvised from https://stackoverflow.com/questions/3583724/how-do-i-add-a-delay-in-a-javascript-loop/3583740#3583740    // 
+    	let i = 0; // sets the counter to 0
+        let letter; // creates a variable called letter
+        function imageLoop() { // names the function as imageLoop
+            letter = splitWord[i]; // assign a value of splitWord to iterate over to split into letters
+            setTimeout(function() { // call a 2s setTimeout when the loop is called
+                // this iterates over the bslwords array and for each word, create a html element and add the word to it
+                bslDivContainer.innerHTML = `<div><img class="flashimages" src="assets/images/bsl-alphabets/${letter}.png"/><p hidden>${letter}</p></div>`;
+                i++; // increment the counter so that it counts how many images per word is displayed
+                if (i < splitWord.length) { // if the counter < word length, call the loop function 
+                  imageLoop(); // again which will trigger another setTimeout()
+                }                      
+            }, 2000) // this is the 2 seconds timeout
+        }    
+    imageLoop() // start the loop
 });
