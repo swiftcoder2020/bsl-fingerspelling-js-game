@@ -535,8 +535,18 @@ img {
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1440px) {
     .heading-underline {
         width: 13rem;
+    }
+
+    .flashimages {
+        width: 14rem;
+        margin-bottom: 5rem;
+    }
+
+    #bslAnswerContainer {
+        position: absolute;
+        bottom: 19rem;
     }
 }
