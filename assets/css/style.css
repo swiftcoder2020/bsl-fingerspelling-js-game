@@ -111,13 +111,15 @@ body {
     font-size: 1.25rem;
     font-weight: bold;
     transition: all 0.35s ease-in-out 0s;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
 .main-content a:focus {
     color: #2292A4;
     font-size: 1.25rem;
     font-weight: bold;
-    transition: all 0.35s ease-in-out 0s;
 }
 
 /* -----Buttons----- */
