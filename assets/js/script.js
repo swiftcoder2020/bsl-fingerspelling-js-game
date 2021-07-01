@@ -1,6 +1,6 @@
 // @ts-check <--- refer to Gitpod Welcome, this is the JavaScript Type Checking to spot mistakes
 
-// Game introductory modal
+// ----- Game introductory modal -----
 // lines 8 - 39 extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp
 // according to w3schools getElementById finds an HTML element with id e.g id="gameIntroModal"
 
