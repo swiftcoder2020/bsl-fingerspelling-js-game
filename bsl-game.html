@@ -49,10 +49,10 @@
             <div class="bsl-logo">
                 <img src="assets/images/bsl-image.png" alt="BSL logo">
             </div>
-            <!-- 
+            <!--
                 div (originally a canvas) with a play FontAwesome button that produces a modal when 
                 clicked to offer users the opportunity to enter their forename and to specify 3 x 
-                levels to select a speed i.e. easy/medium/hard before pressing 'Play Game!'. 
+                levels to select a speed i.e. easy/medium/hard before pressing 'Play Game!'.
             -->
             <div id="bslGameContainer" class="bsl-game-container">
                 <noscript class="main-content">
@@ -62,15 +62,15 @@
                 <!-- the id attribute triggers/opens the modal and is a reference to JS -->
                 <i id="playButtonModal" class="far fa-play-circle play-button"></i>
                 <p id="playFontModal" class="play-font">Click to start!</p>
-                <!-- 
+                <!--
                     this div will hold all the letters of a BSL word inside it (which are 
-                    hidden) using JavaScript in the form of images 
+                    hidden) using JavaScript in the form of images
                 -->
                 <div id="bslWordContainer">
 
                 </div>
-                <!-- 
-                    this element is currently hidden until when 'Play Game!' button has been clicked
+                <!--
+                    this element is currently hidden until when 'Play Game!' button has been clicked 
                     whereby this will be made visible to allow the user to enter their answer/guess
                 -->
                 <div id="bslAnswerContainer" hidden>
@@ -89,31 +89,31 @@
                             <input id="forename" type="text" name="forename" placeholder="Your first name...">
                         </div>
                         <div class="heading-space">
-                            <!-- 
+                            <!--
                                 once one of the speed buttons is clicked on, the button should 
-                                change colour so that the user knows what they have selected
-                                prior to clicking on the 'Play Game!' button 
+                                change colour so that the user knows what they have selected 
+                                prior to clicking on the 'Play Game!' button
                             -->
                             <p>Select your game speed level:</p>
-                            <!-- 
-                                the onclick is a reference point for JS to know which option the
-                                user/visitor has selected 
+                            <!--
+                                the onclick is a reference point for JS to know which option the 
+                                user/visitor has selected
                             -->
                             <button id="bslGameEasy" class="speed-level" data-difficulty="easy">Easy</button>
                             <button id="bslGameMedium" class="speed-level" data-difficulty="medium">Medium</button>
                             <button id="bslGameHard" class="speed-level" data-difficulty="hard">Hard</button>
                         </div>
                         <div class="heading-space">
-                            <!-- 
+                            <!--
                                 once this button is pressed, the play icon & 'Click to start!' 
                                 is removed and replaced with ?another div? to start the game 
-                                to include a score, time, a series of images and an input for
-                                the user/visitor to enter their answer/guess 
+                                to include a score, time, a series of images and an input for 
+                                the user/visitor to enter their answer/guess
                             -->
                             <button id="playGame" class="play-game">Play Game!</button>
                         </div>
                     </div>
-                </div>                
+                </div>
             </div>
             <!-- utilise grid or flexbox to make this section responsive -->
             <div class="bsl-guide">
@@ -265,8 +265,8 @@
         </div>
     </footer>
 <!-- 
-    it is recommended that the scripts are placed at the end of the body section (immediately
-    before the closing body tag so the browser can render the web page before interpreting
+    it is recommended that the scripts are placed at the end of the body section (immediately 
+    before the closing body tag so the browser can render the web page before interpreting 
     the script) 
 -->
 <script src="assets/js/script.js"></script>
