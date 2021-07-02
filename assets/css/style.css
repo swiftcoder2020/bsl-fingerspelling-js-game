@@ -101,6 +101,29 @@ body {
     padding: 1rem 0.75rem;
 }
 
+.main-content a {
+    color: #2292A4;
+    font-weight: bold;
+    transition: all 0.35s ease-in-out 0s;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.main-content a:hover {
+    color: #D96C06;
+    font-weight: bold;
+    transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
+
+.main-content a:focus {
+    color: #2292A4;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
 /* -----Buttons----- */
 
 .button-style {
@@ -383,7 +406,10 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
     font-weight: bold;
 }
 
-
+#bslAnswerContainer {
+    position: absolute;
+    bottom: 17rem;
+}
 
 #bsl-answer-label {
     padding-top: 1rem;
@@ -541,8 +567,18 @@ img {
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1440px) {
     .heading-underline {
         width: 13rem;
+    }
+
+    .flashimages {
+        width: 14rem;
+        margin-bottom: 5rem;
+    }
+
+    #bslAnswerContainer {
+        position: absolute;
+        bottom: 19rem;
     }
 }
