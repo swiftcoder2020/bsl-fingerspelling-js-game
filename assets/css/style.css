@@ -291,7 +291,7 @@ body {
     width: 10rem;
     height: auto;
     padding: 0.2rem;
-    margin-bottom: 5rem;
+    margin-bottom: 7rem;
 }
 
 @keyframes flash {
@@ -408,6 +408,7 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
 
 #bslAnswerContainer {
     position: absolute;
+    display: block;
     bottom: 17rem;
 }
 
