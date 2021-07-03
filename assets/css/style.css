@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=ABeeZee&display=swap');
 
 /*-----General style of BSL Game-----*/
@@ -64,7 +71,8 @@ body {
 
 /* creates a shadow below the navbar to separate main content */
 .navbar {
-    box-shadow: 0 0 8px #0F0A0A;
+    -webkit-box-shadow: 0 0 8px #0F0A0A;
+            box-shadow: 0 0 8px #0F0A0A;
 }
 
 /* -----Main section----- */
@@ -105,9 +113,8 @@ body {
     color: #2292A4;
     font-weight: bold;
     transition: all 0.35s ease-in-out 0s;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out 0s;
+    -o-transition: all 0.35s ease-in-out 0s;
 }
 
 .main-content a:hover {
@@ -132,6 +139,7 @@ body {
     margin: 3rem auto;
     padding: 0.5rem;
     box-shadow: 0 0 7px #0F0A0A;
+    -webkit-box-shadow: 0 0 7px #0F0A0A;
     font-family: "ABeeZee", sans-serif;
     font-size: 1.25rem;
     font-weight: bold;
@@ -149,6 +157,8 @@ body {
 
 .contact-button {
     display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
     margin: 0 auto;
     margin-top: 2rem;
     background-color: #2292A4;
@@ -170,6 +180,8 @@ body {
 
 .submit-answer {
     display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
     margin: 0 auto;
     margin-top: 0.75rem;
     background-color: #2292A4;
@@ -288,13 +300,19 @@ body {
 
 .flashimages {
     animation: flash linear 1s 1;
+    -webkit-animation: flash linear 1s 1;
     width: 10rem;
     height: auto;
     padding: 0.2rem;
-    padding-bottom: 7rem;
+    /* padding-bottom: 7rem; */
 }
 
 @keyframes flash {
+    0%, 50% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+@-webkit-keyframes flash {
     0%, 50% {opacity: 0;}
     100% {opacity: 1;}
 }
@@ -315,8 +333,15 @@ body {
 
 .social-links {
    display: flex;
-   flex-flow: row wrap;
-   justify-content: space-evenly;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   -webkit-box-orient: horizontal;
+   -webkit-box-direction: normal;
+       -ms-flex-flow: row wrap;
+           flex-flow: row wrap;
+   -webkit-box-pack: space-evenly;
+       -ms-flex-pack: space-evenly;
+           justify-content: space-evenly;
 }
 
 /* removes the preset spacing to push up the copyright section */
@@ -377,15 +402,25 @@ body {
 https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-and-vertically-inside-a-div-block */
 .bsl-game-container {
     display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
     flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
     justify-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
     align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
     height: 45vh;
     margin: 2rem 0;
     padding: 0.75rem;
     border: 3px solid #0F0A0A;
     border-radius: 10px;
     box-shadow: 0 0 5px 5px #F5EFED;
+    -webkit-box-shadow: 0 0 5px 5px #F5EFED;            
     background-color: #F5EFED;
     text-align: center;
     color: #D96C06;
@@ -553,7 +588,7 @@ img {
     .heading-underline {
         width: 12rem;
     }
-    
+
     .main-content {
         font-size: 1.125rem;
     }
