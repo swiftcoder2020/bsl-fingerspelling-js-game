@@ -574,11 +574,11 @@ img {
 
     .flashimages {
         width: 14rem;
-        margin-bottom: 6rem;
+        padding-bottom: 8rem;
     }
 
     #bslAnswerContainer {
         position: absolute;
-        bottom: 17rem;
+        bottom: 15rem;
     }
 }
