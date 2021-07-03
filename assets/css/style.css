@@ -333,7 +333,7 @@ body {
 
 .social-links {
     display: flex;
-    /* display: -webkit-box; */
+    /* display: -webkit-box; */ /* doesn't work */
     display: -ms-flexbox;
     flex-flow: row wrap;
     -webkit-box-orient: horizontal;
