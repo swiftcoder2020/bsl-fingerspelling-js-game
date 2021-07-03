@@ -73,10 +73,18 @@
                     this element is currently hidden until when 'Play Game!' button has been clicked 
                     whereby this will be made visible to allow the user to enter their answer/guess
                 -->
-                <div id="bslAnswerContainer" hidden>
-                    <label id="bsl-answer-label" for="bsl-answer">Your guess/answer:</label><br>
-                    <input id="bslWordGuess" type="text" placeholder="Enter your guess or answer..." autofocus>
-                    <input class="btn btn-primary submit-answer" type="submit" value="Submit answer">
+                <div id="bslAnswerContainer" hidden style="display: none;">
+                    <div>
+                        <label id="bsl-answer-label" for="bsl-answer">Your guess/answer:</label><br>
+                        <input id="bslWordGuess" type="text" placeholder="Enter your guess or answer..." autofocus>
+                        <input id="currentGuessWordbsl" value="" style="display: none;"/>
+                    </div>
+                    <div class="mt-2">
+                        <button id="submitAnswerButton" onclick="validateUserAnswer();" type="button" 
+                        class="btn btn-secondary modal-button" data-bs-dismiss="modal">Submit answer</button>
+                        <button id="retryGameButton" type="button" class="btn btn-secondary modal-button"
+                        data-bs-dismiss="modal">Try again!</button>
+                    </div>
                 </div>
                 <!-- modal extracted & improvised from https://www.w3schools.com/howto/howto_css_modals.asp -->
                 <!-- Game introductory modal -->
