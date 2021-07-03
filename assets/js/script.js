@@ -120,3 +120,10 @@ function activateGameFunction() {
         }
     imageLoop() // start the loop
 });
+
+function validateUserAnswer() {
+    let bslWordToGuess = document.getElementById("currentGuessWordbsl").value;
+    let userAnswer = document.getElementById("bslWordGuess").value;
+    console.log(bslWordToGuess);
+    console.log(userAnswer);
+}
