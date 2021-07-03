@@ -59,6 +59,18 @@ function() {
     activateGameFunction();
 });
 
+/* when the user has submitted their answer and it is correct, the game restarts by 
+providing a new word */
+/* click event listener extracted & improvised from 
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_addeventlistener_displaydate */
+document.getElementById("restart-bslgame-button").addEventListener("click",
+function() {
+    /* style visibility property extracted & improvised from 
+    https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_visibility */
+    document.getElementById("bslAnswerContainer").style.display = "none";
+    activateGameFunction();
+});
+
 /* this function creates the actual game of creating a random word & displays a series of images*/
 function activateGameFunction() {
     /* grab a random word from the above array variable named bslwords and put into a new array, 
