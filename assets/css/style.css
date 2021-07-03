@@ -291,7 +291,7 @@ body {
     width: 10rem;
     height: auto;
     padding: 0.2rem;
-    margin-bottom: 7rem;
+    padding-bottom: 7rem;
 }
 
 @keyframes flash {
