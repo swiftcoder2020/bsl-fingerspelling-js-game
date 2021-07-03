@@ -332,16 +332,16 @@ body {
 }
 
 .social-links {
-   display: flex;
-   display: -webkit-box;
-   display: -ms-flexbox;
-   -webkit-box-orient: horizontal;
-   -webkit-box-direction: normal;
-       -ms-flex-flow: row wrap;
-           flex-flow: row wrap;
-   -webkit-box-pack: space-evenly;
-       -ms-flex-pack: space-evenly;
-           justify-content: space-evenly;
+    display: flex;
+    /* display: -webkit-box; */
+    display: -ms-flexbox;
+    flex-flow: row wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    justify-content: space-evenly;
+    -webkit-box-pack: space-evenly;
+    -ms-flex-pack: space-evenly;           
 }
 
 /* removes the preset spacing to push up the copyright section */
