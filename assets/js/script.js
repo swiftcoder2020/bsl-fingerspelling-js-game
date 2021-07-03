@@ -63,7 +63,7 @@ function() {
 providing a new word */
 /* click event listener extracted & improvised from 
 https://www.w3schools.com/js/tryit.asp?filename=tryjs_addeventlistener_displaydate */
-document.getElementById("restart-bslgame-button").addEventListener("click",
+document.getElementById("retryGameButton").addEventListener("click", 
 function() {
     /* style visibility property extracted & improvised from 
     https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_visibility */
@@ -119,11 +119,11 @@ function activateGameFunction() {
             }, 2000); // this is the 2 seconds timeout
         }
     imageLoop() // start the loop
-});
+};
 
 function validateUserAnswer() {
     let bslWordToGuess = document.getElementById("currentGuessWordbsl").value;
     let userAnswer = document.getElementById("bslWordGuess").value;
     console.log(bslWordToGuess);
     console.log(userAnswer);
-}
+};
