@@ -304,7 +304,7 @@ body {
     width: 10rem;
     height: auto;
     padding: 0.2rem;
-    padding-bottom: 7rem;
+    padding-top: 1rem;
 }
 
 @keyframes flash {
@@ -414,7 +414,7 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
     align-items: center;
     -webkit-box-align: center;
     -ms-flex-align: center;
-    height: 45vh;
+    height: 50vh;
     margin: 2rem 0;
     padding: 0.75rem;
     border: 3px solid #0F0A0A;
@@ -441,9 +441,17 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
     font-weight: bold;
 }
 
-#bslAnswerContainer {
+#bslWordContainer {
+    display: block;
     position: absolute;
-    bottom: 2rem;
+    padding-bottom: 8rem;
+}
+
+#bslAnswerContainer {
+    display: block;
+    position: absolute;
+    padding-top: 8rem;
+    margin-top: 1rem;
 }
 
 #bsl-answer-label {
