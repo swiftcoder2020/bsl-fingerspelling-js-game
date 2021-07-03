@@ -304,7 +304,7 @@ body {
     width: 10rem;
     height: auto;
     padding: 0.2rem;
-    /* padding-bottom: 7rem; */
+    padding-bottom: 7rem;
 }
 
 @keyframes flash {
@@ -603,11 +603,23 @@ img {
 }
 
 @media (min-width: 1440px) {
+    /* .flashimages {
+        width: 14rem;
+        padding-bottom: 9rem;
+    }
+
+    #bslAnswerContainer {
+        position: absolute;
+        bottom: 11rem;
+    } */
+}
+
+@media (min-width: 1920px) {
     .heading-underline {
         width: 13rem;
     }
 
-    .flashimages {
+    /* .flashimages {
         width: 14rem;
         padding-bottom: 8rem;
     }
@@ -615,5 +627,5 @@ img {
     #bslAnswerContainer {
         position: absolute;
         bottom: 15rem;
-    }
+    } */
 }
