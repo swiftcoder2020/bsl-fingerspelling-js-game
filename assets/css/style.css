@@ -610,30 +610,21 @@ img {
     }
 }
 
-@media (min-width: 1440px) {
-    /* .flashimages {
-        width: 14rem;
-        padding-bottom: 9rem;
-    }
-
-    #bslAnswerContainer {
-        position: absolute;
-        bottom: 11rem;
-    } */
-}
-
 @media (min-width: 1920px) {
     .heading-underline {
         width: 13rem;
     }
 
-    /* .flashimages {
-        width: 14rem;
-        padding-bottom: 8rem;
+    .flashimages {
+        width: 15rem;
     }
 
+    #bslWordContainer {
+        padding-bottom: 10rem;
+    }
+    
     #bslAnswerContainer {
-        position: absolute;
-        bottom: 15rem;
-    } */
+        padding-top: 10rem;
+        margin-top: 4rem;
+    }
 }
