@@ -47,46 +47,64 @@ const bslwords = ["bond", "social", "touch", "rnid", "company", "dog", "attentiv
 "fingers", "sense", "belong", "culture", "diverse", "values", "beliefs", "identity"];
 console.log(bslwords);
 
-// grab a random word from the above array variable named bslwords and put into a new array, then split the word into letters
-// source to select a random value:- https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array
-const randombslword = Math.floor(Math.random() * bslwords.length);
-console.log(randombslword, bslwords[randombslword].split(""));
-
-// create a variable to split the word into letters
-let splitWord = bslwords[randombslword].split("");
-
-// this retrieves the div from the frontend hold all the letters
+// this retrieves the div from the frontend hold all the images (letters are hidden)
 let bslDivContainer = document.getElementById("bslWordContainer");
 
-/* when the user/visitor clicks on the 'Play Game' button, the game simply 
-commences by displaying a series of images */
-// click event listener extracted & improvised from https://www.w3schools.com/js/tryit.asp?filename=tryjs_addeventlistener_displaydate
-document.getElementById("playGame").addEventListener("click", function() {
+/* when the user/visitor clicks on the 'Play Game' button, the game simply commences by 
+displaying a series of images, so this activates the function */
+/* click event listener extracted & improvised from 
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_addeventlistener_displaydate */
+document.getElementById("playGame").addEventListener("click", 
+function() {
+    activateGameFunction();
+});
+
+/* this function creates the actual game of creating a random word & displays a series of images*/
+function activateGameFunction() {
+    /* grab a random word from the above array variable named bslwords and put into a new array, 
+    then split the word into letters */
+    /* source to select a random value:- 
+    https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array */
+    let randombslword = Math.floor(Math.random() * bslwords.length);
+    // this retrieves the data inputted from the frontend of the user's guess/answer
+    document.getElementById("currentGuessWordbsl").value = bslwords[randombslword];
+    console.log(randombslword, bslwords[randombslword].split(""));
+
+    // create a variable to split the word into letters
+    let splitWord = bslwords[randombslword].split("");
+
     // this closes the modal so that the first of a series of images can be shown
     gameModal.style.display = "none";
+
     // this hides the play icon button and also the 'Click to start!' text
-    // style visibility property extracted & improvised from https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_visibility
+    /* style visibility property extracted & improvised from 
+    https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_visibility */
     document.getElementById("playButtonModal").style.display = "none";
     document.getElementById("playFontModal").style.display = "none";
-    // removeAttribute extracted & improvised from https://stackoverflow.com/questions/49836397/how-do-you-add-remove-hidden-in-p-hidden-with-javascript
+
+    /* removeAttribute extracted & improvised from 
+    https://stackoverflow.com/questions/49836397/how-do-you-add-remove-hidden-in-p-hidden-with-javascript */
     document.getElementById("bslAnswerContainer").removeAttribute("hidden");
-    // loop extracted & improvised from https://stackoverflow.com/questions/3583724/how-do-i-add-a-delay-in-a-javascript-loop/3583740#3583740
-    	let i = 0; // sets the counter to 0
-        let letter; // creates a variable called letter
-        function imageLoop() { // names the function as imageLoop
-            letter = splitWord[i]; // assign a value of splitWord to iterate over to split into letters
-            setTimeout(function() { // call a 2s setTimeout when the loop is called
-                // this iterates over the bslwords array and for each word, create a html element and add the word to it
-                bslDivContainer.innerHTML = `<div><img class="flashimages" src="assets/images/bsl-alphabets/${letter}.png"/><p hidden>${letter}</p></div>`;
-                i++; // increment the counter so that it counts how many images per word is displayed
-                if (i < splitWord.length) { // if the counter < word length, call the loop function
-                  imageLoop(); // again which will trigger another setTimeout()
-                } else {
-                    setInterval(function() {
-                        bslDivContainer.innerHTML = "";
-                    }, 2000);
+
+    /* loop extracted & improvised from 
+    https://stackoverflow.com/questions/3583724/how-do-i-add-a-delay-in-a-javascript-loop/3583740#3583740 */
+    let i = 0; // sets the counter to 0
+    let letter; // creates a variable called letter
+    function imageLoop() { // names the function as imageLoop
+        letter = splitWord[i]; // assign a value of splitWord to iterate over to split into letters
+        setTimeout(function() { // call a 2s setTimeout when the loop is called
+            // this iterates over the bslwords array and for each word, create a html element and add the word to it
+            bslDivContainer.innerHTML = `<div><img class="flashimages" src="assets/images/bsl-alphabets/${letter}.png"/><p hidden>${letter}</p></div>`;
+            i++; // increment the counter so that it counts how many images per word is displayed
+            if (i < splitWord.length) { // if the counter < word length, call the loop function
+              imageLoop(); // again which will trigger another setTimeout()
+            } else {
+                setInterval(function() {
+                    bslDivContainer.innerHTML = "";
+                    document.getElementById("bslAnswerContainer").style.display = "block";
+                    }, 3000);
                 }
-            }, 2000) // this is the 2 seconds timeout
+            }, 2000); // this is the 2 seconds timeout
         }
     imageLoop() // start the loop
 });
