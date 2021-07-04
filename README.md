@@ -185,6 +185,8 @@ The features which I envisage to incorporate into the project are as follows:
 
 * A play button to activate the game
 
+<img src="assets/images/bsl-game-activate-game.png">
+
 * The option where users can select their appropriate speed level of how slow/fast the images flashes 
 through a modal
 
