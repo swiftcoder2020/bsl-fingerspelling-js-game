@@ -32,7 +32,7 @@ fingerspelling at the basic level and utilise the resources available.
       - [Main User Stories](#main-user-stories)
       - [Accessibility User Stories](#accessibility-user-stories)
       - [Features](#features) 
-         - Future Features Phase 2
+         - [Future Features Phase 2](#future-features-phase-2)
    4. [Structure](#structure)
       - [Interaction Design (IXD)](#interaction-design)
       - [Information Architecture](#information-architecture)
@@ -44,7 +44,10 @@ fingerspelling at the basic level and utilise the resources available.
       - [Typography](#typography)
 3. [Technologies Utilised](#technologies-utilised)
 4. [Project Bugs and Solutions](#)
-5. [Testing](#)
+5. [Testing](#testing)
+   - [W3C Validator Tools](#w3c-validator-tools)
+   - [Responsive Tools](#responsive-tools)
+   - [User Stories](#user-stories)
 6. [Deployment](#)
 7. [Credits](#)
 
@@ -462,9 +465,13 @@ The next tool is to utilise the [W3C CSS Validation Service](https://jigsaw.w3.o
 
 <img src="assets/images/css-validator.png">
 
-However this did flag up various warnings and these related to the AutoPrefixer that had been applied to style.css file.
+However this did flag up various warnings and these related to the AutoPrefixer that had been applied to style.css file (N.B. not all warnings were able to be filled within this screenshot).
 
 <img src="assets/images/css-validation-warnings.png">
+
+## Responsive Tools
+
+A website by the name of [Am I Responsive](http://ami.responsivedesign.is/) was utilised to give an indication of a range of devices which are responsive to cater for their design.
 
 ## User Stories
 
