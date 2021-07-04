@@ -454,10 +454,17 @@ As standard with any development into a website, the first step subsequent to th
 
 ## W3C Validator Tools
 
-The basic methodology for checking into any form of errors commences by utilising the [W3C Markup Validation Service](https://validator.w3.org/) within all my HTML webpages and the result was mainly into the misuse of aria-label, see below for illustration:
+The basic methodology for checking into any form of errors commences by utilising the [W3C Markup Validation Service](https://validator.w3.org/) within all my HTML webpages and the most of the result was mainly into the misuse of aria-label, see below for illustration:
 
 <img src="assets/images/html-validation-aria-label.png">
 
+The next tool is to utilise the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) which reported no error found.
+
+<img src="assets/images/css-validator.png">
+
+However this did flag up various warnings and these related to the AutoPrefixer that had been applied to style.css file.
+
+<img src="assets/images/css-validation-warnings.png">
 
 ## User Stories
 
