@@ -195,7 +195,7 @@ complete the game for ease of use
 
 * A BSL Fingerspelling game that aims to be interactively engaging
 
-<img src="assets/images/bsl-game-sign-interactive.png">
+<img src="assets/images/bsl-game-interactive.png">
 
 * An interactive message that determines when the word is incorrect when typed in and notifies the user 
 by way of a positive/encouraging response yet apply complimentary praise when correct
