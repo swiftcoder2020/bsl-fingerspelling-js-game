@@ -31,7 +31,8 @@ fingerspelling at the basic level and utilise the resources available.
    3. [Scope](#scope)
       - [Main User Stories](#main-user-stories)
       - [Accessibility User Stories](#accessibility-user-stories)
-      - [Features](#features)
+      - [Features](#features) 
+         - Future Features Phase 2
    4. [Structure](#structure)
       - [Interaction Design (IXD)](#interaction-design)
       - [Information Architecture](#information-architecture)
@@ -179,32 +180,15 @@ The features which I envisage to incorporate into the project are as follows:
 
 <img src="assets/images/bsl-game-activate-game.png">
 
-* The option where users can select their appropriate speed level of how slow/fast the images flashes 
-through a modal
-
-* A countdown timer that gives users some breathing space prior to commencing the game
-
 * Various high quality images that depicts a sign of an alphabetic letter for clarity
 
 * The ability to flash each image to form a sequence into a word (refer to website to experience it)
 
 <img src="assets/images/bsl-game-sign-images.png">
 
-* A timer that is based on each word which a user is given as opposed to the overall time allocated to 
-complete the game for ease of use
-
 * A BSL Fingerspelling game that aims to be interactively engaging
 
 <img src="assets/images/bsl-game-interactive.png">
-
-* An interactive message that determines when the word is incorrect when typed in and notifies the user 
-by way of a positive/encouraging response yet apply complimentary praise when correct
-
-* A replay button that allows users to review the alphabetic letters as images that has been displayed
-
-* A small area that calculates the score per word which builds up to the total score
-
-* An overview message into the progress of their learning and to provide positive encouragement
 
 * A contact form that actually sends an email to the developer directly to their email address and a modal
 that assures the user/visitor that their message has been submitted
@@ -229,6 +213,25 @@ These items are above are determined in the below table:
 | 11.  | Construct a replay button         | 5          | 3         | 8     |
 | 12.  | Construct game score              | 3          | 4         | 7     |
 | 13.  | Construct concluding game message | 4          | 4         | 8     |
+
+#### Future Features Phase 2
+
+* The option where users can select their appropriate speed level of how slow/fast the images flashes 
+through a modal
+
+* A countdown timer that gives users some breathing space prior to commencing the game
+
+* A timer that is based on each word which a user is given as opposed to the overall time allocated to 
+complete the game for ease of use
+
+* An interactive message that determines when the word is incorrect when typed in and notifies the user 
+by way of a positive/encouraging response yet apply complimentary praise when correct
+
+* A replay button that allows users to review the alphabetic letters as images that has been displayed
+
+* A small area that calculates the score per word which builds up to the total score
+
+* An overview message into the progress of their learning and to provide positive encouragement
 
 ## Structure
 
