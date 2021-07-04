@@ -1,8 +1,8 @@
-function sendMail(contactForm) {
+function sendMail(bslContactForm) {
     emailjs.send("bslgame_js", "bsl_EmailJS", {
-        "from_name": contactForm.bslfullname.value,
-        "from_email": contactForm.bslemailaddress.value,
-        "message": contactForm.bslmessage.value
+        "from_name": bslContactForm.bslfullname.value,
+        "from_email": bslContactForm.bslemailaddress.value,
+        "message": bslContactForm.bslmessage.value
     })
     .then(
         function(response) {
