@@ -373,7 +373,8 @@ appropriate alternative which I decided to choose in place of my preference.
 Bearing in mind that this is a memory matching game, I wanted a creative font for all my headings and 
 this would come in the form of a calligraphic style entitled as 'Akaya Telivigala' which is a trending yet 
 contemporary typography and I had decided that this would be complemented by 'ABeeZee' which is friendly 
-yet one that supports the process of learning.
+yet one that supports the process of learning and both these fonts felt appropriate in comparison to what 
+Google Fonts were on offer.
 
 ### Icons
 
