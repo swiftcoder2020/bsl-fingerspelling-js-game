@@ -171,17 +171,9 @@ The features which I envisage to incorporate into the project are as follows:
 
 <img src="assets/images/bsl-game-intro-modal.png">
 
-* A BSL Fingerspelling game that aims to be interactively engaging
-
 * Instructions into the game that clearly defines into the usage of how it is to be played
 
 <img src="assets/images/bsl-game-instructions.png">
-
-* Various high quality images that depicts a sign of an alphabetic letter for clarity
-
-* The ability to flash each image to form a sequence into a word (refer to website to experience it)
-
-<img src="assets/images/bsl-game-sign-images.png">
 
 * A play button to activate the game
 
@@ -192,8 +184,16 @@ through a modal
 
 * A countdown timer that gives users some breathing space prior to commencing the game
 
+* Various high quality images that depicts a sign of an alphabetic letter for clarity
+
+* The ability to flash each image to form a sequence into a word (refer to website to experience it)
+
+<img src="assets/images/bsl-game-sign-images.png">
+
 * A timer that is based on each word which a user is given as opposed to the overall time allocated to 
 complete the game for ease of use
+
+* A BSL Fingerspelling game that aims to be interactively engaging
 
 * An interactive message that determines when the word is incorrect when typed in and notifies the user 
 by way of a positive/encouraging response yet apply complimentary praise when correct
