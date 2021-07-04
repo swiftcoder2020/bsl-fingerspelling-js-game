@@ -175,6 +175,8 @@ The features which I envisage to incorporate into the project are as follows:
 
 * Instructions into the game that clearly defines into the usage of how it is to be played
 
+<img src="assets/images/bsl-game-instructions.png">
+
 * Various high quality images that depicts a sign of an alphabetic letter for clarity
 
 * The ability to flash each image to form a sequence into a word
