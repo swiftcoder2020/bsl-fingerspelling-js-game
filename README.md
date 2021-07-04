@@ -81,8 +81,8 @@ BSL fingerspelling skills.
 ## Strategy
 
 The approach into the construction serves as a purpose of demonstrating the knowledge and skills obtained 
-within the programming language of JavaScript and jQuery, by way of providing new/returning visitors the 
-key to an open door as an introduction, (that is akin to the Code Institute's 5 day coding challenge), 
+within the programming language of JavaScript and/or jQuery, by way of providing new/returning visitors 
+the key to an open door as an introduction, (that is akin to the Code Institute's 5 day coding challenge), 
 into the community of the deaf society and how they communicate to one another.
 
 The value in this would be based on the hope to create an impact that influences a positive contribution 
