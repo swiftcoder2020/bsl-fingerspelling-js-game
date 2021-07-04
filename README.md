@@ -3,16 +3,16 @@
    <img src="assets/images/learning-people-logo.png" style="margin: 0; padding-left: 15px; width: auto; height: 88px;">
 </div>
 
-# British Sign Language Fingerspelling:- An Educational JavaScript Memory Matching Game
+# British Sign Language Fingerspelling Game:- An Educational JavaScript Memory Matching Project
 *Constructed as part of Code Institute's Milestone 2 Project: Interactive Front-End Development module*
 
 ## Demonstration
 
 ### **Responsive image of site**
 
-<img src="#">
+<img src="assets/images/bsl-game-responsiveness.png">
 
-**[Active link to the website portfolio](https://swiftcoder2020.github.io/bsl-fingerspelling-js-game/)**
+**[Active link to the BSL Fingerspelling Game](https://swiftcoder2020.github.io/bsl-fingerspelling-js-game/)**
 
 ## Table of Contents
 
