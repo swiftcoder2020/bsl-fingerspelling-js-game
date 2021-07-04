@@ -169,6 +169,8 @@ The features which I envisage to incorporate into the project are as follows:
 
 * An introduction that delves into BSL and the purpose of the website
 
+<img src="assets/images/bsl-game-intro-modal.png">
+
 * A BSL Fingerspelling game that aims to be interactively engaging
 
 * Instructions into the game that clearly defines into the usage of how it is to be played
