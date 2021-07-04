@@ -181,6 +181,8 @@ The features which I envisage to incorporate into the project are as follows:
 
 * The ability to flash each image to form a sequence into a word
 
+<img src="assets/images/bsl-game-sign-images.png">
+
 * A play button to activate the game
 
 * The option where users can select their appropriate speed level of how slow/fast the images flashes 
