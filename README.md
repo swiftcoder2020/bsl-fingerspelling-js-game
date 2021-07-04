@@ -456,7 +456,7 @@ As standard with any development into a website, the first step subsequent to th
 
 The basic methodology for checking into any form of errors commences by utilising the [W3C Markup Validation Service](https://validator.w3.org/) within all my HTML webpages and the result was mainly into the misuse of aria-label, see below for illustration:
 
-<img src="assets/images/html-validator-aria-label.png">
+<img src="assets/images/html-validation-aria-label.png">
 
 
 ## User Stories
