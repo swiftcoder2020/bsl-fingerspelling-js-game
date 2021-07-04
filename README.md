@@ -389,6 +389,65 @@ of images within the BSL Fingerspelling Game.
 
 # Technologies Utilised
 
+[Balsamiq](https://balsamiq.com/) :- the software has been utilised whereby it is related to the creation 
+of wireframes as part of the preparational work into the duration of the design process through the 
+website portfolio.
+
+[GitHub](https://github.com/) :- this is a collaborative tool which consists of a community of developers 
+and has been used to store the coding of the project subsequent from being pushed via Git.
+
+[GitPod](https://www.gitpod.io/) :- an online Integrated Development Environment (IDE) editor utilised to 
+create files and code the website.
+
+[Git](https://git-scm.com/) :- a form of versioning control by way of utilising the terminal within 
+Gitpod to commit to Git, then subsequently push to GitHub.
+
+[JavaScript](https://www.javascript.com/) :- the core part of this language was utilised to develop the 
+memory matching game and also a brief bit of HTML coding has been applied to link with Bootstrap's navbar 
+being responsive, which relates to the functionality of the hamburger menu component applicable in mobile 
+view.
+
+[jQuery](https://jquery.com/) :- a brief bit of HTML coding has been applied to link with Bootstrap's 
+navbar being responsive, which relates to the functionality of the hamburger menu component applicable in 
+mobile view.
+
+Popper :- a brief bit of HTML coding has been applied to link with Bootstrap's navbar being responsive, 
+which relates to the functionality of the hamburger menu component applicable in mobile view.
+
+[EmailJS](https://www.emailjs.com/) :- this is a client-side technology that helps to send emails.
+
+[Bootstrap v5](https://getbootstrap.com/) :- this is a CSS framework which is used to assist with making 
+the design responsive whilst being complimentary with the styling of the website, for two modals 
+specifically introduction & instructions and a contact form.
+
+[Google Fonts](https://fonts.google.com/) :- these were used to import the typography of the website into 
+the stylesheet file and is utilised on all webpages.
+
+[Font Awesome](https://fontawesome.com/) :- a sparse amount of icons was added for the purpose of 
+aesthetic appeal and UX design.
+
+CSS3 :- this is the current standard that is used to style HTML content of the website.
+
+HTML5 :- this is the current standard that is used for the markup of the website.
+
+[gimp](https://www.gimp.org/) :- this is the GNU image manipulation program that was used to crop the BSL 
+images to size.
+
+[paint.net](https://www.getpaint.net/) :- was used to produce images of resized screenshots into the 
+website for the readme.md.
+
+[Google Chrome Developer tools](https://www.google.com/intl/en_uk/chrome/) :- the feature within the 
+browser was used to test both the code and the responsiveness of the website.
+
+[Mozilla Firefox Developer tools](https://www.mozilla.org/en-GB/firefox/new/) :- the feature within the 
+browser was used to test both the code and the responsiveness of the website.
+
+[ezGIF](https://ezgif.com) :- this was used to create an animated gif file which in turn was converted to 
+a favicon.
+
+[favicon](https://www.favicon.cc/) :- the website was used to create a favicon using the animated gif 
+derived from ezGIF.
+
 # Testing
 
 
