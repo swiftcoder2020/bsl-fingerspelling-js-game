@@ -450,6 +450,13 @@ derived from ezGIF.
 
 # Testing
 
+As standard with any development into a website, the first step subsequent to the construction is to check using a variety of technical testing tools which are split into subsections:
+
+## W3C Validator Tools
+
+The basic methodology for checking into any form of errors commences by utilising the [W3C Markup Validation Service](https://validator.w3.org/) within all my HTML webpages and the result was mainly into the misuse of aria-label, see below for illustration:
+
+
 
 
 ## User Stories
