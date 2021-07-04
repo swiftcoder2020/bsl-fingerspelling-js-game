@@ -16,8 +16,8 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="icon" href="assets/images/favicon.ico"/>
     <title>BSL Fingerspelling Game</title>
-    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
-    <script type="text/javascript">
+    <script src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
+    <script>
         (function(){
             emailjs.init("user_Vfh2h2XKDRZncTT4qzlel");
         })();
@@ -70,19 +70,19 @@
             </div>
             <form class="form-container" onsubmit="return sendMail(this);">
                 <div class="form-group row">
-                    <label for="fullname" class="col-sm-2 col-form-label form-labels">Name</label>
+                    <label for="bslfullname" class="col-sm-2 col-form-label form-labels">Name</label>
                     <div class="col-sm-10">
                         <input type="text" id="bslfullname" name="fullname" class="form-control form-inputs" placeholder="Your full name..." required autofocus/>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="emailaddress" class="col-sm-2 col-form-label form-labels">Email</label>
+                    <label for="bslemailaddress" class="col-sm-2 col-form-label form-labels">Email</label>
                     <div class="col-sm-10">
                         <input type="email" id="bslemailaddress" name="emailaddress" class="form-control form-inputs" placeholder="Your email address..." required/>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="message" class="col-sm-2 col-form-label form-labels">Message</label>
+                    <label for="bslmessage" class="col-sm-2 col-form-label form-labels">Message</label>
                     <div class="col-sm-10">
                         <textarea class="form-control form-inputs" id="bslmessage" name="message" cols="30" rows="10" placeholder="Your message..."></textarea>
                     </div>
