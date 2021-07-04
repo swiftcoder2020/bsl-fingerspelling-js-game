@@ -179,7 +179,7 @@ The features which I envisage to incorporate into the project are as follows:
 
 * Various high quality images that depicts a sign of an alphabetic letter for clarity
 
-* The ability to flash each image to form a sequence into a word
+* The ability to flash each image to form a sequence into a word (refer to website to experience it)
 
 <img src="assets/images/bsl-game-sign-images.png">
 
