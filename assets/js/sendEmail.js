@@ -7,20 +7,12 @@ function sendMail(contactForm) {
     .then(
         function(response) {
             console.log("SUCCESS", response);
-            // submit modal extracted & improvised from https://codepen.io/dasan/pen/vqaLPe
-            $('#bslContactForm').on('submit', function(e){
-                $('#submitSuccessModal').modal('show');
-                e.preventDefault();
-            });
+            alert("Thanks for submitting your response! I will be in touch with you soon!")
 			contactForm.reset();
         },
         function(error) {
             console.log("FAILED", error);
-            // submit modal extracted & improvised from https://codepen.io/dasan/pen/vqaLPe
-            $('#bslContactForm').on('submit', function(e){
-                $('#submitFailureModal').modal('show');
-                e.preventDefault();
-            });
+            alert("Sorry, you were unsuccessful in sending an email, please try again later.")
         }
     );
     return false; // To block from loading a new page

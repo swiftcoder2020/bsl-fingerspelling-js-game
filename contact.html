@@ -67,7 +67,7 @@
                     interest!
                 </p>
             </div>
-            <form id="bslContactForm" class="form-container" onsubmit="openmodal() return sendMail(this);">
+            <form id="bslContactForm" class="form-container" onsubmit="return sendMail(this);">
                 <div class="form-group row">
                     <label for="fullname" class="col-sm-2 col-form-label form-labels">Name</label>
                     <div class="col-sm-10">
@@ -88,26 +88,6 @@
                 </div>
                 <button type="submit" class="btn btn-primary contact-button">Submit my message</button>
             </form>
-            <!-- Submit response success modal -->
-            <div id="submitSuccessModal" tabindex="-1" role="dialog" class="game-intro-modal">
-                <!-- Submit response success modal content -->
-                <div role="document" class="game-intro-content">
-                    <span data-dismiss="modal" aria-label="Close" class="close">&times;</span>
-                    <div class="heading-space">
-                        <p>Thanks for submitting your response! I will be in touch with you soon!</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Submit response failure modal -->
-            <div id="submitFailureModal" class="game-intro-modal">
-                <!-- Submit response failure modal content -->
-                <div class="game-intro-content">
-                    <span data-dismiss="modal" aria-label="Close" class="close">&times;</span>
-                    <div class="heading-space">
-                        <p>Sorry, you were unsuccessful in sending an email, please try again later.</p>
-                    </div>
-                </div>
-            </div>
         </div>
     </main>
     <footer class="footer-style">
