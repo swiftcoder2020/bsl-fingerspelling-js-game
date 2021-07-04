@@ -42,12 +42,11 @@ fingerspelling at the basic level and utilise the resources available.
    6. [Surface](#surface)
       - [Colour Palette](#colour-palette)
       - [Typography](#typography)
-3. [Features](#features)
-4. [Technologies Utilised](#technologies-utilised)
-5. [Project Bugs and Solutions](#)
-6. [Testing](#)
-7. [Deployment](#)
-8. [Credits](#)
+3. [Technologies Utilised](#technologies-utilised)
+4. [Project Bugs and Solutions](#)
+5. [Testing](#)
+6. [Deployment](#)
+7. [Credits](#)
 
 # Overview
 
@@ -351,7 +350,7 @@ Source: [Coolors](https://coolors.co/0f0a0a-f5efed-2292a4-bdbf09-d96c06)
 
 The choice of these generated colours attracted me for its boldness, especially the tone of blue, green 
 and orange which I felt would initially work and complemented towards the idea which having alternated 
-these within my wireframes, I was satified with my final decision. The focal colours that will be used 
+these within my wireframes, I was satisfied with my final decision. The focal colours that will be used 
 on the website is primarily the fluorescent green and teal whereby #BDBF09 will be used within the main 
 content and #2292A4 will be applied to the footer which are both separate elements. 
 
@@ -386,8 +385,6 @@ appropriate yet in moderation such as to activate the game and social media link
 In order to fully engage with the development of JavaScript, I have decided to keep the number of imagery 
 to a minimum by simply including a logo to complement the subject of the game and also incorporate a series
 of images within the BSL Fingerspelling Game.
-
-# Features
 
 # Technologies Utilised
 
