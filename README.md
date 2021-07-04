@@ -6,6 +6,14 @@
 # British Sign Language Fingerspelling Game:- An Educational JavaScript Memory Matching Project
 *Constructed as part of Code Institute's Milestone 2 Project: Interactive Front-End Development module*
 
+## Introduction
+
+It's my pleasure to convey and hopefully extend a cordial welcome to you all into my second project, which means a lot personally as it is based on the wonderfully expressive language of communication into British 
+Sign Language (BSL) and how the pandemic has significantly impacted on the deaf community, whereby it has 
+provided inspiration into this game project. It is with recognition yet also grateful thanks of the time & 
+commitment to immerse yourself into the development of this website in which you will learn how to use 
+fingerspelling at the basic level and utilise the resources available.
+
 ## Demonstration
 
 ### **Responsive image of site**
