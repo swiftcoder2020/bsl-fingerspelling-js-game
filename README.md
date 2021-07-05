@@ -8,7 +8,8 @@
 
 ## Introduction
 
-It's my pleasure to convey and hopefully extend a cordial welcome to you all into my second project, which means a lot personally as it is based on the wonderfully expressive language of communication into British 
+It's my pleasure to convey and hopefully extend a cordial welcome to you all into my second project, which 
+means a lot personally as it is based on the wonderfully expressive language of communication into British 
 Sign Language (BSL) and how the pandemic has significantly impacted on the deaf community, whereby it has 
 provided inspiration into this game project. It is with recognition yet also grateful thanks of the time & 
 commitment to immerse yourself into the development of this website in which you will learn how to use 
@@ -62,7 +63,8 @@ of web development' that forms the basis of front-end development which concerns
 such as HTML, CSS and the additional insight into JavaScript plus any of its associations.
 
 The core focal point of this project will consist of constructing an interactive front-end website that 
-will provide the value of enabling users a sense of engagement by targeting those who have a love for either language, communication or a sense of community that are looking for a different way to socialise 
+will provide the value of enabling users a sense of engagement by targeting those who have a love for 
+either language, communication or a sense of community that are looking for a different way to socialise 
 or alternatively make a positive difference to inspire many deaf and hearing impaired individuals. It also 
 enables users to interact with the data as presented in order to achieve their personal goal by responding 
 to their actions actively.
@@ -114,7 +116,7 @@ visitors to continue the learning experience in an engaging way that is resource
 ### Main User Stories
 
 * As a user, I want to be able to understand with ease into the sole purpose and comprehend the rationale 
-as to why the website has been built and developed so I can see if it is relevant or of interest to me.
+as to why the website has been built and developed, so I can see if it is relevant or of interest to me.
 
 * As a user, I want to be assured that the website overall and its content can be viewed clearly on a 
 range of devices to enable an opportunity to be flexible in my learning.
@@ -123,7 +125,7 @@ range of devices to enable an opportunity to be flexible in my learning.
 to how the game is to be played and the learning outcome of it to experience the benefit of utilising it.
 
 * As a user, I want to comfortably be allowed to commence the game when I am prepared and it is suitably 
-convenient to proceed so I can perform this to the best of my ability.
+convenient to proceed, so I can perform this to the best of my ability.
 
 * As a user, when presented, I expect to see a clear image depicting an alphabet in BSL in sequence to 
 form a word and have the ability to replicate the sign so that I can be competently confident when 
@@ -150,7 +152,7 @@ to learn so that I can assess my competency levels.
 when my learning or memory matching opportunity has ceased.
 
 * As a user, I expect the game to offer the option to restart, subsequent to the current play mode 
-that has finished to allow me to continue my learning and make progress.
+that has finished allowing me to continue my learning and make progress.
 
 * As a user, I would like to access any further resources that would supplement or advance my learning, 
 should I wish to dedicate a commitment in making a difference within a community.
@@ -342,7 +344,7 @@ that can be access as below for each of the webpages:
 ## Surface
 
 Given that the focus is on constructing a game, I thought it was appropriate to research and select bold 
-colours that illuminates vibrancy within the palette to convey an psychological element of fun and 
+colours that illuminates vibrancy within the palette to convey a psychological element of fun and 
 playfulness to reflect the project.
 
 ### Colour Palette
@@ -453,69 +455,279 @@ derived from ezGIF.
 
 # Testing
 
-As standard with any development into a website, the first step subsequent to the construction is to check using a variety of technical testing tools which are split into subsections:
+As standard with any development into a website, the first step subsequent to the construction is to check 
+using a variety of technical testing tools which are split into subsections:
 
 ## W3C Validator Tools
 
-The basic methodology for checking into any form of errors commences by utilising the [W3C Markup Validation Service](https://validator.w3.org/) within all my HTML webpages and the most of the result was mainly into the misuse of aria-label, see below for illustration:
+The basic methodology for checking into any form of errors commences by utilising the 
+[W3C Markup Validation Service](https://validator.w3.org/) within all my HTML webpages and the most of the 
+result was mainly into the misuse of aria-label, see below for illustration:
 
 <img src="assets/images/html-validation-aria-label.png">
 
-The next tool is to utilise the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) which reported no error found.
+The next tool is to utilise the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) which 
+reported no error found.
 
 <img src="assets/images/css-validator.png">
 
-However this did flag up various warnings and these related to the AutoPrefixer that had been applied to style.css file (N.B. not all warnings were able to be filled within this screenshot).
+However this did flag up various warnings and these related to the AutoPrefixer that had been applied to 
+style.css file (N.B. not all warnings were able to be filled within this screenshot).
 
 <img src="assets/images/css-validation-warnings.png">
 
 ## Responsive Tools
 
-A website by the name of [Am I Responsive](http://ami.responsivedesign.is/) was utilised to give an indication of a range of devices which are responsive to cater for their design.
+A website by the name of [Am I Responsive](http://ami.responsivedesign.is/) was utilised to give an 
+indication of a range of devices which are responsive to cater for their design.
 
 ## User Stories
 
-1) As a user, I want to be able to understand with ease into the sole purpose and comprehend the rationale as to why the website has been built and developed so I can see if it is relevant or of interest to me.
+1) As a user, I want to be able to understand with ease into the sole purpose and comprehend the rationale 
+as to why the website has been built and developed so I can see if it is relevant or of interest to me.
 
-As a user, I want to be assured that the website overall and its content can be viewed clearly on a range of devices to enable an opportunity to be flexible in my learning.
+   - Client expectation of user stories met: PASSED. This has been provided through the introduction modal 
+   via the homepage
 
-As a user, I expect to be given instructions as guidance into the rules which is easily understood as to how the game is to be played and the learning outcome of it to experience the benefit of utilising it.
+2) As a user, I want to be assured that the website overall and its content can be viewed clearly on a range of devices to enable an opportunity to be flexible in my learning.
 
-As a user, I want to comfortably be allowed to commence the game when I am prepared and it is suitably convenient to proceed so I can perform this to the best of my ability.
+   - Client expectation of user stories met: PASSED. The overall website and its content have been 
+   manually tested by the developer on a range of devices from mobile, laptop and desktop PC. Also 
+   utilising the website amiresponsive has further supported this.
 
-As a user, when presented, I expect to see a clear image depicting an alphabet in BSL in sequence to form a word and have the ability to replicate the sign so that I can be competently confident when applying it in the real world to achieve a personal goal.
+3) As a user, I expect to be given instructions as guidance into the rules which is easily understood as 
+to how the game is to be played and the learning outcome of it to experience the benefit of utilising it.
 
-As a user, I want to be provided with a resourceful section consisting of content as a guiding reference point, that would easily be referred to, assist me when there is a moment of doubt and potentially demonstrate it by motion in reality.
+   - Client expectation of user stories met: PASSED. There is a modal as accessed through the homepage 
+   entitled as 'Instructions' which has provided a sense of emphasis in ensuring that clarity is conveyed 
+   to all users.
 
-As a user, when I am confident in the knowledge, I want to be able to enter my answer so that the experience feels like I am participating in the game.
+4) As a user, I want to comfortably be allowed to commence the game when I am prepared and it is suitably 
+convenient to proceed so I can perform this to the best of my ability.
 
-As a user, I want the game to determine whether my answer was correct or incorrect and that there is clear feedback that is complimentary and encouraging in a positive manner at any stage in the game.
+   - Client expectation of user stories met: PARTLY PASSED. It was with intention that a countdown timer 
+   be included to allow the time and space to initiate the game, but this has not been possible, however 
+   the ability still remains to providers users the convenience of activating when pressed 'Play Game'.
 
-As a user, I expect to have the opportunity to re-enter my answer when the previous suggestion is incorrect to help me acknowledge where I need to make improvement in my learning or memory matching abilities.
+5) As a user, when presented, I expect to see a clear image depicting an alphabet in BSL in sequence to 
+form a word and have the ability to replicate the sign so that I can be competently confident when 
+applying it in the real world to achieve a personal goal.
+   
+   - Client expectation of user stories met: PASSED. All series of images are depicted as clear and have 
+   been catered for every device ensuring that for mobile the clarity into the sign places a greater 
+   emphasis ahead of a desktop PC whereby the space allows for an enlarged size.
 
-As a user, I would like to visually view my score in the current game to gain confidence in the ability to learn so that I can assess my competency levels.
+6) As a user, I want to be provided with a resourceful section consisting of content as a guiding 
+reference point, that would easily be referred to, assist me when there is a moment of doubt and 
+potentially demonstrate it by motion in reality.
 
-As a user, I expect the game to provide a notification when the time is up so that I can acknowledge when my learning or memory matching opportunity has ceased.
+   - Client expectation of user stories met: PASSED. A resourceful section is positioned below where the 
+   main game is being played so as to provide a reference point to guide the users towards giving an 
+   answer.
 
-As a user, I expect the game to offer the option to restart, subsequent to the current play mode that has finished to allow me to continue my learning and make progress.
+7) As a user, when I am confident in the knowledge, I want to be able to enter my answer so that the 
+experience feels like I am participating in the game.
 
-As a user, I would like to access any further resources that would supplement or advance my learning, should I wish to dedicate a commitment in making a difference within a community.
+   - Client expectation of user stories met: PASSED. There exists a user input element which offers 
+   the opportunity for an answer to be provided, 
 
-As a user, I expect to be able to access contact details into the owner of the website, should I wish to reach out by raising queries, commend the game by providing feedback.
+8) As a user, I want the game to determine whether my answer was correct or incorrect and that there is 
+clear feedback that is complimentary and encouraging in a positive manner at any stage in the game.
 
-As a user, I would like to explore other projects that the developer has constructed to assess their range of technical skills and level of competency so that I can establish if it is of interest to me.
+   - Client expectation of user stories met: FAILED. The game does not provide the facility to 
+   determine by means of validating various answers so unfortunately has not been possible due to the 
+   complexity of JavaScript.
+
+9) As a user, I expect to have the opportunity to re-enter my answer when the previous suggestion is 
+incorrect to help me acknowledge where I need to make improvement in my learning or memory matching 
+abilities.
+
+   - Client expectation of user stories met: FAILED. The game does not provide the facility to allow the 
+   user to re-enter the answer in an attempt to try again so unfortunately has not been possible due to 
+   the complexity of JavaScript.
+
+10) As a user, I would like to visually view my score in the current game to gain confidence in the 
+ability to learn so that I can assess my competency levels.
+
+   - Client expectation of user stories met: FAILED. The game does not provide the facility to allow the 
+   user to visually view their score in the current game so unfortunately has not been possible due to the 
+   complexity of JavaScript.
+
+11) As a user, I expect the game to provide a notification when the time is up so that I can acknowledge 
+when my learning or memory matching opportunity has ceased.
+
+   - Client expectation of user stories met: FAILED. The game does not provide the facility to provide a 
+   notification when the time is up so unfortunately has not been possible due to the complexity of 
+   JavaScript.
+
+12) As a user, I expect the game to offer the option to restart, subsequent to the current play mode that 
+has finished to allow me to continue my learning and make progress.
+
+   - Client expectation of user stories met: PARTLY PASSED. The game does not provide the facility to 
+   provide the offer the option to retry another word, yet the potential has not been realised due to the 
+   complexity of JavaScript
+
+13) As a user, I would like to access any further resources that would supplement or advance my learning, 
+should I wish to dedicate a commitment in making a difference within a community.
+
+   - Client expectation of user stories met: PASSED. Further resources are provided within the website 
+   that enables education to be supplemented or advance the user's learning.
+
+14) As a user, I expect to be able to access contact details into the owner of the website, should I wish 
+to reach out by raising queries, commend the game by providing feedback.
+
+   - Client expectation of user stories met: PASSED. Contact details such as the developer's GitHub, 
+   LinkedIn and an opportunity to send a message directly to their email account is offered.
+
+15) As a user, I would like to explore other projects that the developer has constructed to assess their 
+range of technical skills and level of competency so that I can establish if it is of interest to me.
+
+   - Client expectation of user stories met: PASSED. This can be accessed via GitHub or LinkedIn.
+
+## General technical testing
+
+1) Tested that the hyperlinked logo on each internal webpage leads users to the homepage.
+
+2) Tested each navigational link items such as Home, BSL Game, Resources and Contact in a logical order & 
+thoroughly on every webpage to ensure it is functioning correctly i.e. that it is not broken; and 
+directing to the right webpage. Also when visiting a particular webpage, that the contrast colour within 
+the navigational link signifies the existing webpage that the user is browsing through for good UX.
+
+3) Tested the hamburger menu icon to ensure that the toggler functions and that each navigational link is 
+positioned exactly like the wireframe design.
+
+4) Tested the responsiveness of the website portfolio to ensure it reflects the design of the wireframe by 
+utilising Google Chrome's Dev Tools to establish if the structure is rendered correctly from devices at 
+mobile view in 320px scaling up to desktop PC view at a maximum of 1920px.
+
+5) Tested that once the 'Click to start!' icon has been selected, this generates a modal to be displayed 
+prior to activating and commencing the game.
+
+6) Tested whereby the 'Play Game' button has been pressed, a series of images will be displayed to form a 
+word.
+
+7) Tested that on the last of the series of images being displayed, a user input appears below that allows 
+an answer to be entered.
+
+8) Tested the 'Try again' button that allows users to attempt another word being pulled at random.
+
+9) Tested all fields within the Contact webpage whereby once clicked into the input area, it highlights 
+the specific data entry field to engage the user's attention what section is currently being filled in.
+
+10) Tested the Submit button within the Contact webpage whereby all fields remained blank with no inputs 
+to result in an error message conveying 'Please fill out this field' to validate all fields have been 
+inputted prior to submission.
+
+11) Tested that once the 'Submit my message' button has been clicked that the form resets and a validation 
+message appears to inform the user into either the success or failure in sending an email directly from 
+the project website.
+
+12) Tested icons related to Social Media whereby upon hovering each of the icons, it expands to give a 
+sense of engagement to lure the new/returning visitor into viewing my GitHub profile & projects, my 
+LinkedIn account if they wish to connect with me via a new and secure way of opening a new 
+tab and also the email icon if they wish to contact me.
+
+13) Executed the CSS coding via [Autoprefixer](https://autoprefixer.github.io/) whereby my original 
+stylesheet is copied and the Autoprefixer's code is pasted into style.css to ensure cross browser 
+compatibility in the styling of the website.
+
+14) Tested by utilising [Google's Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) 
+into the responsiveness of the website to ensure that as mobile phones are prominent in our daily lives 
+each webpage is rendered correctly to fit within these devices. The following webpages have been tested:-
+
+- [Homepage](https://search.google.com/test/mobile-friendly?id=plm8WGJi2qD-s67cs3WwKQ)
+
+- [BSL Game](https://search.google.com/test/mobile-friendly?id=Mbr4p7wW6MeiWGoAD-0VzA)
+
+- [Resources](https://search.google.com/test/mobile-friendly?id=-wa-Kml0ZdM5xNPB2-PH8A)
+
+- [Contact](https://search.google.com/test/mobile-friendly?id=xqywUxu1Vt7uYqJsXnrZiw)
+
+15) Tested the performance of the website via Google's Lighthouse for mobile devices 
+and the report suggested it was excellent as illustrated below:
+
+*Mobile*
+
+- [Homepage](assets/images/lighthouse-mobile-homepage.pdf)
+
+- [BSL Game](assets/images/lighthouse-mobile-bslgame.pdf)
+
+- [Resources](assets/images/lighthouse-mobile-resources.pdf)
+
+- [Contact](assets/images/lighthouse-mobile-contact.pdf)
+
+*Desktop*
+
+- [Homepage](assets/images/lighthouse-desktop-homepage.pdf)
+
+- [BSL Game](assets/images/lighthouse-desktop-bslgame.pdf)
+
+- [Resources](assets/images/lighthouse-desktop-resources.pdf)
+
+- [Contact](assets/images/lighthouse-desktop-contact.pdf)
+
+16) Utilised the website [Online-Spellcheck](https://www.online-spellcheck.com/) to ensure that spelling and grammar of the readme.md is correct.
+
+# Deployment
+
+This project has been deployed on GitHub Pages with the following process:
+
+* All code was written on Gitpod, an online IDE.
+* The code was then pushed to GitHub where it is stored in my Repository.
+* Under the settings section of the GitHub repository, scroll down to GitHub Pages section.
+* Under 'Source' drop-down, the 'Master branch' was selected.
+* Once selected, this publishes the project to GitHub Pages and displays the site's url.
+* There is no difference between the deployed version and the development version.
+* The code can be run locally through clone or download.
+* You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
+* The Clone option provides a url, which you can use on your desktop IDE.
+* The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
 
 # Credits
 
+## Code
+
+Some of the code was developed by the use of Bootstrap's library throughout the project for the purpose of 
+ensuring the responsiveness of the website such as the components such as the Navbar and Forms.
+https://getbootstrap.com/docs/5.0/components/navbar/#nav
+https://getbootstrap.com/docs/5.0/components/modal/#live-demo
+
+Some aspects of the code required the use into the resources of W3Schools to allow the developer to gain a 
+greater understanding as to how the code is constructed in CSS, especially in JavaScript such as:
+https://www.w3schools.com/howto/howto_css_modals.asp
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_addeventlistener_displaydate
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_visibility
+
+Also Stack Overflow has at times provided resources for some CSS & JavaScript codes such as:
+
+https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-and-vertically-inside-a-div-block
+https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array
+https://stackoverflow.com/questions/49836397/how-do-you-add-remove-hidden-in-p-hidden-with-javascript
+https://stackoverflow.com/questions/3583724/how-do-i-add-a-delay-in-a-javascript-loop/3583740#3583740
+
+A snippet of code has been extracted and improvised from codepen such as:
+
+https://codepen.io/bootstrapped/pen/yJqbPa
+
 ## Contents
 
-Context for the introduction into BSL was extracted from the [British Sign](https://www.british-sign.co.uk/) 
-website to ensure accurate representation and consistency of information.
+Context for the introduction into BSL was extracted from the 
+[British Sign](https://www.british-sign.co.uk/) website to ensure accurate representation and consistency 
+of information.
 
 ## Media
 
 The image logo to represent BSL had been obtained specifically via this webpage
 [Essex Local Offer](http://www.essexlocaloffer.org.uk/british-sign-language/).
 
-Also incorporated are a series of images which have been derived to be obtained 
-from, with grateful thanks to the Royal National Institute for Deaf (RNID).
+Also incorporated are a series of images which have been derived to be obtained from, with grateful thanks 
+to the Royal National Institute for Deaf People (RNID).
+
+## Acknowledgements
+
+* I cannot even begin to express my wholehearted gratitude to the Slack Community at the Code Institute 
+for their fabulous yet inspirational support in what has been a significantly challenging few months for 
+me personally in the duration of the development of this website, and I am forever grateful & in their 
+debt. There has been too many people to name but I wish to express my thanks to the tutors Igor, Jo, 
+Scott, Sheryl, Fatima and a couple of others who have helped guide me to solutions and also to my mentor 
+Marcel Mulders to guide me through my second, most challenging milestone project.
